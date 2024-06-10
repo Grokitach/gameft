@@ -1428,7 +1428,7 @@
       },
       {
         "templateId": "56e33634d2720bd8058b456b",
-        "count": 5,
+        "count": 1,
         "isFunctional": false,
         "isEncoded": false,
         "type": "Item"
@@ -1442,7 +1442,7 @@
       },
       {
         "templateId": "5c06779c86f77426e00dd782",
-        "count": 3,
+        "count": 4,
         "isFunctional": false,
         "isEncoded": false,
         "type": "Item"
@@ -1457,7 +1457,7 @@
     "locked": false,
     "endProduct": "5c12688486f77426843c7d32",
     "continuous": false,
-    "count": 1,
+    "count": 2,
     "productionLimitCount": 0,
     "isEncoded": false
   },
@@ -1903,7 +1903,7 @@
         "type": "Tool"
       },
       {
-        "templateId": "6389c7750ef44505c87f5996",
+        "templateId": "5e2aedd986f7746d404f3aa4",
         "count": 1,
         "isFunctional": false,
         "isEncoded": false,
@@ -1912,15 +1912,11 @@
       {
         "templateId": "6389c92d52123d5dd17f8876",
         "type": "Tool"
-      },
-      {
-        "questId": "63966fbeea19ac7ed845db2e",
-        "type": "QuestComplete"
       }
     ],
     "productionTime": 140000,
     "needFuelForAllProductionTime": false,
-    "locked": true,
+    "locked": false,
     "endProduct": "5c052f6886f7746b1e3db148",
     "continuous": false,
     "count": 1,
@@ -4695,7 +4691,7 @@
       },
       {
         "templateId": "5751487e245977207e26a315",
-        "count": 4,
+        "count": 3,
         "isFunctional": false,
         "isEncoded": false,
         "type": "Item"

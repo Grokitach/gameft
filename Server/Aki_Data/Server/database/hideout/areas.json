@@ -3415,7 +3415,7 @@
         "bonuses": [
           {
             "id": "6548ae1b0d23be12146d70ee",
-            "value": 0,
+            "value": 10,
             "passive": true,
             "production": false,
             "visible": true,
@@ -3527,7 +3527,7 @@
         "bonuses": [
           {
             "id": "6548ae2c84d9162bba1fbb04",
-            "value": 0,
+            "value": 20,
             "passive": true,
             "production": false,
             "visible": true,
@@ -3632,7 +3632,7 @@
         "bonuses": [
           {
             "id": "6548ad85d520b562b66d65d9",
-            "value": 0,
+            "value": 30,
             "passive": true,
             "production": false,
             "visible": true,
@@ -3713,7 +3713,7 @@
           },
           {
             "templateId": "5696686a4bdc2da3298b456a",
-            "count": 25000,
+            "count": 10000,
             "isFunctional": false,
             "isEncoded": false,
             "type": "Item"
@@ -3752,7 +3752,7 @@
             "passive": false,
             "production": true,
             "visible": true,
-            "skillType": "Physical",
+            "skillType": "Combat",
             "type": "SkillGroupLevelingBoost"
           },
           {

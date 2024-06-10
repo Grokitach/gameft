@@ -10,7 +10,7 @@
           "x": 0.5,
           "y": 0.25
         },
-        "speed": 2,
+        "speed": 1,
         "successRange": {
           "x": 0.45,
           "y": 0.1
@@ -25,10 +25,10 @@
           "x": 0.5,
           "y": 0.25
         },
-        "speed": 2.5,
+        "speed": 2,
         "successRange": {
-          "x": 0.4,
-          "y": 0.095
+          "x": 0.45,
+          "y": 0.1
         },
         "key": "Mouse0",
         "startDelay": 0.8,
@@ -55,40 +55,10 @@
           "x": 0.5,
           "y": 0.25
         },
-        "speed": 2.5,
-        "successRange": {
-          "x": 0.3,
-          "y": 0.08
-        },
-        "key": "Mouse0",
-        "startDelay": 0.8,
-        "endDelay": 0.2
-      },
-      {
-        "type": "ShrinkingCircle",
-        "position": {
-          "x": 0.5,
-          "y": 0.25
-        },
-        "speed": 2.5,
-        "successRange": {
-          "x": 0.25,
-          "y": 0.075
-        },
-        "key": "Mouse0",
-        "startDelay": 0.8,
-        "endDelay": 0.2
-      },
-      {
-        "type": "ShrinkingCircle",
-        "position": {
-          "x": 0.5,
-          "y": 0.25
-        },
         "speed": 3,
         "successRange": {
-          "x": 0.2,
-          "y": 0.07
+          "x": 0.35,
+          "y": 0.085
         },
         "key": "Mouse0",
         "startDelay": 0.8,
@@ -117,23 +87,8 @@
         },
         "speed": 3.5,
         "successRange": {
-          "x": 0.12,
-          "y": 0.06
-        },
-        "key": "Mouse0",
-        "startDelay": 0.8,
-        "endDelay": 0.2
-      },
-      {
-        "type": "ShrinkingCircle",
-        "position": {
-          "x": 0.5,
-          "y": 0.25
-        },
-        "speed": 3.5,
-        "successRange": {
-          "x": 0.12,
-          "y": 0.05
+          "x": 0.15,
+          "y": 0.065
         },
         "key": "Mouse0",
         "startDelay": 0.8,
@@ -146,21 +101,6 @@
           "y": 0.25
         },
         "speed": 4,
-        "successRange": {
-          "x": 0.1,
-          "y": 0.045
-        },
-        "key": "Mouse0",
-        "startDelay": 0.8,
-        "endDelay": 0.2
-      },
-      {
-        "type": "ShrinkingCircle",
-        "position": {
-          "x": 0.5,
-          "y": 0.25
-        },
-        "speed": 4.5,
         "successRange": {
           "x": 0.1,
           "y": 0.04
@@ -177,53 +117,8 @@
         },
         "speed": 5,
         "successRange": {
-          "x": 0.1,
-          "y": 0.035
-        },
-        "key": "Mouse0",
-        "startDelay": 0.8,
-        "endDelay": 0.2
-      },
-      {
-        "type": "ShrinkingCircle",
-        "position": {
-          "x": 0.5,
-          "y": 0.25
-        },
-        "speed": 5.5,
-        "successRange": {
           "x": 0,
           "y": 0.03
-        },
-        "key": "Mouse0",
-        "startDelay": 0.8,
-        "endDelay": 0.2
-      },
-      {
-        "type": "ShrinkingCircle",
-        "position": {
-          "x": 0.5,
-          "y": 0.25
-        },
-        "speed": 6,
-        "successRange": {
-          "x": 0,
-          "y": 0.02
-        },
-        "key": "Mouse0",
-        "startDelay": 0.8,
-        "endDelay": 0.2
-      },
-      {
-        "type": "ShrinkingCircle",
-        "position": {
-          "x": 0.5,
-          "y": 0.25
-        },
-        "speed": 6,
-        "successRange": {
-          "x": 0,
-          "y": 0.01
         },
         "key": "Mouse0",
         "startDelay": 0.8,
@@ -257,14 +152,14 @@
           {
             "weight": 1,
             "result": "Exit",
-            "time": 86400,
+            "time": 12400,
             "type": "MusclePain"
           }
         ]
       },
       "singleSuccessEffect": {
-        "energy": -2,
-        "hydration": -2,
+        "energy": -3,
+        "hydration": -3,
         "rewardsRange": [
           {
             "weight": 1,
@@ -277,11 +172,71 @@
               },
               {
                 "level": 10,
-                "multiplier": 2.5
+                "multiplier": 3
               },
               {
                 "level": 25,
-                "multiplier": 2
+                "multiplier": 3
+              }
+            ],
+            "type": "Skill"
+          },
+          {
+            "weight": 1,
+            "result": "None",
+            "skillId": "Endurance",
+            "levelMultipliers": [
+              {
+                "level": 0,
+                "multiplier": 3
+              },
+              {
+                "level": 10,
+                "multiplier": 3
+              },
+              {
+                "level": 25,
+                "multiplier": 3
+              }
+            ],
+            "type": "Skill"
+          },
+          {
+            "weight": 1,
+            "result": "None",
+            "skillId": "Endurance",
+            "levelMultipliers": [
+              {
+                "level": 0,
+                "multiplier": 3
+              },
+              {
+                "level": 10,
+                "multiplier": 3
+              },
+              {
+                "level": 25,
+                "multiplier": 3
+              }
+            ],
+            "type": "Skill"
+          },
+          {
+            "weight": 1,
+            "result": "None",
+            "skillId": "Endurance",
+            "levelMultipliers": [
+              {
+                "level": 0,
+                "multiplier": 3
+              },
+              {
+                "level": 10,
+                "multiplier": 3
+              },
+              {
+                "level": 25,
+                "multiplier": 3
               }
             ],
             "type": "Skill"
@@ -297,11 +252,111 @@
               },
               {
                 "level": 10,
+                "multiplier": 3
+              },
+              {
+                "level": 25,
+                "multiplier": 3
+              }
+            ],
+            "type": "Skill"
+          },
+          {
+            "weight": 1,
+            "result": "None",
+            "skillId": "Strength",
+            "levelMultipliers": [
+              {
+                "level": 0,
+                "multiplier": 3
+              },
+              {
+                "level": 10,
+                "multiplier": 3
+              },
+              {
+                "level": 25,
+                "multiplier": 3
+              }
+            ],
+            "type": "Skill"
+          },
+          {
+            "weight": 1,
+            "result": "None",
+            "skillId": "Strength",
+            "levelMultipliers": [
+              {
+                "level": 0,
+                "multiplier": 3
+              },
+              {
+                "level": 10,
+                "multiplier": 3
+              },
+              {
+                "level": 25,
+                "multiplier": 3
+              }
+            ],
+            "type": "Skill"
+          },
+          {
+            "weight": 1,
+            "result": "None",
+            "skillId": "Strength",
+            "levelMultipliers": [
+              {
+                "level": 0,
+                "multiplier": 3
+              },
+              {
+                "level": 10,
+                "multiplier": 3
+              },
+              {
+                "level": 25,
+                "multiplier": 3
+              }
+            ],
+            "type": "Skill"
+          },
+          {
+            "weight": 1,
+            "result": "None",
+            "skillId": "Health",
+            "levelMultipliers": [
+              {
+                "level": 0,
+                "multiplier": 1.5
+              },
+              {
+                "level": 10,
+                "multiplier": 1.5
+              },
+              {
+                "level": 25,
+                "multiplier": 1.5
+              }
+            ],
+            "type": "Skill"
+          },
+          {
+            "weight": 1,
+            "result": "None",
+            "skillId": "Vitality",
+            "levelMultipliers": [
+              {
+                "level": 0,
+                "multiplier": 2.5
+              },
+              {
+                "level": 10,
                 "multiplier": 2.5
               },
               {
                 "level": 25,
-                "multiplier": 2
+                "multiplier": 2.5
               }
             ],
             "type": "Skill"
@@ -309,8 +364,8 @@
         ]
       },
       "singleFailEffect": {
-        "energy": -4,
-        "hydration": -4,
+        "energy": -12,
+        "hydration": -12,
         "rewardsRange": [
           {
             "weight": 1,
