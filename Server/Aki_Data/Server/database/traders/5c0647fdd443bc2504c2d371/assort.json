@@ -326,6 +326,36 @@
       }
     },
     {
+      "_id": "jaeger_ushanka",
+      "_tpl": "59e7708286f7742cbd762753",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 9999999
+      }
+    },
+    {
+      "_id": "jaeger_key_cottage",
+      "_tpl": "5a0eb6ac86f7743124037a28",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 43455
+      }
+    },
+    {
+      "_id": "jaeger_key_gas",
+      "_tpl": "5913877a86f774432f15d444",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 43455
+      }
+    },
+    {
       "_id": "65cb821a7e8e8aec5b0871bc",
       "_tpl": "56dee2bdd2720bc8328b4567",
       "parentId": "hideout",
@@ -4761,8 +4791,48 @@
     "65cb821a7e8e8aec5b0871ba": [
       [
         {
-          "count": 1,
+          "count": 9200,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "jaeger_ushanka": [
+      [
+        {
+          "count": 8750,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "jaeger_key_cottage": [
+      [
+        {
+          "count": 4,
+          "_tpl": "5734773724597737fd047c14"
+        },
+        {
+          "count": 2,
+          "_tpl": "57513f07245977207e26a311"
+        },
+        {
+          "count": 4,
+          "_tpl": "5bc9c29cd4351e003562b8a3"
+        }
+      ]
+    ],
+    "jaeger_key_gas": [
+      [
+        {
+          "count": 3,
+          "_tpl": "5bc9c29cd4351e003562b8a3"
+        },
+        {
+          "count": 2,
           "_tpl": "544fb6cc4bdc2d34748b456e"
+        },
+        {
+          "count": 1,
+          "_tpl": "5e8f3423fd7471236e6e3b64"
         }
       ]
     ],
@@ -7235,6 +7305,8 @@
     "65cb821a7e8e8aec5b0871b4": 1,
     "65cb821a7e8e8aec5b0871b7": 1,
     "65cb821a7e8e8aec5b0871ba": 1,
+    "jaeger_ushanka": 1,
+    "jaeger_key_cottage": 2,
     "65cb821a7e8e8aec5b0871bc": 2,
     "65cb821a7e8e8aec5b0871c3": 3,
     "65cb821a7e8e8aec5b0871c6": 3,
@@ -7519,6 +7591,7 @@
     "65cb82237e8e8aec5b0875b1": 2,
     "6492e44af4287b13040fc8cd": 4,
     "6492e44bf4287b13040fcce5": 4,
-    "6492e44bf4287b13040fcd1e": 1
+    "6492e44bf4287b13040fcd1e": 1,
+    "jaeger_key_gas": 1
   }
 }

@@ -59,6 +59,61 @@
       }
     },
     {
+      "_id": "ragman_raybench",
+      "_tpl": "5aa2b9aee5b5b00015693121",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 4573,
+        "BuyRestrictionMax": 3,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "ragman_bomber",
+      "_tpl": "60bf74184a63fc79b60c57f6",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 4573,
+        "BuyRestrictionMax": 3,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "ragman_round_glasses",
+      "_tpl": "5aa2b923e5b5b000137b7589",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 4573,
+        "BuyRestrictionMax": 3,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "ragman_rival_glasses",
+      "_tpl": "5e71f70186f77429ee09f183",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 4573,
+        "BuyRestrictionMax": 3,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "ragman_welding_glasses",
+      "_tpl": "61c18d83b00456371a66814b",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 4573,
+        "BuyRestrictionMax": 3,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
       "_id": "65cb81db321bfcd99d00f59d",
       "_tpl": "6570e83223c1f638ef0b0ede",
       "parentId": "65cb81db321bfcd99d00f59c",
@@ -3263,6 +3318,46 @@
         }
       ]
     ],
+    "ragman_raybench": [
+      [
+        {
+          "count": 8974,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "ragman_bomber": [
+      [
+        {
+          "count": 12329,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "ragman_round_glasses": [
+      [
+        {
+          "count": 4559,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "ragman_rival_glasses": [
+      [
+        {
+          "count": 10629,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "ragman_welding_glasses": [
+      [
+        {
+          "count": 14279,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
     "65cb81dc321bfcd99d00f5d1": [
       [
         {
@@ -4492,7 +4587,7 @@
     "65cb81db321bfcd99d00f5ad": 3,
     "65cb81dc321bfcd99d00f5b3": 1,
     "65cb81dc321bfcd99d00f5b6": 2,
-    "65cb81dc321bfcd99d00f5bc": 4,
+    "65cb81dc321bfcd99d00f5bc": 3,
     "65cb81dc321bfcd99d00f5c2": 3,
     "65cb81dc321bfcd99d00f5c5": 1,
     "65cb81dc321bfcd99d00f5cb": 1,
@@ -4517,7 +4612,7 @@
     "65cb81dc321bfcd99d00f641": 4,
     "65cb81dc321bfcd99d00f650": 2,
     "65cb81dc321bfcd99d00f65b": 2,
-    "65cb81dc321bfcd99d00f65e": 4,
+    "65cb81dc321bfcd99d00f65e": 3,
     "65cb81dd321bfcd99d00f661": 1,
     "65cb81dd321bfcd99d00f664": 1,
     "65cb81dd321bfcd99d00f66a": 4,
@@ -4560,7 +4655,7 @@
     "65cb81de321bfcd99d00f761": 4,
     "65cb81de321bfcd99d00f76e": 2,
     "65cb81de321bfcd99d00f77c": 1,
-    "65cb81de321bfcd99d00f783": 4,
+    "65cb81de321bfcd99d00f783": 3,
     "65cb81de321bfcd99d00f786": 3,
     "65cb81de321bfcd99d00f789": 1,
     "65cb81de321bfcd99d00f78c": 1,
@@ -4631,7 +4726,7 @@
     "65cb81e0321bfcd99d00f935": 1,
     "65cb81e0321bfcd99d00f938": 3,
     "65cb81e0321bfcd99d00f93b": 3,
-    "65cb81e0321bfcd99d00f941": 3,
+    "65cb81e0321bfcd99d00f941": 4,
     "65cb81e0321bfcd99d00f947": 2,
     "65cb81e0321bfcd99d00f94a": 4,
     "65cb81e0321bfcd99d00f94d": 4,
@@ -4644,6 +4739,11 @@
     "65ba7538bf3fc35a9a09fda8": 4,
     "65a5422f95d8356d8e0d80fd": 4,
     "65a5422f95d8356d8e0d7974": 4,
-    "65a5422f95d8356d8e0d7a73": 4
+    "65a5422f95d8356d8e0d7a73": 4,
+    "ragman_raybench": 2,
+    "ragman_bomber": 2,
+    "ragman_round_glasses": 2,
+    "ragman_rival_glasses": 2,
+    "ragman_welding_glasses": 2
   }
 }

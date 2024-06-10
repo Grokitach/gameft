@@ -2630,7 +2630,7 @@
       "slotId": "hideout",
       "upd": {
         "StackObjectsCount": 11956,
-        "BuyRestrictionMax": 8,
+        "BuyRestrictionMax": "8",
         "BuyRestrictionCurrent": 0
       }
     },
@@ -4567,7 +4567,7 @@
       "slotId": "hideout",
       "upd": {
         "StackObjectsCount": 5962,
-        "BuyRestrictionMax": 4,
+        "BuyRestrictionMax": "4",
         "BuyRestrictionCurrent": 0
       }
     },
@@ -9049,6 +9049,46 @@
       }
     },
     {
+      "_id": "mechanic_key_water",
+      "_tpl": "62987e26a77ec735f90a2995",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 200000,
+        "BuyRestrictionMax": 1
+      }
+    },
+    {
+      "_id": "mechanic_key_radar",
+      "_tpl": "62987c658081af308d7558c6",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 200000,
+        "BuyRestrictionMax": 1
+      }
+    },
+    {
+      "_id": "mechanic_key_operating",
+      "_tpl": "62987da96188c076bc0d8c51",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 200000,
+        "BuyRestrictionMax": 1
+      }
+    },
+    {
+      "_id": "mechanic_key_rogue_barrack",
+      "_tpl": "62a9cb937377a65d7b070cef",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 200000,
+        "BuyRestrictionMax": 1
+      }
+    },
+    {
       "_id": "64a2e6f09b9ad2b93b0cab9f",
       "_tpl": "5ede475b549eed7c6d5c18fb",
       "parentId": "hideout",
@@ -13400,6 +13440,55 @@
         }
       ]
     ],
+    
+    "mechanic_key_water": [
+      [
+        {
+          "count": 5,
+          "_tpl": "61bf7b6302b3924be92fa8c3"
+        },
+        {
+          "count": 3,
+          "_tpl": "5d40425986f7743185265461"
+        }
+      ]
+    ],
+    "mechanic_key_radar": [
+      [
+        {
+          "count": 4,
+          "_tpl": "573477e124597737dd42e191"
+        },
+        {
+          "count": 4,
+          "_tpl": "590a3b0486f7743954552bdb"
+        }
+      ]
+    ],
+    "mechanic_key_operating": [
+      [
+        {
+          "count": 5,
+          "_tpl": "573475fb24597737fb1379e1"
+        },
+        {
+          "count": 4,
+          "_tpl": "57347c77245977448d35f6e2"
+        }
+      ]
+    ],
+    "mechanic_key_rogue_barrack": [
+      [
+        {
+          "count": 3,
+          "_tpl": "5d1b385e86f774252167b98a"
+        },
+        {
+          "count": 1,
+          "_tpl": "619cbf476b8a1b37a54eebf8"
+        }
+      ]
+    ],
     "64a2e6f09b9ad2b93b0cab9f": [
       [
         {
@@ -13927,6 +14016,10 @@
     "64a2e6f09b9ad2b93b0cab9c": 1,
     "64a2e6f09b9ad2b93b0cab9d": 1,
     "64a2e6f09b9ad2b93b0cab9e": 1,
+    "mechanic_key_water": 2,
+    "mechanic_key_radar": 2,
+    "mechanic_key_operating": 2,
+    "mechanic_key_rogue_barrack": 2,
     "64a2e6f09b9ad2b93b0cab9f": 1
   }
 }

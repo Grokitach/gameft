@@ -21544,7 +21544,7 @@
           "visibilityConditions": []
         },
         {
-          "availableAfter": 75600,
+          "availableAfter": 0,
           "conditionType": "Quest",
           "dispersion": 0,
           "dynamicLocale": false,
@@ -26665,7 +26665,7 @@
           "visibilityConditions": []
         },
         {
-          "availableAfter": 75600,
+          "availableAfter": 0,
           "conditionType": "Quest",
           "dispersion": 0,
           "dynamicLocale": false,
@@ -29008,11 +29008,11 @@
           "minDurability": 0,
           "onlyFoundInRaid": false,
           "parentId": "",
-          "plantTime": 20,
+          "plantTime": 10,
           "target": [
             "5734758f24597738025ee253"
           ],
-          "value": 3,
+          "value": 1,
           "visibilityConditions": [],
           "zoneId": "place_skier_12_1"
         },
@@ -29028,11 +29028,11 @@
           "minDurability": 0,
           "onlyFoundInRaid": false,
           "parentId": "",
-          "plantTime": 20,
+          "plantTime": 10,
           "target": [
             "5734758f24597738025ee253"
           ],
-          "value": 3,
+          "value": 1,
           "visibilityConditions": [],
           "zoneId": "place_skier_12_2"
         },
@@ -29048,11 +29048,11 @@
           "minDurability": 0,
           "onlyFoundInRaid": false,
           "parentId": "",
-          "plantTime": 20,
+          "plantTime": 10,
           "target": [
             "5734758f24597738025ee253"
           ],
-          "value": 3,
+          "value": 1,
           "visibilityConditions": [],
           "zoneId": "place_skier_12_3"
         },
@@ -37356,7 +37356,7 @@
           "oneSessionOnly": false,
           "parentId": "",
           "type": "Elimination",
-          "value": 15,
+          "value": 4,
           "visibilityConditions": []
         }
       ],
@@ -50156,9 +50156,25 @@
           "traderId": "5935c25fb3acc3127c3d8cd9",
           "type": "AssortmentUnlock"
         },
+        
+        
+        {
+          "id": "peacekeeper_exfil_coyote_quest",
+          "index": 6,
+          "items": [
+            {
+              "_id": "peacekeeper_exfil_coyote_quest_reward",
+              "_tpl": "5e01ef6886f77445f643baa4"
+            }
+          ],
+          "loyaltyLevel": 4,
+          "target": "peacekeeper_exfil_coyote_quest_reward",
+          "traderId": "5935c25fb3acc3127c3d8cd9",
+          "type": "AssortmentUnlock"
+        },
         {
           "id": "60cc73f6f09d61072d6d00b6",
-          "index": 6,
+          "index": 7,
           "target": "5935c25fb3acc3127c3d8cd9",
           "type": "TraderStanding",
           "value": "0.04"
@@ -62484,21 +62500,6 @@
           "dispersion": 0,
           "dynamicLocale": false,
           "globalQuestCounterId": "",
-          "id": "63a828ce1f06d111271f5b02",
-          "index": 5,
-          "parentId": "",
-          "status": [
-            4
-          ],
-          "target": "5c1141f386f77430ff393792",
-          "visibilityConditions": []
-        },
-        {
-          "availableAfter": 0,
-          "conditionType": "Quest",
-          "dispersion": 0,
-          "dynamicLocale": false,
-          "globalQuestCounterId": "",
           "id": "63a828da9c01847a6d21f895",
           "index": 6,
           "parentId": "",
@@ -62506,36 +62507,6 @@
             4
           ],
           "target": "5c10f94386f774227172c572",
-          "visibilityConditions": []
-        },
-        {
-          "availableAfter": 0,
-          "conditionType": "Quest",
-          "dispersion": 0,
-          "dynamicLocale": false,
-          "globalQuestCounterId": "",
-          "id": "63a828ed10b7a13eb015964d",
-          "index": 8,
-          "parentId": "",
-          "status": [
-            4
-          ],
-          "target": "5bc4856986f77454c317bea7",
-          "visibilityConditions": []
-        },
-        {
-          "availableAfter": 0,
-          "conditionType": "Quest",
-          "dispersion": 0,
-          "dynamicLocale": false,
-          "globalQuestCounterId": "",
-          "id": "63a828f81943b749b5021f80",
-          "index": 9,
-          "parentId": "",
-          "status": [
-            4
-          ],
-          "target": "5ae3280386f7742a41359364",
           "visibilityConditions": []
         },
         {
@@ -62565,7 +62536,7 @@
           "status": [
             4
           ],
-          "target": "5c0d1c4cd0928202a02a6f5c",
+          "target": "5c0be5fc86f774467a116593",
           "visibilityConditions": []
         },
         {
@@ -62593,21 +62564,6 @@
           "parentId": "",
           "target": "579dc571d53a0658a154fbec",
           "value": 2,
-          "visibilityConditions": []
-        },
-        {
-          "availableAfter": 0,
-          "conditionType": "Quest",
-          "dispersion": 0,
-          "dynamicLocale": false,
-          "globalQuestCounterId": "",
-          "id": "63c91d35f33b005f1a03444c",
-          "index": 14,
-          "parentId": "",
-          "status": [
-            4
-          ],
-          "target": "5d25e2cc86f77443e47ae019",
           "visibilityConditions": []
         }
       ],
@@ -62721,9 +62677,9 @@
       ],
       "AvailableForStart": [
         {
-          "availableAfter": 3600,
+          "availableAfter": 0,
           "conditionType": "Quest",
-          "dispersion": 28800,
+          "dispersion": 0,
           "dynamicLocale": false,
           "globalQuestCounterId": "",
           "id": "6391e25b86e646067c176a91",
@@ -63365,7 +63321,7 @@
       ],
       "AvailableForStart": [
         {
-          "availableAfter": 86400,
+          "availableAfter": 0,
           "conditionType": "Quest",
           "dispersion": 0,
           "dynamicLocale": false,
@@ -63497,7 +63453,7 @@
       ],
       "AvailableForStart": [
         {
-          "availableAfter": 86400,
+          "availableAfter": 0,
           "conditionType": "Quest",
           "dispersion": 0,
           "dynamicLocale": false,
@@ -64466,9 +64422,9 @@
           "visibilityConditions": []
         },
         {
-          "availableAfter": 75600,
+          "availableAfter": 0,
           "conditionType": "Quest",
-          "dispersion": 3600,
+          "dispersion": 0,
           "dynamicLocale": false,
           "globalQuestCounterId": "",
           "id": "63a4512522ea2f0785180f17",
@@ -69789,7 +69745,7 @@
       ],
       "AvailableForStart": [
         {
-          "availableAfter": 5,
+          "availableAfter": 0,
           "conditionType": "Quest",
           "dispersion": 0,
           "dynamicLocale": false,
@@ -69960,7 +69916,7 @@
       ],
       "AvailableForStart": [
         {
-          "availableAfter": 36000,
+          "availableAfter": 0,
           "conditionType": "Quest",
           "dispersion": 0,
           "dynamicLocale": false,
@@ -70209,7 +70165,7 @@
       ],
       "AvailableForStart": [
         {
-          "availableAfter": 36000,
+          "availableAfter": 0,
           "conditionType": "Quest",
           "dispersion": 0,
           "dynamicLocale": false,
@@ -70491,7 +70447,7 @@
       ],
       "AvailableForStart": [
         {
-          "availableAfter": 36000,
+          "availableAfter": 0,
           "conditionType": "Quest",
           "dispersion": 0,
           "dynamicLocale": false,
@@ -70741,7 +70697,7 @@
       ],
       "AvailableForStart": [
         {
-          "availableAfter": 36000,
+          "availableAfter": 0,
           "conditionType": "Quest",
           "dispersion": 0,
           "dynamicLocale": false,
@@ -71019,7 +70975,7 @@
       ],
       "AvailableForStart": [
         {
-          "availableAfter": 36000,
+          "availableAfter": 0,
           "conditionType": "Quest",
           "dispersion": 0,
           "dynamicLocale": false,
@@ -71280,7 +71236,7 @@
       ],
       "AvailableForStart": [
         {
-          "availableAfter": 36000,
+          "availableAfter": 0,
           "conditionType": "Quest",
           "dispersion": 0,
           "dynamicLocale": false,
@@ -71522,7 +71478,7 @@
       ],
       "AvailableForStart": [
         {
-          "availableAfter": 36000,
+          "availableAfter": 0,
           "conditionType": "Quest",
           "dispersion": 0,
           "dynamicLocale": false,
@@ -71677,7 +71633,7 @@
       ],
       "AvailableForStart": [
         {
-          "availableAfter": 36000,
+          "availableAfter": 0,
           "conditionType": "Quest",
           "dispersion": 0,
           "dynamicLocale": false,
@@ -71951,7 +71907,7 @@
       ],
       "AvailableForStart": [
         {
-          "availableAfter": 36000,
+          "availableAfter": 0,
           "conditionType": "Quest",
           "dispersion": 0,
           "dynamicLocale": false,
@@ -72543,7 +72499,7 @@
           "visibilityConditions": []
         },
         {
-          "availableAfter": 75600,
+          "availableAfter": 0,
           "conditionType": "Quest",
           "dispersion": 0,
           "dynamicLocale": false,
@@ -73120,7 +73076,7 @@
           "visibilityConditions": []
         },
         {
-          "availableAfter": 75600,
+          "availableAfter": 0,
           "conditionType": "Quest",
           "dispersion": 0,
           "dynamicLocale": false,
@@ -73327,7 +73283,7 @@
           "visibilityConditions": []
         },
         {
-          "availableAfter": 75600,
+          "availableAfter": 0,
           "conditionType": "Quest",
           "dispersion": 0,
           "dynamicLocale": false,
@@ -79426,9 +79382,9 @@
       ],
       "AvailableForStart": [
         {
-          "availableAfter": 7200,
+          "availableAfter": 0,
           "conditionType": "Quest",
-          "dispersion": 500,
+          "dispersion": 0,
           "dynamicLocale": false,
           "globalQuestCounterId": "",
           "id": "64f8cda97d39ff0e7624ce2c",
@@ -79915,7 +79871,7 @@
       ],
       "AvailableForStart": [
         {
-          "availableAfter": 36000,
+          "availableAfter": 0,
           "conditionType": "Quest",
           "dispersion": 0,
           "dynamicLocale": false,
@@ -81411,9 +81367,9 @@
       ],
       "AvailableForStart": [
         {
-          "availableAfter": 75600,
+          "availableAfter": 0,
           "conditionType": "Quest",
-          "dispersion": 7200,
+          "dispersion": 0,
           "dynamicLocale": false,
           "globalQuestCounterId": "",
           "id": "64f8d063c8626c7d46040667",
@@ -81591,9 +81547,9 @@
       ],
       "AvailableForStart": [
         {
-          "availableAfter": 75600,
+          "availableAfter": 0,
           "conditionType": "Quest",
-          "dispersion": 7200,
+          "dispersion": 0,
           "dynamicLocale": false,
           "globalQuestCounterId": "",
           "id": "64f8cfada9c59f365c4eaeea",
@@ -81803,9 +81759,9 @@
       ],
       "AvailableForStart": [
         {
-          "availableAfter": 75600,
+          "availableAfter": 0,
           "conditionType": "Quest",
-          "dispersion": 7200,
+          "dispersion": 0,
           "dynamicLocale": false,
           "globalQuestCounterId": "",
           "id": "64f8cf4e57e97a762372082f",

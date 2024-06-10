@@ -870,6 +870,160 @@
       }
     },
     {
+      "_id": "therapist_bake_book",
+      "_tpl": "62a09e73af34e73a266d932a",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 19995,
+        "BuyRestrictionMax": 1,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "therapist_key_unknown",
+      "_tpl": "593962ca86f774068014d9af",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 19995,
+        "BuyRestrictionMax": 1,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "therapist_key_d114",
+      "_tpl": "59387a4986f77401cc236e62",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 19995,
+        "BuyRestrictionMax": 1,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "therapist_key_d206",
+      "_tpl": "5938603e86f77435642354f4",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 19995,
+        "BuyRestrictionMax": 1,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "therapist_key_d203",
+      "_tpl": "5938504186f7740991483f30",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 19995,
+        "BuyRestrictionMax": 1,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "therapist_key_d214",
+      "_tpl": "5780cf942459777df90dcb72",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 19995,
+        "BuyRestrictionMax": 1,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "therapist_key_d220",
+      "_tpl": "5780cfa52459777dfb276eb1",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 19995,
+        "BuyRestrictionMax": 1,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "therapist_key_d303",
+      "_tpl": "593aa4be86f77457f56379f8",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 19995,
+        "BuyRestrictionMax": 1,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "therapist_key_d314",
+      "_tpl": "5780cf7f2459777de4559322",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 19995,
+        "BuyRestrictionMax": 1,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "therapist_key_machinery",
+      "_tpl": "5937ee6486f77408994ba448",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 19995,
+        "BuyRestrictionMax": 1,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "therapist_key_bunkhouse",
+      "_tpl": "5938144586f77473c2087145",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 19995,
+        "BuyRestrictionMax": 1,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "therapist_key_trailer",
+      "_tpl": "5913611c86f77479e0084092",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 19995,
+        "BuyRestrictionMax": 1,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "therapist_key_emercom",
+      "_tpl": "5ad5db3786f7743568421cce",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 19995,
+        "BuyRestrictionMax": 1,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "therapist_key_xray",
+      "_tpl": "64ccc246ff54fb38131acf29",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 19995,
+        "BuyRestrictionMax": 1,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
       "_id": "65cb82587e8e8aec5b088e5d",
       "_tpl": "5780cfa52459777dfb276eb1",
       "parentId": "hideout",
@@ -1102,15 +1256,15 @@
     "65cb82567e8e8aec5b088db5": [
       [
         {
-          "count": 10,
+          "count": 8,
           "_tpl": "59e361e886f774176c10a2a5"
         },
         {
-          "count": 10,
+          "count": 3,
           "_tpl": "59e3606886f77417674759a5"
         },
         {
-          "count": 10,
+          "count": 3,
           "_tpl": "5e2af02c86f7746d420957d4"
         }
       ]
@@ -1623,6 +1777,14 @@
         }
       ]
     ],
+    "therapist_bake_book": [
+      [
+        {
+          "count": 205010,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
     "65cb82577e8e8aec5b088e4b": [
       [
         {
@@ -1686,8 +1848,164 @@
     "65cb82587e8e8aec5b088e5a": [
       [
         {
-          "count": 5,
+          "count": 1,
+          "_tpl": "57513fcc24597720a31c09a6"
+        },
+        {
+          "count": 1,
+          "_tpl": "575146b724597720a27126d5"
+        },
+        {
+          "count": 1,
+          "_tpl": "5c13cef886f774072e618e82"
+        }
+      ]
+    ],
+    "therapist_key_unknown": [
+      [
+        {
+          "count": 4,
+          "_tpl": "5672cb304bdc2dc2088b456a"
+        },
+        {
+          "count": 4,
+          "_tpl": "5672cb124bdc2d1a0f8b4568"
+        }
+      ]
+    ],
+    "therapist_key_d114": [
+      [
+        {
+          "count": 2,
+          "_tpl": "5e2aef7986f7746d3f3c33f5"
+        },
+        {
+          "count": 3,
+          "_tpl": "59e361e886f774176c10a2a5"
+        }
+      ]
+    ],    
+    "therapist_key_d206": [
+      [
+        {
+          "count": 1,
+          "_tpl": "544fb3f34bdc2d03748b456a"
+        },
+        {
+          "count": 1,
+          "_tpl": "5d40425986f7743185265461"
+        }
+      ]
+    ],    
+    "therapist_key_d203": [
+      [
+        {
+          "count": 1,
+          "_tpl": "59e3596386f774176c10a2a2"
+        },
+        {
+          "count": 3,
+          "_tpl": "56742c2e4bdc2d95058b456d"
+        }
+      ]
+    ],
+    "therapist_key_d214": [
+      [
+        {
+          "count": 1,
+          "_tpl": "59faf98186f774067b6be103"
+        },
+        {
+          "count": 3,
+          "_tpl": "619cc01e0a7c3a1a2731940c"
+        }
+      ]
+    ],
+    "therapist_key_d220": [
+      [
+        {
+          "count": 1,
+          "_tpl": "59e3556c86f7741776641ac2"
+        },
+        {
+          "count": 2,
+          "_tpl": "5c13cef886f774072e618e82"
+        }
+      ]
+    ],
+    "therapist_key_d303": [
+      [
+        {
+          "count": 2,
+          "_tpl": "62a09ee4cf4a99369e262453"
+        },
+        {
+          "count": 2,
+          "_tpl": "60098b1705871270cd5352a1"
+        }
+      ]
+    ],
+    "therapist_key_d314": [
+      [
+        {
+          "count": 1,
+          "_tpl": "62a091170b9d3c46de5b6cf2"
+        },
+        {
+          "count": 2,
+          "_tpl": "590c37d286f77443be3d7827"
+        }
+      ]
+    ],
+    "therapist_key_machinery": [
+      [
+        {
+          "count": 2,
+          "_tpl": "5734773724597737fd047c14"
+        },
+        {
+          "count": 1,
           "_tpl": "57513f07245977207e26a311"
+        }
+      ]
+    ],
+    "therapist_key_bunkhouse": [
+      [
+        {
+          "count": 2,
+          "_tpl": "5b4335ba86f7744d2837a264"
+        }
+      ]
+    ],    
+    "therapist_key_trailer": [
+      [
+        {
+          "count": 2,
+          "_tpl": "590a3c0a86f774385a33c450"
+        }
+      ]
+    ],
+    "therapist_key_emercom": [
+      [
+        {
+          "count": 6,
+          "_tpl": "60098b1705871270cd5352a1"
+        },
+        {
+          "count": 3,
+          "_tpl": "5c10c8fd86f7743d7d706df3"
+        }
+      ]
+    ],
+    "therapist_key_xray": [
+      [
+        {
+          "count": 4,
+          "_tpl": "59e361e886f774176c10a2a5"
+        },
+        {
+          "count": 2,
+          "_tpl": "57347c93245977448d35f6e3"
         }
       ]
     ],
@@ -1789,6 +2107,20 @@
     "65cb82587e8e8aec5b088e54": 1,
     "65cb82587e8e8aec5b088e57": 1,
     "65cb82587e8e8aec5b088e5a": 2,
+    "therapist_bake_book": 3,
+    "therapist_key_unknown": 1,
+    "therapist_key_d114": 1,
+    "therapist_key_d206": 1,
+    "therapist_key_d203": 1,
+    "therapist_key_d214": 1,
+    "therapist_key_d220": 1,
+    "therapist_key_d303": 1,
+    "therapist_key_d314": 2,
+    "therapist_key_machinery": 1,
+    "therapist_key_bunkhouse": 1,
+    "therapist_key_trailer": 1,
+    "therapist_key_emercom": 2,
+    "therapist_key_xray": 2,
     "65cb82587e8e8aec5b088e5d": 2
   }
 }

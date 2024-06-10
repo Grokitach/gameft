@@ -989,6 +989,18 @@
       }
     },
     {
+      "_id": "prapor_545_pp",
+      "_tpl": "56dff2ced2720bb4668b4567",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 9999999,
+        "BuyRestrictionMax": 400,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
       "_id": "65d8ffaca459fcfeac0ce373",
       "_tpl": "576a581d2459771e7b1bc4f1",
       "parentId": "hideout",
@@ -1697,6 +1709,18 @@
     {
       "_id": "65d8ffada459fcfeac0ce41d",
       "_tpl": "56d59d3ad2720bdb418b4577",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "UnlimitedCount": true,
+        "StackObjectsCount": 9999999,
+        "BuyRestrictionMax": 600,
+        "BuyRestrictionCurrent": 0
+      }
+    },
+    {
+      "_id": "prapor_919_pbp",
+      "_tpl": "5efb0da7a29a85116f6ea05f",
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
@@ -4120,7 +4144,7 @@
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
-        "StackObjectsCount": 100,
+        "StackObjectsCount": 50000,
         "BuyRestrictionMax": 100,
         "BuyRestrictionCurrent": 0
       }
@@ -4204,8 +4228,8 @@
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
-        "StackObjectsCount": 220,
-        "BuyRestrictionMax": 220,
+        "StackObjectsCount": 20000,
+        "BuyRestrictionMax": 20000,
         "BuyRestrictionCurrent": 0
       }
     },
@@ -6968,6 +6992,96 @@
       }
     },
     {
+      "_id": "prapor_val_handle",
+      "_tpl": "59eb7ebe86f7740b373438ce",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 195980,
+        "BuyRestrictionMax": 60
+      }
+    },
+    {
+      "_id": "prapor_val_grip",
+      "_tpl": "5a69a2ed8dc32e000d46d1f1",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 195980,
+        "BuyRestrictionMax": 60
+      }
+    },
+    {
+      "_id": "prapor_key_rbksm",
+      "_tpl": "5d947d4e86f774447b415895",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 195980,
+        "BuyRestrictionMax": 1
+      }
+    },
+    {
+      "_id": "prapor_key_rbob",
+      "_tpl": "5d80c6c586f77440351beef1",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 195980,
+        "BuyRestrictionMax": 1
+      }
+    },
+    {
+      "_id": "prapor_key_rborb1",
+      "_tpl": "5d80ccac86f77470841ff452",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 195980,
+        "BuyRestrictionMax": 1
+      }
+    },
+    {
+      "_id": "prapor_key_rborb2",
+      "_tpl": "5d80ccdd86f77474f7575e02",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 195980,
+        "BuyRestrictionMax": 1
+      }
+    },
+    {
+      "_id": "prapor_key_rborb3",
+      "_tpl": "5d80cd1a86f77402aa362f42",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 195980,
+        "BuyRestrictionMax": 1
+      }
+    },
+    {
+      "_id": "prapor_key_rbsmp",
+      "_tpl": "5d947d3886f774447b415893",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 195980,
+        "BuyRestrictionMax": 1
+      }
+    },
+    {
+      "_id": "prapor_key_rbst",
+      "_tpl": "5d9f1fa686f774726974a992",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 195980,
+        "BuyRestrictionMax": 1
+      }
+    },
+    {
       "_id": "64f9c4d2bf50026687012fde",
       "_tpl": "59f98b4986f7746f546d2cef",
       "parentId": "hideout",
@@ -7254,12 +7368,8 @@
     "65d8ffaaa459fcfeac0ce2cf": [
       [
         {
-          "count": 1,
-          "_tpl": "5d4042a986f7743185265463"
-        },
-        {
-          "count": 1,
-          "_tpl": "5c052f6886f7746b1e3db148"
+          "count": 3,
+          "_tpl": "59fafb5d86f774067a6f2084"
         },
         {
           "count": 1,
@@ -7582,7 +7692,15 @@
     "65d8ffaca459fcfeac0ce371": [
       [
         {
-          "count": 153,
+          "count": 240,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "prapor_545_pp": [
+      [
+        {
+          "count": 410,
           "_tpl": "5449016a4bdc2d6f028b456f"
         }
       ]
@@ -7606,7 +7724,7 @@
     "65d8ffaca459fcfeac0ce37b": [
       [
         {
-          "count": 3136,
+          "count": 4536,
           "_tpl": "5449016a4bdc2d6f028b456f"
         }
       ]
@@ -7702,7 +7820,7 @@
     "65d8ffaca459fcfeac0ce3a2": [
       [
         {
-          "count": 240,
+          "count": 302,
           "_tpl": "5449016a4bdc2d6f028b456f"
         }
       ]
@@ -7742,7 +7860,7 @@
     "65d8ffaca459fcfeac0ce3b1": [
       [
         {
-          "count": 609,
+          "count": 580,
           "_tpl": "5449016a4bdc2d6f028b456f"
         }
       ]
@@ -7975,6 +8093,14 @@
       [
         {
           "count": 71,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "prapor_919_pbp": [
+      [
+        {
+          "count": 872,
           "_tpl": "5449016a4bdc2d6f028b456f"
         }
       ]
@@ -8270,7 +8396,7 @@
           "_tpl": "590c5a7286f7747884343aea"
         },
         {
-          "count": 3,
+          "count": 5,
           "_tpl": "5d1c819a86f774771b0acd6c"
         }
       ]
@@ -8974,7 +9100,7 @@
     "65d8ffb2a459fcfeac0ce683": [
       [
         {
-          "count": 480,
+          "count": 620,
           "_tpl": "5449016a4bdc2d6f028b456f"
         }
       ]
@@ -9966,7 +10092,7 @@
     "65d8ffb6a459fcfeac0ce85c": [
       [
         {
-          "count": 298,
+          "count": 450,
           "_tpl": "5449016a4bdc2d6f028b456f"
         }
       ]
@@ -10146,8 +10272,8 @@
     "65d8ffb7a459fcfeac0ce8c9": [
       [
         {
-          "count": 3,
-          "_tpl": "59e358a886f7741776641ac3"
+          "count": 31500,
+          "_tpl": "5449016a4bdc2d6f028b456f"
         }
       ]
     ],
@@ -10339,6 +10465,106 @@
         }
       ]
     ],
+    "prapor_val_handle": [
+      [
+        {
+          "count": 8750,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "prapor_val_grip": [
+      [
+        {
+          "count": 17850,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ],
+    "prapor_key_rbksm": [
+      [
+        {
+          "count": 4,
+          "_tpl": "5d6fc78386f77449d825f9dc"
+        },
+        {
+          "count": 1,
+          "_tpl": "5c1265fc86f7743f896a21c2"
+        }
+      ]
+    ], 
+    "prapor_key_rbob": [
+      [
+        {
+          "count": 4,
+          "_tpl": "5d6fc87386f77449db3db94e"
+        },
+        {
+          "count": 1,
+          "_tpl": "590a358486f77429692b2790"
+        }
+      ]
+    ], 
+    "prapor_key_rborb1": [
+      [
+        {
+          "count": 2,
+          "_tpl": "590c5bbd86f774785762df04"
+        },
+        {
+          "count": 1,
+          "_tpl": "5d4042a986f7743185265463"
+        }
+      ]
+    ], 
+    "prapor_key_rborb2": [
+      [
+        {
+          "count": 1,
+          "_tpl": "5734781f24597737e04bf32a"
+        },
+        {
+          "count": 2,
+          "_tpl": "5c13cef886f774072e618e82"
+        }
+      ]
+    ], 
+    "prapor_key_rborb3": [
+      [
+        {
+          "count": 1,
+          "_tpl": "590a3b0486f7743954552bdb"
+        },
+        {
+          "count": 3,
+          "_tpl": "6389c70ca33d8c4cdf4932c6"
+        }
+      ]
+    ], 
+    "prapor_key_rbsmp": [
+      [
+        {
+          "count": 4,
+          "_tpl": "590c5a7286f7747884343aea"
+        },
+        {
+          "count": 1,
+          "_tpl": "5e2af22086f7746d3f3c33fa"
+        }
+      ]
+    ], 
+    "prapor_key_rbst": [
+      [
+        {
+          "count": 1,
+          "_tpl": "5c12688486f77426843c7d32"
+        },
+        {
+          "count": 3,
+          "_tpl": "5d1c819a86f774771b0acd6c"
+        }
+      ]
+    ],
     "64f9c4d2bf50026687012fde": [
       [
         {
@@ -10442,10 +10668,11 @@
     "65d8ffaca459fcfeac0ce368": 3,
     "65d8ffaca459fcfeac0ce36b": 3,
     "65d8ffaca459fcfeac0ce36e": 1,
-    "65d8ffaca459fcfeac0ce371": 3,
+    "65d8ffaca459fcfeac0ce371": 2,
+    "prapor_545_pp": 3,
     "65d8ffaca459fcfeac0ce373": 1,
     "65d8ffaca459fcfeac0ce378": 2,
-    "65d8ffaca459fcfeac0ce37b": 2,
+    "65d8ffaca459fcfeac0ce37b": 1,
     "65d8ffaca459fcfeac0ce37e": 3,
     "65d8ffaca459fcfeac0ce380": 1,
     "65d8ffaca459fcfeac0ce385": 1,
@@ -10457,12 +10684,12 @@
     "65d8ffaca459fcfeac0ce399": 2,
     "65d8ffaca459fcfeac0ce39c": 3,
     "65d8ffaca459fcfeac0ce39f": 1,
-    "65d8ffaca459fcfeac0ce3a2": 2,
+    "65d8ffaca459fcfeac0ce3a2": 1,
     "65d8ffaca459fcfeac0ce3a5": 2,
     "65d8ffaca459fcfeac0ce3a8": 1,
     "65d8ffaca459fcfeac0ce3ab": 3,
     "65d8ffaca459fcfeac0ce3ae": 1,
-    "65d8ffaca459fcfeac0ce3b1": 4,
+    "65d8ffaca459fcfeac0ce3b1": 3,
     "65d8ffaca459fcfeac0ce3b4": 2,
     "65d8ffaca459fcfeac0ce3b7": 2,
     "65d8ffaca459fcfeac0ce3ba": 1,
@@ -10483,7 +10710,7 @@
     "65d8ffada459fcfeac0ce3fb": 3,
     "65d8ffada459fcfeac0ce3fe": 4,
     "65d8ffada459fcfeac0ce401": 2,
-    "65d8ffada459fcfeac0ce404": 2,
+    "65d8ffada459fcfeac0ce404": 1,
     "65d8ffada459fcfeac0ce407": 2,
     "65d8ffada459fcfeac0ce409": 3,
     "65d8ffada459fcfeac0ce40d": 3,
@@ -10507,7 +10734,7 @@
     "65d8ffaea459fcfeac0ce461": 1,
     "65d8ffaea459fcfeac0ce46b": 1,
     "65d8ffaea459fcfeac0ce46e": 2,
-    "65d8ffaea459fcfeac0ce471": 2,
+    "65d8ffaea459fcfeac0ce471": 1,
     "65d8ffaea459fcfeac0ce474": 1,
     "65d8ffaea459fcfeac0ce477": 2,
     "65d8ffaea459fcfeac0ce47a": 3,
@@ -10615,7 +10842,7 @@
     "65d8ffb1a459fcfeac0ce67a": 1,
     "65d8ffb1a459fcfeac0ce67d": 3,
     "65d8ffb1a459fcfeac0ce680": 3,
-    "65d8ffb2a459fcfeac0ce683": 4,
+    "65d8ffb2a459fcfeac0ce683": 3,
     "65d8ffb2a459fcfeac0ce685": 4,
     "65d8ffb2a459fcfeac0ce68d": 3,
     "65d8ffb2a459fcfeac0ce690": 4,
@@ -10711,7 +10938,7 @@
     "65d8ffb5a459fcfeac0ce7e7": 3,
     "65d8ffb5a459fcfeac0ce7ea": 4,
     "65d8ffb5a459fcfeac0ce7ee": 1,
-    "65d8ffb5a459fcfeac0ce7f1": 3,
+    "65d8ffb5a459fcfeac0ce7f1": 2,
     "65d8ffb5a459fcfeac0ce7f4": 3,
     "65d8ffb5a459fcfeac0ce7f7": 3,
     "65d8ffb5a459fcfeac0ce7f9": 3,
@@ -10739,9 +10966,9 @@
     "65d8ffb6a459fcfeac0ce852": 4,
     "65d8ffb6a459fcfeac0ce855": 4,
     "65d8ffb6a459fcfeac0ce858": 4,
-    "65d8ffb6a459fcfeac0ce85c": 3,
+    "65d8ffb6a459fcfeac0ce85c": 2,
     "65d8ffb6a459fcfeac0ce85f": 3,
-    "65d8ffb6a459fcfeac0ce861": 3,
+    "65d8ffb6a459fcfeac0ce861": 2,
     "65d8ffb6a459fcfeac0ce86b": 3,
     "65d8ffb6a459fcfeac0ce86e": 4,
     "65d8ffb7a459fcfeac0ce871": 1,
@@ -10749,7 +10976,7 @@
     "65d8ffb7a459fcfeac0ce877": 1,
     "65d8ffb7a459fcfeac0ce87a": 2,
     "65d8ffb7a459fcfeac0ce87d": 2,
-    "65d8ffb7a459fcfeac0ce880": 4,
+    "65d8ffb7a459fcfeac0ce880": 3,
     "65d8ffb7a459fcfeac0ce883": 1,
     "65d8ffb7a459fcfeac0ce885": 4,
     "65d8ffb7a459fcfeac0ce88e": 2,
@@ -10786,10 +11013,20 @@
     "65d8ffb8a459fcfeac0ce924": 3,
     "65d8ffb8a459fcfeac0ce927": 2,
     "65ba7538bf3fc35a9a0a0315": 4,
+    "prapor_val_handle":3,
+    "prapor_val_grip":3,
+    "prapor_key_rbksm":2,
+    "prapor_key_rbob":2,
+    "prapor_key_rborb1":2,
+    "prapor_key_rborb2":2,
+    "prapor_key_rborb3":2,
+    "prapor_key_rbsmp":2,
+    "prapor_key_rbst":2,
+    "prapor_919_pbp": 4,
     "64f9c4d2bf50026687012fde": 4,
     "65a5422f95d8356d8e0d7a72": 4,
     "6492e44bf4287b13040fccee": 3,
     "6492e44bf4287b13040fccef": 3,
-    "652376e2f6c67195e4061507": 4
+    "652376e2f6c67195e4061507": 3
   }
 }

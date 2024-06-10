@@ -5171,8 +5171,108 @@
       "parentId": "hideout",
       "slotId": "hideout",
       "upd": {
-        "StackObjectsCount": 20,
+        "StackObjectsCount": 1000,
         "BuyRestrictionMax": 2
+      }
+    },
+    {
+      "_id": "skier_key_car_deal",
+      "_tpl": "63a399193901f439517cafb6",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 20000,
+        "BuyRestrictionMax": 1
+      }
+    },
+    {
+      "_id": "skier_key_iron_gate",
+      "_tpl": "63a39f6e64283b5e9c56b289",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 20000,
+        "BuyRestrictionMax": 1
+      }
+    },
+    {
+      "_id": "skier_key_concordia_security",
+      "_tpl": "63a39c7964283b5e9c56b280",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 20000,
+        "BuyRestrictionMax": 1
+      }
+    },
+    {
+      "_id": "skier_key_pinewood_215",
+      "_tpl": "63a39f08cd6db0635c197600",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 20000,
+        "BuyRestrictionMax": 1
+      }
+    },
+    {
+      "_id": "skier_key_chek_15",
+      "_tpl": "63a39fc0af870e651d58e6ae",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 20000,
+        "BuyRestrictionMax": 1
+      }
+    },
+    {
+      "_id": "skier_key_backup_hideout",
+      "_tpl": "6398fd8ad3de3849057f5128",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 20000,
+        "BuyRestrictionMax": 1
+      }
+    },
+    {
+      "_id": "skier_key_beluga",
+      "_tpl": "64ccc1fe088064307e14a6f7",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 20000,
+        "BuyRestrictionMax": 1
+      }
+    },
+    {
+      "_id": "skier_key_terra_meeting",
+      "_tpl": "64ccc206793ca11c8f450a38",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 20000,
+        "BuyRestrictionMax": 1
+      }
+    },
+    {
+      "_id": "skier_key_estate_office",
+      "_tpl": "6582dc5740562727a654ebb1",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 20000,
+        "BuyRestrictionMax": 1
+      }
+    },
+    {
+      "_id": "skier_key_negotiation",
+      "_tpl": "6582dbe43a2e5248357dbe9a",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 20000,
+        "BuyRestrictionMax": 1
       }
     },
     {
@@ -7988,6 +8088,114 @@
         }
       ]
     ],
+    "skier_key_car_deal": [
+      [
+        {
+          "count": 2,
+          "_tpl": "60391a8b3364dc22b04d0ce5"
+        },
+        {
+          "count": 1,
+          "_tpl": "5e2af37686f774755a234b65"
+        }
+      ]
+    ],
+    "skier_key_iron_gate": [
+      [
+        {
+          "count": 1,
+          "_tpl": "5d235b4d86f7742e017bc88a"
+        }
+      ]
+    ],
+    "skier_key_concordia_security": [
+      [
+        {
+          "count": 1,
+          "_tpl": "62a0a16d0b9d3c46de5b6e97"
+        }
+      ]
+    ],
+    "skier_key_pinewood_215": [
+      [
+        {
+          "count": 2,
+          "_tpl": "62a0a043cf4a99369e2624a5"
+        }
+      ]
+    ],
+    "skier_key_chek_15": [
+      [
+        {
+          "count": 1,
+          "_tpl": "59e3658a86f7741776641ac4"
+        },
+        {
+          "count": 1,
+          "_tpl": "62a091170b9d3c46de5b6cf2"
+        }
+      ]
+    ],
+    "skier_key_backup_hideout": [
+      [
+        {
+          "count": 2,
+          "_tpl": "5e2af00086f7746d3f3c33f7"
+        },
+        {
+          "count": 2,
+          "_tpl": "5e2af41e86f774755a234b67"
+        }
+      ]
+    ],
+    "skier_key_beluga": [
+      [
+        {
+          "count": 4,
+          "_tpl": "57347cd0245977445a2d6ff1"
+        },
+        {
+          "count": 4,
+          "_tpl": "590a3cd386f77436f20848cb"
+        }
+      ]
+    ],
+    "skier_key_terra_meeting": [
+      [
+        {
+          "count": 2,
+          "_tpl": "5d63d33b86f7746ea9275524"
+        },
+        {
+          "count": 1,
+          "_tpl": "5d40419286f774318526545f"
+        }
+      ]
+    ],
+    "skier_key_estate_office": [
+      [
+        {
+          "count": 3,
+          "_tpl": "5e2af2bc86f7746d3f3c33fc"
+        },
+        {
+          "count": 2,
+          "_tpl": "59e358a886f7741776641ac3"
+        }
+      ]
+    ],    
+    "skier_key_negotiation": [
+      [
+        {
+          "count": 4,
+          "_tpl": "57347c5b245977448d35f6e1"
+        },
+        {
+          "count": 2,
+          "_tpl": "5d1b39a386f774252339976f"
+        }
+      ]
+    ],
     "64a8578f0e9876295f0f83ef": [
       [
         {
@@ -8342,7 +8550,17 @@
     "6492e44bf4287b13040fcbae": 4,
     "6492e44bf4287b13040fccf6": 1,
     "64a8578f0e9876295f0f83ed": 1,
-    "64a8578f0e9876295f0f83ee": 1,
+    "64a8578f0e9876295f0f83ee": 4,
+    "skier_key_car_deal": 2,
+    "skier_key_iron_gate": 2,
+    "skier_key_concordia_security": 2,
+    "skier_key_pinewood_215": 2,
+    "skier_key_chek_15": 2,
+    "skier_key_backup_hideout": 2,
+    "skier_key_beluga": 2,
+    "skier_key_terra_meeting": 2,
+    "skier_key_estate_office": 2,
+    "skier_key_negotiation": 2,
     "64a8578f0e9876295f0f83ef": 1
   }
 }

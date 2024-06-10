@@ -34,6 +34,17 @@
       }
     },
     {
+      "_id": "peacekeeper_schmidt1-8_scope",
+      "_tpl": "617151c1d92c473c770214ab",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 14749,
+        "BuyRestrictionMax": 5,
+        "BuyRestrictionCurrent": 0
+      }
+    },    
+    {
       "_id": "65cb82357e8e8aec5b087e65",
       "_tpl": "58820d1224597753c90aeb13",
       "parentId": "hideout",
@@ -9370,6 +9381,116 @@
       }
     },
     {
+      "_id": "peacekeeper_fortis_shift",
+      "_tpl": "59f8a37386f7747af3328f06",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 19995,
+        "BuyRestrictionMax": 4,
+        "BuyRestrictionCurrent": 0
+      }
+    }, 
+    {
+      "_id": "peacekeeper_key_rw112",
+      "_tpl": "5a0dc95c86f77452440fc675",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 19995,
+        "BuyRestrictionMax": 1,
+        "BuyRestrictionCurrent": 0
+      }
+    },    
+    {
+      "_id": "peacekeeper_key_rw216",
+      "_tpl": "5a0ee30786f774023b6ee08f",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 19995,
+        "BuyRestrictionMax": 1,
+        "BuyRestrictionCurrent": 0
+      }
+    },    
+    {
+      "_id": "peacekeeper_key_rw219",
+      "_tpl": "5a13ef0686f7746e5a411744",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 19995,
+        "BuyRestrictionMax": 1,
+        "BuyRestrictionCurrent": 0
+      }
+    },    
+    {
+      "_id": "peacekeeper_key_rw306",
+      "_tpl": "5a13f46386f7741dd7384b04",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 19995,
+        "BuyRestrictionMax": 1,
+        "BuyRestrictionCurrent": 0
+      }
+    },    
+    {
+      "_id": "peacekeeper_key_rutility",
+      "_tpl": "5a0ea79b86f7741d4a35298e",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 19995,
+        "BuyRestrictionMax": 1,
+        "BuyRestrictionCurrent": 0
+      }
+    },    
+    {
+      "_id": "peacekeeper_key_blue_tape",
+      "_tpl": "5eff09cd30a7dc22fd1ddfed",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 19995,
+        "BuyRestrictionMax": 1,
+        "BuyRestrictionCurrent": 0
+      }
+    },    
+    {
+      "_id": "peacekeeper_key_re306",
+      "_tpl": "5a145d4786f7744cbb6f4a12",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 19995,
+        "BuyRestrictionMax": 1,
+        "BuyRestrictionCurrent": 0
+      }
+    },    
+    {
+      "_id": "peacekeeper_key_re328",
+      "_tpl": "5a0eee1486f77402aa773226",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 19995,
+        "BuyRestrictionMax": 1,
+        "BuyRestrictionCurrent": 0
+      }
+    },  
+    {
+      "_id": "peacekeeper_key_re308",
+      "_tpl": "5a145d7b86f7744cbb6f4a13",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 19995,
+        "BuyRestrictionMax": 1,
+        "BuyRestrictionCurrent": 0
+      }
+    },  
+    {
       "_id": "656629d07cac3c3b160e6400",
       "_tpl": "5ba26835d4351e0035628ff5",
       "parentId": "hideout",
@@ -9752,19 +9873,15 @@
     "65cb82377e8e8aec5b087ef4": [
       [
         {
-          "count": 1,
-          "_tpl": "5d03794386f77420415576f5"
-        },
-        {
           "count": 3,
           "_tpl": "5d0377ce86f774186372f689"
         },
         {
-          "count": 3,
+          "count": 2,
           "_tpl": "5c05308086f7746b2101e90b"
         },
         {
-          "count": 5,
+          "count": 4,
           "_tpl": "5d0375ff86f774186372f685"
         }
       ]
@@ -11098,7 +11215,7 @@
     "65cb823c7e8e8aec5b08819b": [
       [
         {
-          "count": 943.05,
+          "count": 1450.05,
           "_tpl": "5696686a4bdc2da3298b456a"
         }
       ]
@@ -13881,6 +13998,118 @@
         }
       ]
     ],
+    "peacekeeper_fortis_shift": [
+      [
+        {
+          "count": 28,
+          "_tpl": "5696686a4bdc2da3298b456a"
+        }
+      ]
+    ],
+    "peacekeeper_schmidt1-8_scope": [
+      [
+        {
+          "count": 600,
+          "_tpl": "5696686a4bdc2da3298b456a"
+        }
+      ]
+    ],
+    "peacekeeper_key_rw112": [
+      [
+        {
+          "count": 2,
+          "_tpl": "590c645c86f77412b01304d9"
+        }
+      ]
+    ],     
+    "peacekeeper_key_rw216": [
+      [
+        {
+          "count": 1,
+          "_tpl": "590c651286f7741e566b6461"
+        }
+      ]
+    ],  
+    "peacekeeper_key_rw219": [
+      [
+        {
+          "count": 1,
+          "_tpl": "590c37d286f77443be3d7827"
+        }
+      ]
+    ],  
+    "peacekeeper_key_rw306": [
+      [
+        {
+          "count": 1,
+          "_tpl": "59fafb5d86f774067a6f2084"
+        },
+        {
+          "count": 3,
+          "_tpl": "590c31c586f774245e3141b2"
+        }
+      ]
+    ],      
+    "peacekeeper_key_rutility": [
+      [
+        {
+          "count": 2,
+          "_tpl": "5af0484c86f7740f02001f7f"
+        },
+        {
+          "count": 1,
+          "_tpl": "5d1b2fa286f77425227d1674"
+        }
+      ]
+    ],     
+    "peacekeeper_key_blue_tape": [
+      [
+        {
+          "count": 3,
+          "_tpl": "5734779624597737e04bf329"
+        },
+        {
+          "count": 1,
+          "_tpl": "57347c2e24597744902c94a1"
+        }
+      ]
+    ],  
+    "peacekeeper_key_re306": [
+      [
+        {
+          "count": 3,
+          "_tpl": "590a3d9c86f774385926e510"
+        },
+        {
+          "count": 2,
+          "_tpl": "59e36c6f86f774176c10a2a7"
+        }
+      ]
+    ],  
+    "peacekeeper_key_re328": [
+      [
+        {
+          "count": 1,
+          "_tpl": "60391b0fb847c71012789415"
+        },
+        {
+          "count": 2,
+          "_tpl": "5e2af29386f7746d4159f077"
+        }
+      ]
+    ],  
+    "peacekeeper_key_re308": [
+      [
+        {
+          "count": 2,
+          "_tpl": "590a386e86f77429692b27ab"
+        },
+        {
+          "count": 4,
+          "_tpl": "5c06782b86f77426df5407d2"
+        }
+      ]
+    ],    
     "656629d07cac3c3b160e6400": [
       [
         {
@@ -14447,6 +14676,17 @@
     "656629d07cac3c3b160e63fd": 1,
     "656629d07cac3c3b160e63fe": 1,
     "656629d07cac3c3b160e63ff": 1,
-    "656629d07cac3c3b160e6400": 1
+    "peacekeeper_fortis_shift": 2,
+    "peacekeeper_key_rw112": 2,
+    "peacekeeper_key_rw216": 2,    
+    "peacekeeper_key_rw219": 2,  
+    "peacekeeper_key_rw306": 2,  
+    "peacekeeper_key_rutility": 2,  
+    "peacekeeper_key_blue_tape": 2,  
+    "peacekeeper_key_re306": 2,  
+    "peacekeeper_key_re328": 2,  
+    "peacekeeper_key_re308": 2,  
+    "656629d07cac3c3b160e6400": 1,
+    "peacekeeper_schmidt1-8_scope": 4
   }
 }
