@@ -8,45 +8,45 @@ The first goal of this project is to provide an easy to install, easy to update,
 
 ## Modlist:
 - Server:
-    "MoreCheckmarksBackend",
-    "SWAG",
-    "IhanaMies-LootValueBackend",
-    "odt-iteminfo-4.0.3",
-    "DanW-LateToTheParty",
-    "SPT-Realism-Mod-Server",
-    "leaves-relooted",
-    "WTT-PackNStrap",
-    "ServerValueModifier",
-    "odt-softcore-2.1.1",
-    "leaves-lootfuckery",
-    "Skwizzy-NoDiscardLimit",
-    "DanW-SPTQuestingBots",
-    "zSolarint-SAIN-ServerMod",
-    "zzMusicManiac-KeysInLoot"
+	- "MoreCheckmarksBackend",
+	- "SWAG",
+	- "IhanaMies-LootValueBackend",
+	- "odt-iteminfo-4.0.3",
+	- "DanW-LateToTheParty",
+	- "SPT-Realism-Mod-Server",
+	- "leaves-relooted",
+	- "WTT-PackNStrap",
+	- "ServerValueModifier",
+	- "odt-softcore-2.1.1",
+	- "leaves-lootfuckery",
+	- "Skwizzy-NoDiscardLimit",
+	- "DanW-SPTQuestingBots",
+	- "zSolarint-SAIN-ServerMod",
+	- "zzMusicManiac-KeysInLoot"
 
 - Client:
-    "AmandsGraphics"
-    "CactusPie.FastSearch"
-    "CactusPie.RamCleanerInterval"
-    "CustomMusic"
-    "DanW-SPTQuestingBots"
-    "Declutterer"
-    "DrakiaXYZ-BigBrain"
-    "DrakiaXYZ-BotDebug"
-    "DrakiaXYZ-Waypoints"
-    "dvize.Donuts"
-    "dvize.GTFO"
-    "DynamicExternalResolution"
-    "kmyuhkyuk-EFTApi"
-    "kmyuhkyuk-GamePanelHUD"
-    "LootValue"
-    "MoreCheckmarks"
-    "Realism"
-    "SAIN"
-    "skwizzy.LootingBots"
-    "SPTQuestingBots"
-    "ThatsLit"
-    "WTT-PackNStrap"
+	- "AmandsGraphics"
+	- "CactusPie.FastSearch"
+	- "CactusPie.RamCleanerInterval"
+	- "CustomMusic"
+	- "DanW-SPTQuestingBots"
+	- "Declutterer"
+	- "DrakiaXYZ-BigBrain"
+	- "DrakiaXYZ-BotDebug"
+	- "DrakiaXYZ-Waypoints"
+	- "dvize.Donuts"
+	- "dvize.GTFO"
+	- "DynamicExternalResolution"
+	- "kmyuhkyuk-EFTApi"
+	- "kmyuhkyuk-GamePanelHUD"
+	- "LootValue"
+	- "MoreCheckmarks"
+	- "Realism"
+	- "SAIN"
+	- "skwizzy.LootingBots"
+	- "SPTQuestingBots"
+	- "ThatsLit"
+	- "WTT-PackNStrap"
 
 ## Custom changes
 
