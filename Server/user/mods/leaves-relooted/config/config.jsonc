@@ -1,0 +1,9 @@
+{
+    "setLootMultipliersToOne": false, //Makes all loot spots spawn loot (for debug only)
+    "unfuckGivingTreeKeycardSpawns": true, //Makes giving tree not have like 40% spawn chance for keycards lmao.
+    "givingTreeKeySpawnChance": 0.002,
+    "changeSpawnPointCount": true, //Injects the spawnpoint count from the old files. Probably do this
+    "shorelineKeycards": true, //Manually injects keycard spawns from earlier versions onto shoreline map.
+    "streetsbloodykey": true, //Manually inject bloodykey room spawns that i PAINSTAKINGLY exported from a pervious build.
+    "streetsbloodykeyProbabilityMultiplier": 1 //Adjust the probability of the injected spawn points. In case they're too high/low
+}

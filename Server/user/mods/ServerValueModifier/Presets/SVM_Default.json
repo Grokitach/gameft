@@ -1,0 +1,741 @@
+{
+  "PresetNotes": "",
+  "Items": {
+    "HeatFactor": 1,
+    "ExamineTime": 1,
+    "ExamineKeys": true,
+    "AddSignalPistolToSpec": false,
+    "WeaponHeatOff": false,
+    "SMGToHolster": false,
+    "PistolToMain": false,
+    "AllExaminedItems": true,
+    "MisfireChance": 1,
+    "EquipRigsWithArmors": false,
+    "RemoveSecureContainerFilters": false,
+    "MalfunctChanceMult": 1,
+    "WeightChanger": 1,
+    "ItemPriceMult": 1,
+    "BSGCashStack": false,
+    "RubStack": 4950000,
+    "DollarStack": 500000,
+    "EuroStack": 500000,
+    "AmmoLoadSpeed": 0.85,
+    "LootExp": 1,
+    "EnableItems": true,
+    "ExamineExp": 1,
+    "AmmoStacks": {
+      "MarksmanRound": 60,
+      "RifleRound": 100,
+      "ShotgunRound": 40,
+      "PistolRound": 150
+    },
+    "RemoveRaidRestr": true,
+    "RemoveBackpacksRestrictions": false,
+    "AvoidSingleKeys": false,
+    "AvoidMarkedKeys": false,
+    "KeyUseMult": 1,
+    "KeycardUseMult": 1,
+    "KeyDurabilityThreshold": 40,
+    "IDChanger": false,
+    "NoGearPenalty": false,
+    "IDBox": "",
+    "RemoveKeysUsageNumber": false,
+    "RaidDrop": true
+  },
+  "Hideout": {
+    "EnableStash": true,
+    "Stash": {
+      "StashLvl4": 88,
+      "StashLvl3": 88,
+      "StashLvl2": 88,
+      "StashLvl1": 88
+    },
+    "Regeneration": {
+      "OfflineRegen": false,
+      "HealthRegen": 0.1,
+      "HideoutHealth": false,
+      "HideoutEnergy": false,
+      "HideoutHydration": false,
+      "HydrationRegen": 0.1,
+      "EnergyRegen": 0.1
+    },
+    "WaterFilterTime": 720,
+    "BitcoinTime": 9000,
+    "MaxBitcoins": 1,
+    "NoFuelMult": 1,
+    "ScavCasePrice": 1,
+    "ScavCaseTime": 0.5,
+    "HideoutConstMult": 0.0001,
+    "HideoutProdMult": 0.01,
+    "WaterFilterRate": 49,
+    "GPUBoostRate": 1,
+    "AirFilterRate": 0.001,
+    "RemoveConstructionsRequirements": false,
+    "RemoveSkillRequirements": false,
+    "RemoveTraderLevelRequirements": false,
+    "EnableHideout": true,
+    "FuelConsumptionRate": 0.4
+  },
+  "Traders": {
+    "Fence": {
+      "ArmorDurability_Max": 95,
+      "GunDurability_Max": 95,
+      "ArmorDurability_Min": 20,
+      "GunDurability_Min": 20,
+      "PriceMult": 1.5,
+      "PremiumAmountOnSale": 50,
+      "PresetCount": 5,
+      "StockTime_Min": 50,
+      "StockTime_Max": 150,
+      "AmountOnSale": 140,
+      "PresetMult": 2,
+      "Blacklist": "5c164d2286f774194c5e69fa\r\n543be6674bdc2df1348b4569\r\n5448bf274bdc2dfc2f8b456a\r\n5447bedf4bdc2d87278b4568\r\n6275303a9f372d6ea97f9ec7\r\n62e9103049c018f425059f38\r\n59f32bb586f774757e1e8442\r\n59f32c3b86f77472a31742f0\r\n627bce33f21bc425b06ab967\r\n62f109593b54472778797866\r\n5d52cc5ba4b9367408500062\r\n5d52d479a4b936793d58c76b\r\n5e99711486f7744bfc4af328\r\n62f10b79e7ee985f386b2f47\r\n633ffb5d419dbf4bea7004c6\r\n543be5dd4bdc2deb348b4569\r\n65649eb40bf0ed77b8044453\r\n5448e54d4bdc2dcc718b4568\r\n5a341c4086f77401f2541505\r\n5422acb9af1c889c16000029\r\n64d0b40fbe2eed70e254e2d4\r\n5fc22d7c187fea44d52eda44"
+    },
+    "RemoveTradeLimits": true,
+    "QuestRedeemTime": 48,
+    "TraderMarkup": {
+      "Ragman": 36,
+      "Peacekeeper": 30,
+      "Fence": 25,
+      "Prapor": 32,
+      "Jaeger": 32,
+      "Mechanic": 32,
+      "Skier": 30,
+      "Therapist": 37
+    },
+    "TraderSell": {
+      "Ragman": 1.05,
+      "Peacekeeper": 1,
+      "Prapor": 1.05,
+      "Jaeger": 1.05,
+      "Mechanic": 1.05,
+      "Skier": 1.05,
+      "Therapist": 1.05
+    },
+    "MinDurabSell": 20,
+    "AllQuestsAvailable": false,
+    "RemoveBarterOffers": false,
+    "RemoveCurrencyOffers": false,
+    "UnlockQuestAssort": false,
+    "EnableTraders": true,
+    "FIRRestrictsQuests": true,
+    "TradersLvl4": false,
+    "FIRTrade": false
+  },
+  "Loot": {
+    "Airdrops": {
+      "Mixed": {
+        "ArmorMin": 1,
+        "ArmorMax": 5,
+        "BarterMin": 15,
+        "BarterMax": 35,
+        "PresetMin": 3,
+        "PresetMax": 5,
+        "CratesMin": 1,
+        "CratesMax": 2
+      },
+      "Medical": {
+        "ArmorMin": 0,
+        "ArmorMax": 0,
+        "BarterMin": 17,
+        "BarterMax": 28,
+        "PresetMin": 0,
+        "PresetMax": 0,
+        "CratesMin": 0,
+        "CratesMax": 0
+      },
+      "Barter": {
+        "ArmorMin": 0,
+        "ArmorMax": 0,
+        "BarterMin": 20,
+        "BarterMax": 35,
+        "PresetMin": 0,
+        "PresetMax": 0,
+        "CratesMin": 0,
+        "CratesMax": 0
+      },
+      "Weapon": {
+        "ArmorMin": 3,
+        "ArmorMax": 6,
+        "BarterMin": 11,
+        "BarterMax": 22,
+        "PresetMin": 6,
+        "PresetMax": 8,
+        "CratesMin": 0,
+        "CratesMax": 2
+      },
+      "Sandbox_air": 20,
+      "Streets_air": 20,
+      "AirtimeMin": 1,
+      "AirtimeMax": 5,
+      "Lighthouse_air": 20,
+      "Bigmap_air": 25,
+      "Interchange_air": 20,
+      "Shoreline_air": 20,
+      "Reserve_air": 20,
+      "Woods_air": 25
+    },
+    "EnableLoot": true,
+    "Locations": {
+      "Streets": {
+        "Loose": 3.5,
+        "Container": 1
+      },
+      "Sandbox": {
+        "Loose": 2.7,
+        "Container": 1
+      },
+      "Lighthouse": {
+        "Loose": 3.3,
+        "Container": 1
+      },
+      "Bigmap": {
+        "Loose": 2.8,
+        "Container": 1
+      },
+      "Interchange": {
+        "Loose": 3.2,
+        "Container": 1
+      },
+      "FactoryDay": {
+        "Loose": 3.6,
+        "Container": 1
+      },
+      "Laboratory": {
+        "Loose": 4.4,
+        "Container": 1
+      },
+      "Shoreline": {
+        "Loose": 4.1,
+        "Container": 1
+      },
+      "Reserve": {
+        "Loose": 3.7,
+        "Container": 1
+      },
+      "Woods": {
+        "Loose": 2.1,
+        "Container": 1
+      },
+      "FactoryNight": {
+        "Loose": 3.6,
+        "Container": 1
+      },
+      "AllContainers": false
+    }
+  },
+  "Player": {
+    "CharXP": {
+      "ScavKill": 80,
+      "ScavHMult": 1.1,
+      "PMCKill": 175,
+      "PMCHMult": 1.2
+    },
+    "RaidMult": {
+      "MIA": 1,
+      "Runner": 0.5,
+      "Survived": 1.3,
+      "Killed": 1
+    },
+    "EnableStats": false,
+    "Skills": {
+      "SkillFatigueReset": 150,
+      "SkillFreshEffect": 1.25,
+      "SkillFPoints": 3,
+      "SkillPointsBeforeFatigue": 3,
+      "SkillMinEffect": 0.01,
+      "SkillFatiguePerPoint": 0.6
+    },
+    "FallDamage": false,
+    "BlackStomach": 4,
+    "HydrationLoss": 1.15,
+    "EnergyLoss": 1.15,
+    "EnableHealth": false,
+    "SkillProgMult": 1.6,
+    "Health": {
+      "LeftArm": 60,
+      "RightArm": 60,
+      "Head": 35,
+      "Chest": 85,
+      "Stomach": 70,
+      "LeftLeg": 65,
+      "RightLeg": 65
+    },
+    "WeaponSkillMult": 10.0,
+    "EnablePlayer": true,
+    "DiedHealth": {
+      "Saveeffects": true,
+      "Savehealth": true,
+      "Health_blacked": 0.1,
+      "Health_death": 0.1
+    },
+    "MaxStamina": 100,
+    "UnlimitedStamina": false,
+    "MaxHydration": 100,
+    "MaxEnergy": 100
+  },
+  "Raids": {
+    "SandboxAddLevel": false,
+    "RaidTime": 0,
+    "SaveQuestItems": false,
+    "Exfils": {
+      "CarSandbox": 6000,
+      "CarShoreline": 6000,
+      "CoopPaidSandbox": 25000,
+      "CoopPaidShoreline": 25000,
+      "CoopPaidStreets": 25000,
+      "CoopPaidLighthouse": 25000,
+      "CarLighthouse": 6000,
+      "CarExtractTime": 35,
+      "ArmorExtract": false,
+      "CoopPaid": true,
+      "CoopPaidInterchange": 25000,
+      "CoopPaidWoods": 25000,
+      "CoopPaidReserve": 25000,
+      "NoBackpack": false,
+      "FreeCoop": false,
+      "CarInterchange": 6000,
+      "CarWoods": 6000,
+      "CarStreets": 6000,
+      "CarCustoms": 6000,
+      "ExtendedExtracts": false,
+      "ChanceExtracts": true,
+      "GearExtract": false
+    },
+    "NoRunThrough": true,
+    "Timeacceleration": 7,
+    "SafeExit": false,
+    "SaveGearAfterDeath": false,
+    "RaidEvents": {
+      "DisableEvents": false,
+      "SnowEvent": false,
+      "KillaFactoryChance": 100,
+      "GoonsFactoryChance": 100,
+      "GoonsFactory": false,
+      "BossesOnCustoms": false,
+      "HoundsWoods": 30,
+      "HoundsCustoms": 30,
+      "HoundsShoreline": 30,
+      "Christmas": false,
+      "Halloween": false,
+      "IncludeTagilla": false,
+      "KillaFactory": false,
+      "BossesOnReserve": false,
+      "CultistsEverywhere": false,
+      "RaidersEverywhere": false,
+      "GlukharLabs": false
+    },
+    "LabInsurance": false,
+    "EnableRaids": true,
+    "Removelabkey": false,
+    "RaidStartup": {
+      "TimeBeforeDeployLocal": 10,
+      "AIAmount": "AsOnline",
+      "SaveLoot": true,
+      "AIDifficulty": "AsOnline",
+      "MIAEndofRaid": true,
+      "TaggedAndCursed": false,
+      "EnableBosses": true,
+      "ScavWars": false
+    }
+  },
+  "Fleamarket": {
+    "FleaFIR": false,
+    "EventOffers": false,
+    "SellOffersAmount": 10,
+    "FleaConditions": {
+      "FleaFood_Min": 5,
+      "FleaArmor_Min": 5,
+      "FleaFood_Max": 100,
+      "FleaArmor_Max": 100,
+      "FleaMedical_Min": 60,
+      "FleaSpec_Min": 2,
+      "FleaMedical_Max": 100,
+      "FleaSpec_Max": 100,
+      "FleaWeapons_Min": 60,
+      "FleaVests_Min": 5,
+      "FleaKeys_Min": 97,
+      "FleaWeapons_Max": 100,
+      "FleaVests_Max": 100,
+      "FleaKeys_Max": 100
+    },
+    "OverrideOffers": false,
+    "FleaMarketLevel": 80,
+    "FleaBlacklist": null,
+    "DisableBSGList": false,
+    "EnableFleamarket": true,
+    "Sell_mult": 1.24,
+    "Tradeoffer_max": 1,
+    "Rep_loss": 0.03,
+    "Rep_gain": 0.02,
+    "Tradeoffer_min": 0,
+    "Sell_chance": 50,
+    "EnableFees": true,
+    "DynamicOffers": {
+      "ExpireThreshold": 1400,
+      "Stack_min": 10,
+      "PerOffer_min": 7,
+      "Stack_max": 600,
+      "PerOffer_max": 30,
+      "Eurooffers": 8,
+      "Dollaroffers": 14,
+      "Roubleoffers": 78,
+      "NonStack_min": 10,
+      "Time_min": 6,
+      "Price_min": 0.8,
+      "NonStack_max": 10,
+      "Time_max": 60,
+      "Price_max": 1.4
+    }
+  },
+  "Services": {
+    "RepairBox": {
+      "NoRandomRepair": true,
+      "OpGunRepair": false,
+      "ArmorSkillMult": 0.05,
+      "WeaponMaintenanceSkillMult": 0.05,
+      "IntellectSkillMultWeaponKit": 0.045,
+      "IntellectSkillMultArmorKit": 0.03,
+      "IntellectSkillLimitTraders": 0.6,
+      "IntellectSkillLimitKit": 0.6,
+      "OpArmorRepair": false,
+      "RepairMult": 1
+    },
+    "EnableHealMarkup": false,
+    "TherapistLvl1": 1,
+    "TherapistLvl2": 1.1,
+    "TherapistLvl3": 1.2,
+    "TherapistLvl4": 1.35,
+    "FreeHealLvl": 5,
+    "FreeHealRaids": 30,
+    "ReturnChanceTherapist": 35,
+    "InsuranceMultTherapist": 0.42,
+    "EnableServices": true,
+    "ClothesAnySide": true,
+    "InsuranceMultPrapor": 0.2,
+    "InsuranceStorageTime": 216,
+    "ReturnChancePrapor": 12,
+    "ClothesLevelUnlock": true,
+    "ClothesFree": true,
+    "Prapor_Max": 18,
+    "Prapor_Min": 12,
+    "Therapist_Max": 18,
+    "Therapist_Min": 12
+  },
+  "Quests": {
+    "DailyQuests": {
+      "MinKillsLR3": 4,
+      "MaxKillsLR3": 16,
+      "MinKillsLR2": 3,
+      "MaxKillsLR2": 8,
+      "MinItems": 2,
+      "MaxItems": 5,
+      "Extracts": 2,
+      "Types": "Completion,Elimination,Exploration",
+      "Spread": 0.5,
+      "MinKillsLR1": 2,
+      "MaxKillsLR1": 4,
+      "Access": 1,
+      "QuestAmount": 3,
+      "Lifespan": 1440
+    },
+    "WeeklyQuests": {
+      "MinKillsLR3": 20,
+      "MaxKillsLR3": 40,
+      "MinKillsLR2": 15,
+      "MaxKillsLR2": 40,
+      "MinItems": 2,
+      "MaxItems": 5,
+      "Extracts": 10,
+      "Types": "Completion,Elimination,Exploration",
+      "Spread": 0.5,
+      "MinKillsLR1": 10,
+      "MaxKillsLR1": 20,
+      "Access": 1,
+      "QuestAmount": 1,
+      "Lifespan": 10080
+    },
+    "EnableQuests": true,
+    "ScavQuests": {
+      "MinKillsLR2": 3,
+      "MaxKillsLR2": 15,
+      "MinItems": 2,
+      "MaxItems": 5,
+      "Extracts": 3,
+      "Types": "Elimination,Completion",
+      "Spread": 0.5,
+      "MinKillsLR1": 1,
+      "MaxKillsLR1": 3,
+      "Access": 1,
+      "QuestAmount": 1,
+      "Lifespan": 1440
+    }
+  },
+  "CSM": {
+    "CustomPocket": false,
+    "Pockets": {
+      "DefaultPocket": false,
+      "SpecGKeychain": false,
+      "SpecSimpleWallet": false,
+      "SpecWZWallet": false,
+      "SpecKeycardHolder": false,
+      "SpecKeytool": false,
+      "SpecInjectorCase": false,
+      "SpecSlots": 3,
+      "FourthH": 1,
+      "FourthV": 1,
+      "ThirdH": 1,
+      "ThirdV": 1,
+      "SecondH": 1,
+      "SecondV": 1,
+      "FirstH": 1,
+      "FirstV": 1
+    },
+    "Cases": {
+      "GKeychain": {
+        "VSize": 2,
+        "HSize": 2,
+        "Filter": false
+      },
+      "KeycardHolderCase": {
+        "VSize": 3,
+        "HSize": 3,
+        "Filter": false
+      },
+      "InjectorCase": {
+        "VSize": 3,
+        "HSize": 3,
+        "Filter": false
+      },
+      "Holodilnick": {
+        "VSize": 7,
+        "HSize": 7,
+        "Filter": false
+      },
+      "PistolCase": {
+        "VSize": 4,
+        "HSize": 3,
+        "Filter": false
+      },
+      "DocumentsCase": {
+        "VSize": 4,
+        "HSize": 4,
+        "Filter": false
+      },
+      "Keytool": {
+        "VSize": 4,
+        "HSize": 4,
+        "Filter": false
+      },
+      "SiccCase": {
+        "VSize": 5,
+        "HSize": 5,
+        "Filter": false
+      },
+      "ThiccWeaponCase": {
+        "VSize": 15,
+        "HSize": 6,
+        "Filter": false
+      },
+      "ThiccItemsCase": {
+        "VSize": 14,
+        "HSize": 14,
+        "Filter": false
+      },
+      "MedicineCase": {
+        "VSize": 7,
+        "HSize": 7,
+        "Filter": false
+      },
+      "DogtagCase": {
+        "VSize": 10,
+        "HSize": 10,
+        "Filter": false
+      },
+      "MagazineCase": {
+        "VSize": 7,
+        "HSize": 7,
+        "Filter": false
+      },
+      "AmmunitionCase": {
+        "VSize": 7,
+        "HSize": 7,
+        "Filter": false
+      },
+      "WeaponCase": {
+        "VSize": 10,
+        "HSize": 5,
+        "Filter": false
+      },
+      "ItemsCase": {
+        "VSize": 7,
+        "HSize": 7,
+        "Filter": false
+      },
+      "GrenadeCase": {
+        "VSize": 8,
+        "HSize": 8,
+        "Filter": false
+      },
+      "WZWallet": {
+        "VSize": 2,
+        "HSize": 2,
+        "Filter": false
+      },
+      "SimpleWallet": {
+        "VSize": 2,
+        "HSize": 2,
+        "Filter": false
+      },
+      "MoneyCase": {
+        "VSize": 7,
+        "HSize": 7,
+        "Filter": false
+      },
+      "LuckyScav": {
+        "VSize": 14,
+        "HSize": 14,
+        "Filter": false
+      }
+    },
+    "SecureContainers": {
+      "KappaHSize": 3,
+      "AlphaVSize": 2,
+      "KappaVSize": 4,
+      "AlphaHSize": 2,
+      "GammaHSize": 3,
+      "GammaVSize": 3,
+      "BetaVSize": 2,
+      "BetaHSize": 3,
+      "EpsilonHSize": 4,
+      "EpsilonVSize": 2,
+      "DevVSize": 3,
+      "DevHSize": 3,
+      "WaistPouchHSize": 2,
+      "WaistPouchVSize": 2
+    },
+    "EnableCSM": false
+  },
+  "Scav": {
+    "SCAVPockets": {
+      "FourthH": 1,
+      "FourthV": 1,
+      "ThirdH": 1,
+      "ThirdV": 1,
+      "SecondH": 1,
+      "SecondV": 1,
+      "FirstH": 1,
+      "FirstV": 1
+    },
+    "HostileBosses": false,
+    "FriendlyBosses": false,
+    "CarBaseStanding": 0.25,
+    "ScavTimer": 70000,
+    "ScavCustomPockets": false,
+    "ScavLab": false,
+    "FriendlyScavs": false,
+    "HostileScavs": false,
+    "StandingFriendlyKill": -0.04,
+    "StandingPMCKill": 0.01,
+    "Health": {
+      "LeftArm": 60,
+      "RightArm": 60,
+      "Head": 35,
+      "Chest": 85,
+      "Stomach": 70,
+      "LeftLeg": 65,
+      "RightLeg": 65
+    },
+    "EnableScavHealth": false,
+    "EnableScav": false
+  },
+  "Bots": {
+    "AIChance": {
+      "Kolontay": 30,
+      "Kaban": 30,
+      "TagillaNight": 30,
+      "TrioLighthouse": 30,
+      "TrioShoreline": 30,
+      "TrioWoods": 30,
+      "Zryachiy": 100,
+      "CultistCustoms": 15,
+      "CultistShoreline": 20,
+      "Trio": 30,
+      "RaiderLab": 40,
+      "RaiderReserve": 35,
+      "CultistFactory": 10,
+      "CultistWoods": 20,
+      "Rogue": 65,
+      "Tagilla": 30,
+      "Shturman": 30,
+      "Glukhar": 30,
+      "Sanitar": 30,
+      "Reshala": 30,
+      "Killa": 30
+    },
+    "ArmorDurab": {
+      "PMCMax": 100,
+      "FollowerMax": 100,
+      "BossMax": 100,
+      "MarksmanMax": 100,
+      "ScavMax": 100,
+      "RogueMax": 100,
+      "RaiderMax": 100,
+      "PMCMin": 90,
+      "FollowerMin": 90,
+      "BossMin": 100,
+      "MarksmanMin": 90,
+      "ScavMin": 50,
+      "RogueMin": 90,
+      "RaiderMin": 90
+    },
+    "WeaponDurab": {
+      "PMCMax": 100,
+      "FollowerMax": 100,
+      "BossMax": 100,
+      "MarksmanMax": 100,
+      "ScavMax": 100,
+      "RogueMax": 100,
+      "RaiderMax": 100,
+      "PMCMin": 95,
+      "FollowerMin": 80,
+      "BossMin": 80,
+      "MarksmanMin": 60,
+      "ScavMin": 85,
+      "RogueMin": 80,
+      "RaiderMin": 80
+    },
+    "EnableBots": false
+  },
+  "PMC": {
+    "NameOverride": false,
+    "ForceCustomWaves": false,
+    "CustomWaveChance": 100,
+    "PMCChance": {
+      "PMCNamePrefix": 15,
+      "PMCAllNamePrefix": 5,
+      "PMCLooseWep": 15,
+      "HostilePMC": 80,
+      "PMCWepEnhance": 5
+    },
+    "LevelMargin": 10,
+    "PMCNameList": "NotJojo\r\nGhostFenixx\r\nSinistar\r\nGoose\r\nAssAssIn\r\nMayoringram\r\nMorgan\r\nNukeSkywalker\r\njvs\r\nEstamNar\r\nMMX\r\nTabi\r\nAsian69Lover\r\nBeagle\r\nbllt\r\nBright\r\nBroCC\r\nCthuluTheMadGod\r\nDoddsy\r\nGodHimself\r\nNicholas\r\nmonsterfoxtrot\r\nMotch\r\nMylu\r\nnavodschikrichtschutze\r\nSazukiwi\r\nSingularity\r\nodin_4\r\nthorncp\r\nTobi\r\nXen0Xys\r\nShiro-Chan\r\nTrappussy\r\numsirqualquerai\r\nwaffentrageraufe100\r\naleves\r\nCarl\r\nFox\r\nGamenator\r\njbs4bmx\r\nJustNU\r\nKattomine\r\nKronzky\r\nLimbo\r\nMissingInAction\r\nssh\r\nRevingly\r\nTheSparta\r\nTraveler\r\nFontaine\r\nAtonicX\r\nBuyingGF\r\nCats\r\nCoolbugfactes\r\nDecompress\r\nElektryczny9\r\nFrumorn\r\nImTheRickHere\r\nKarma\r\ncowkiller19\r\nNex\r\nStako\r\nThe2ndarbiter\r\nDSpider\r\nAndy\r\nBadwolf_54\r\nBedalek\r\nBiohazard6165\r\nblkcbrd13\r\nCentolloJames\r\nChameleon2310\r\nD3\r\nDalamadur\r\nEpiicBatkiller\r\nFlamber\r\nG10rgos\r\nGamenator\r\nJosh33\r\nJustin\r\nKacidi\r\nKarma\r\nLayerOfBlubber\r\nLennyrod\r\nMarchwin\r\nmxa9690\r\nnex1488\r\nXnoowl\r\nPonderingTheOrb\r\nSerakym\r\nStockUserName\r\nSyra\r\nVampireKittenThe2nd\r\nXsos\r\nWahntalot\r\nEmilia\r\nZ3R0\r\nZooey",
+    "NamesEnable": false,
+    "PMCRatio": 50,
+    "AItoPMC": {
+      "PMCtoCursedScav": 20,
+      "SnipertoPMC": 0,
+      "PMCtoScav": 25,
+      "ExusectoPMC": 5,
+      "PMCtoRaider": 7
+    },
+    "DisableLowLevelPMC": false,
+    "LootableMelee": false,
+    "EnablePMC": false
+  },
+  "Custom": {
+    "EnableCustom": false,
+    "DebugAI": false,
+    "LoggerIntoServer": false
+  }
+}

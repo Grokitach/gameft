@@ -1,0 +1,267 @@
+{
+	"SecureContainersOptions": {
+		// Master toggle for all secure containers options below. Inspired by Trap's Progressive Stash, redone from scratch. Disabled by default to not confuse existing profiles.
+		"enabled": false,
+		"Progressive_Containers": {
+			// Start your NEW profile with just a Waist Pouch 2x2 container, and work your way up all the way up to Gamma with insanely complex and expensive, but fun and fair custom container crafts.
+			"enabled": false,
+			"Collector_Quest_Redone": {
+				// Collector quest is startable just at level 20. No longer you need all other quests done, only items. BUT, don't think it's going to be easy, there is an additional end-game grind ending condition waiting for you. Should be much more fun then vanilla 'grind to level 55, duh'.
+				"enabled": false
+			}
+		},
+		"Bigger_Containers": {
+			// Waist Pouch is 2x4, Alpha is now 3x3 (like EoD), Beta 3x4, Epsilon 3x5, Gamma 4x5, Kappa 5x5
+			"enabled": false
+		}
+	},
+	"HideoutOptions": {
+		// Master toggle for all hideout options below.
+		"enabled": true,
+		"StashOptions": {
+			// Master toggle for all stash options below. Inspired by Trap's Progressive Stash.
+			"enabled": false,
+			"Progressive_Stash": {
+				// Makes every new profile start with LVL1 stash
+				"enabled": false
+			},
+			"BiggerStash": {
+				// Bigger stash option, from 28/38/48/68 to 50/100/150/200 lines.
+				"enabled": false
+			},
+			"Less_Currency_For_Construction": {
+				// Reduces ridiculous cash requirements for stage construction by a factor of 10
+				"enabled": true
+			},
+			"Easier_Loyalty": {
+				// Reduces loyalty level requirements for stage construction (Prapor, Ragman and Peacekeeper) by 1.
+				"enabled": false
+			}
+		},
+		"Faster_Bitcoin_Farming": {
+			// Modifies base farming time and dramatically increases each GPU efficiency (from ~4% to 50%). It means that each additional GPU has a much greater impact on farming time and lvl3 bitcoin farm is very profitable and desirable. EG - Vanilla 1x GPU: 40h 17min, at 50x GPU: 13h 20min for 1 bitcoin. Default Softcore settings - 1x GPU: 20h 8min, 50x GPU: 0h 47min per bitcoin. Revert_Bitcoin_Price_To_v012 option sets Bitcoin price from 225k in 0.13 to 100k like in 0.12, this is intented way for balance.
+			"enabled": false,
+			"Revert_Bitcoin_Price_To_v012": true,
+			"Base_Bitcoin_Time_Multiplier": 2,
+			"GPU_Efficiency": 0.5
+		},
+		"Faster_Crafting_Time": {
+			// Make all recipes except bitcoin, moonshine and purified water much faster.
+			"enabled": true,
+			"Base_Crafting_Time_Multiplier": 100,
+			"Hideout_Skill_Exp_Fix": {
+				// Experimental experience per crafting time fix for Hideout Management skill, needs further investigation into SPT-AKI code for proper adjustments. Works fine otherwise.
+				"enabled": true,
+				"Hideout_Skill_Exp_Multiplier": 10
+			}
+		},
+		"Faster_Moonshine_and_Purified_Water_Production": {
+			// Faster Moonshine and Purified water production.
+			"enabled": true,
+			"Base_Moonshine_And_Water_Time_Multiplier": 10
+		},
+		"Faster_Hideout_Construction": {
+			// Make construction of the hideout stations much faster.
+			"enabled": true,
+			"Hideout_Construction_Time_Multiplier": 100
+		},
+		"Increased_Fuel_Consumption": {
+			// To balance all the features above, fuel consumtion is increased. Now you will actually have to think about fuel economy. A little, but still.
+			"enabled": false,
+			"Fuel_Consumption_Multiplier": 10
+		}
+	},
+	"EconomyOptions": {
+		// Master toggle for all economy options below
+		"enabled": true,
+		"Disable_Flea_Market_Completely": {
+			// Completely disable flea market for true HARDCORE experience. Still allows you to use the interface and see trader offers. Overwrites all other flea changes below.
+			"disable": true
+		},
+		"Price_Rebalance": {
+			// CORE feature of this mod. Completly removes SPT-AKI flea prices snapshot from LIVE, and matches them to internal handbook/traders prices. Everything else is balanced around this. NOT recommended to disable. Obviously not compatible with mods like Lua's Flea Market Price Updater.
+			"enabled": true,
+			// Fix for importantt items like intel folder and military flash drive
+			"Item_Fixes": true
+		},
+		"Pacifist_FleaMarket": {
+			// CORE feature of this mod. Only meds, barter items, food and info items can be bought on flea market. Uses hardcoded fleaWhitelist array as filter. NOT recommended to disable.
+			"enabled": true,
+			"Enable_Whitelist": {
+				// Small list of items used in crafts and trader barters is available on flea. Uses hardcoded itemWhitelist array.
+				"enabled": true
+			},
+			"Enable_QuestKeys": {
+				// Random-only QUEST keys are available on flea. Uses hardcoded questKeys array.
+				"enabled": true,
+				"PriceMultiplier": 2
+			},
+			"Enable_Marked_Keys": {
+				// Marked keys are available on flea market.
+				"enabled": true,
+				"PriceMultiplier": 2
+			}
+		},
+		"Barter_Economy": {
+			// CORE feature of this mod. Only allows to buy items on flea using other random FiR or crafted items. Uses hardcoded fleaBarterBlacklist array as filter for allowed items (meds, barter items, food and info items are enabled, exceptions are stimulants and fuel). NOT recommended to disable.
+			"enabled": true,
+			"Cash_Offers_Percentage": {
+				// Allow small, random percentage of listings to be buyable for cash. 0 is true barter-only ecomnomy (except the cheapest items like AA battery, but this is a SPT-AKI limitation), I'd say this is a preferred way to play with this mod, but it might be a little too hard sometimes. 5% seems like a fine number that makes life just a little bit easier to avoid item deadlocks. Recommendation: 0 to 15.
+				"value": 8
+			},
+			"Barter_Price_Variance": {
+				// ± percent of price variance between item listing and it's barter value. Bigger number - more wild and varied random trades, eg you can see a Defiblirator (that has 224k value) offered for a Lion (162k value) or a Tank Battery (330k value). This CORE feature makes the whole mod tick, that what makes it fun, random and engaging and stimulates hustling in a war broken society. You can get lucky, and get a great deal, or you might desperately need an item that is way overvalued but you only have the expensive item that it is asked for. Also more variance means it's easier to encounter an offer you have an item for and easier trades. Recomendation: 20-50
+				"value": 40
+			},
+			"offerItemCount": {
+				// Max 20 different offers of an item. Too low of a number breaks AKI server for some reason, with constant client errors on completed trades. More random trades variance anyway, this is fun.
+				"min": 10,
+				"max": 20
+			},
+			"nonStackableCount": {
+				// Max 2 items availiable per individual offer. Feels nice. Loot more stuff, it might come in handy.
+				"min": 1,
+				"max": 2
+			},
+			"itemCountMax": {
+				// Limits maximum number of items asked for barter. Default is 2 for 1 barters max.
+				"value": 2
+			},
+			"Unban_Bitcoins_For_Barters": {
+				// Allow Bitcoins to be used for barters.
+				"enabled": true
+			}
+		},
+		"Disable_Selling_on_Flea": {
+			// NOT RECOMMENDED TO CHANGE, use TraderChanges options below. If option is CHANGED below, it will ALLOW selling on flea market (default is NO SELLING ON FLEA). Also increases fleamarket reputation gain by a factior of 10. Will allow you to sell weapons and other blocked by Softcore items like in Vanilla. Not playtested and balanced around this, not recommended to enable. Also SPT 3.5.0 has wierd default configuration for time, will have to investigete further.
+			"sellingDisabled": true
+		},
+		"Fleamarket_Opened_at_Level": {
+			// PMC level flea market opens at.
+			"value": 5
+		},
+		"Flea_Prices_Increased": {
+			// Slightly increase flea market prices to stimulate looting and crafting, instead of buying everything on flea. With barter economy and variance enabled you still get a lot of great trades lower then actual item value. Hustle!
+			"multiplier": 1.3
+		},
+		"Flea_Pristine_Items": {
+			// Only pristine condition items are offered on flea.
+			"enabled": true
+		},
+		"Only_Found_In_Raid_Items_Allowed_For_Barters": {
+			// Be a man, don't change this. This is borderline cheating option for infinite money because of variance changes.
+			"enabled": true
+		}
+	},
+	"TraderChanges": {
+		// Master toggle for all trader changes below
+		"enabled": true,
+		"Better_Sales_To_Traders": {
+			// Adjusts trader evaluations for selling items (from Prapor 50%, Therapist 63%, Ragman 62%, Jaeger 60%, Mechanic 56%, Peacekeeper 45%, Skier 49% --> Prapor 60%, Therapist 64%, Ragman 63%, Jaeger 62%, Mechanic 61%, Peacekeeper 58%, Skier 59% at loyalty level 1). Also every loyalty level will give 5% better selling evaluation so e.g. at LL4 Propor will buy items for 75% of their value.
+			"enabled": false
+		},
+		"Alternative_Categories": {
+			// Nerfs Therapist buying categories (instead of all barter items, she buys only meds and household goods, good for trader diversity), allows Ragman to buy valuables and Skier to buy info items.
+			"enabled": false
+		},
+		"Pacifist_Fence": {
+			// To go algong with the theme of this mod, Fence also sells only pacifist items. His prices are dependant on scav karma, so at 6 karma he will sell items almost at the same price Therapist buys them from you.
+			"enabled": false,
+			"Number_Of_Fence_Offers": 30
+		},
+		"Reasonably_Priced_Cases": {
+			// Rebalances costs of hideout cases to fair and resonable prices and barters. Also changes LEDX dogtag barter
+			"enabled": true
+		},
+		"Skier_Uses_Euros": {
+			// EXPERIMENTAL option, makes Skier use Euros for all trades, and quest rewards, mostly just for fun and diversity. Adjusts assorts and loyalty levels accordingly. Turned off by default, because needs adjusting existing profiles salesSum (you can do it manually, find TradersInfo in your %profileID%.json, and in 58330581ace78e27b8b10cee key divide salesSum by 115 without leaving the remainder).
+			"enabled": false
+		},
+		"Bigger_Limits": {
+			// Bigger limits for buying from traders
+			"enabled": false,
+			"Limit_Multiplier": 2
+		}
+	},
+	"CraftingRebalance": {
+		// Major rebalance of crafting recipes balanced around components rarities, usefullness, trader prices and plain lore logic. Some nerfs, but a lot of huge buffs. Main idea was to make most of the crafts usefull and/or profitable. I'm pretty content with lavatory, medstation, nutrition and intel center crafts, but it's a constant WIP feature, looking for feedback!
+		"enabled": true
+	},
+	"AdditionalCraftingRecipes": {
+		// New custon lore-friendly and balanced crafting recipes added for 3-b-TG, Adrenaline, L1, AHF1, CALOK, Ophthalmoscope, Zagustin, Obdolbos, OLOLO. Looking for feedback on balance and more crafting ideas.
+		"enabled": true
+	},
+	"ScavCaseOptions": {
+		// Master toggle for all scavcase features below.
+		"enabled": true,
+		"BetterRewards": {
+			// Recommendation: always enable. Think of it as SPT-AKI patch/fix for scavcase reward pool. Conservatively filters out a ton of the crap/useless items (eg <10k worth weapon-specific mods, ironsights, gas blocks, thread adapters, magazines, mounts etc) and OP/boss/developer/broken/quest/etc items from scav reward list. Makes sure you always get something of value and/or usable. Very safe to use, even if you don't want other features. Generated blacklist included in ./docs folder, feel free to explore it. Might further look into ammo/boxes reward list, those are untouched yet.
+			"enabled": true
+		},
+		"FasterScavcase": {
+			// Faster scavcase launches, speed multiplier is below. x10 feels just right.
+			"enabled": true,
+			"SpeedMultiplier": 4
+		},
+		"Rebalance": {
+			// MAJOR rebalance of scav case rewards, FEELS great for single player experience. Changes all cash launches to alcohol for lore-friendly experience (Pevko -> Vodka -> Whiskey -> Moonshine -> Intel). Completely alters internal rewards tiers (common: under 20,000, rare: 20,000 to 60,000, superrare: 60,000 to 1,200,000), makes every launch tier valuable, fair and TARGETABLE for different item tiers. Pevko is very fast, gives 2 to 3 common items. Vodka gives 3 to 4 common items, with a chance to give 1 rare item. Whiskey gives 4 to 5 common items, and 1 to 2 rare items. Moonshine is fun for gambling, gives 2 to 3 commons, 0 to 3 rares, 1 to 2 superrare items. Intelligence folder is the most consistent, 2 to 3 commons, 3 to 5 rares and 0 to 1 superrares.
+			"enabled": true
+		}
+	},
+	"OtherTweaks": {
+		// Master toggle for all other options below.
+		"enabled": false,
+		"Skill_Exp_Buffs": {
+			// Buff Vitality, Sniper, Surgery, Immunity, Stress Resistance and MagDrills skills leveling (x10).
+			"enabled": false
+		},
+		"Bigger_Hideout_Containers": {
+			// Slightly buffs basic hideout containers: Medicine case 7x7 -> 10x10, Holodilnick 8x8 -> 10x10, Magazine case 7x7 -> 7x10, Item case 8x8 -> 10x10, Weapon case 5x10 -> 6x10
+			"enabled": false
+		},
+		"Allow_Gym_Training_With_Muscle_Pain": {
+			// Allows to continue gym training with severe muscle pain at 25% efficiency.
+			"enabled": false
+		},
+		"Signal_Pistol_In_Special_Slots": {
+			// ZiD SP-81 26x75 signal pistol can be put in special slots and is not removed after death.
+			"enabled": false
+		},
+		"Unexamined_Items_Are_Back_and_Faster_Examine_Time": {
+			// Reverts BSG decision to make all items examined by default and makes examining faster.
+			"enabled": false
+		},
+		"Remove_Backpack_Restrictions": {
+			// Removes backpack restrictions (for ammo, med, etc containers and other backpacks). Never again I'll see an unlootable medcase in 314...
+			"enabled": false
+		},
+		"Keytool_Buff": {
+			// Keytool buff to make it 5x5
+			"enabled": false
+		},
+		"SICC_Case_Buff": {
+			// Huge QoL buff to SICC case to make it actually not shit and a direct upgrade to Docs. And while we are here, allow it to hold keytools. It's an end-game item you cannot easily get on flea market with all other Softcore changes, so who cares. Allowed item list: Physical bitcoin, GP coin, Veritas guitar pick, Keycard holder case, Info, Key, Map, Money, Chain with Prokill medallion, Gold skull ring, Dogtag BEAR, Dogtag USEC, Secure Flash drive, Key tool.
+			"enabled": false
+		},
+		"Remove_Discard_Limit": {
+			// Remove discard limit for expensive items (anti-RTM measure by BSG).
+			"enabled": false
+		},
+		"Reshala_Always_Has_GoldenTT": {
+			// Reshala always has his Golden TT.
+			"enabled": false
+		},
+		"Bigger_Ammo_Stacks": {
+			// Bigger Ammo Stacks x10
+			"enabled": false
+		},
+		"Quest_Changes": {
+			// Better start for quests (Crisis)
+			"enabled": false
+		}
+	},
+	"InsuranceChanges": {
+		// Redo insurance. Make the two traders serve different purposes. Prapor in an instant return with 50% chance, costs 10% of item value, eg usefull for fast return of cheap quest loadouts or plain gambling. Therapist has 2 hour return with 80% chance (SPT-AKI default is 90%), costs 20% (SPT-AKI - 25%). Also buff insurance storage time to a whole month.
+		"enabled": false
+	}
+}

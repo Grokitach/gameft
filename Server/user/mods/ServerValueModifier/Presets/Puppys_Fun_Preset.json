@@ -1,0 +1,738 @@
+{
+  "PresetNotes": "",
+  "Items": {
+    "HeatFactor": 1,
+    "ExamineTime": 0.75,
+    "ExamineKeys": false,
+    "AddSignalPistolToSpec": true,
+    "WeaponHeatOff": false,
+    "SMGToHolster": false,
+    "PistolToMain": true,
+    "AllExaminedItems": false,
+    "MisfireChance": 0.75,
+    "EquipRigsWithArmors": false,
+    "RemoveSecureContainerFilters": true,
+    "MalfunctChanceMult": 0.75,
+    "WeightChanger": 0.85,
+    "ItemPriceMult": 1.25,
+    "BSGCashStack": false,
+    "RubStack": 1000000,
+    "DollarStack": 100000,
+    "EuroStack": 100000,
+    "AmmoLoadSpeed": 0.5,
+    "LootExp": 1.5,
+    "EnableItems": true,
+    "ExamineExp": 1.5,
+    "AmmoStacks": {
+      "MarksmanRound": 80,
+      "RifleRound": 120,
+      "ShotgunRound": 40,
+      "PistolRound": 100
+    },
+    "RemoveRaidRestr": true,
+    "RemoveBackpacksRestrictions": true,
+    "AvoidSingleKeys": false,
+    "AvoidMarkedKeys": false,
+    "KeyUseMult": 1,
+    "KeycardUseMult": 1,
+    "IDChanger": true,
+    "NoGearPenalty": false,
+    "IDBox": "64d116f41a9c6143a956127d:Grids:0:_props:cellsH:4\r\n64d116f41a9c6143a956127d:Grids:0:_props:cellsV:4\r\n64d11702dd0cd96ab82c3280:Grids:0:_props:cellsH:5\r\n64d11702dd0cd96ab82c3280:Grids:0:_props:cellsV:5\r\n5d6d2bb386f774785b07a77a:Grids:0:_props:cellsH:5\r\n5d6d2bb386f774785b07a77a:Grids:0:_props:cellsV:4\r\n578f879c24597735401e6bc6:Grids:0:_props:cellsH:3\r\n578f879c24597735401e6bc6:Grids:0:_props:cellsV:2\r\n5ad74cf586f774391278f6f0:Grids:0:_props:cellsH:3\r\n5ad74cf586f774391278f6f0:Grids:0:_props:cellsV:3\r\n5d07b91b86f7745a077a9432:Grids:0:_props:cellsH:6\r\n5d07b91b86f7745a077a9432:Grids:0:_props:cellsV:6\r\n658420d8085fea07e674cdb6:Grids:0:_props:cellsH:5\r\n658420d8085fea07e674cdb6:Grids:0:_props:cellsV:5\r\n5909e4b686f7747f5b744fa4:Grids:0:_props:cellsH:5\r\n5909e4b686f7747f5b744fa4:Grids:0:_props:cellsV:5\r\n578f87b7245977356274f2cd:Grids:0:_props:cellsH:3\r\n578f87b7245977356274f2cd:Grids:0:_props:cellsV:4\r\n5909d36d86f774660f0bb900:Grids:0:_props:cellsH:3\r\n5909d36d86f774660f0bb900:Grids:0:_props:cellsV:4\r\n5d6d2b5486f774785c2ba8ea:Grids:0:_props:cellsH:5\r\n5d6d2b5486f774785c2ba8ea:Grids:0:_props:cellsV:5\r\n578f8778245977358849a9b5:Grids:0:_props:cellsH:3\r\n578f8778245977358849a9b5:Grids:0:_props:cellsV:3\r\n5909d24f86f77466f56e6855:Grids:0:_props:cellsH:5\r\n5909d24f86f77466f56e6855:Grids:0:_props:cellsV:4\r\n5909d4c186f7746ad34e805a:Grids:0:_props:cellsH:5\r\n5909d4c186f7746ad34e805a:Grids:0:_props:cellsV:5\r\n5d6fe50986f77449d97f7463:Grids:0:_props:cellsH:6\r\n5d6fe50986f77449d97f7463:Grids:0:_props:cellsV:6\r\n59139c2186f77411564f8e42:Grids:0:_props:cellsH:5\r\n59139c2186f77411564f8e42:Grids:0:_props:cellsV:5\r\n5c052cea86f7746b2101e8d8:Grids:0:_props:cellsH:4\r\n5c052cea86f7746b2101e8d8:Grids:0:_props:cellsV:4\r\n6582e6d7b14c3f72eb071420:Grids:0:_props:cellsH:5\r\n6582e6d7b14c3f72eb071420:Grids:0:_props:cellsV:5\r\n5d6fd13186f77424ad2a8c69:Grids:0:_props:cellsH:6\r\n5d6fd13186f77424ad2a8c69:Grids:0:_props:cellsV:6\r\n578f8782245977354405a1e3:Grids:0:_props:cellsH:4\r\n578f8782245977354405a1e3:Grids:0:_props:cellsV:5\r\n578f87a3245977356274f2cb:Grids:0:_props:cellsH:5\r\n578f87a3245977356274f2cb:Grids:0:_props:cellsV:4\r\n5d6fd45b86f774317075ed43:Grids:0:_props:cellsH:6\r\n5d6fd45b86f774317075ed43:Grids:0:_props:cellsV:6\r\n5909d50c86f774659e6aaebe:Grids:0:_props:cellsH:5\r\n5909d50c86f774659e6aaebe:Grids:0:_props:cellsV:4\r\n5909d7cf86f77470ee57d75a:Grids:0:_props:cellsH:5\r\n5909d7cf86f77470ee57d75a:Grids:0:_props:cellsV:5\r\n5909d5ef86f77467974efbd8:Grids:0:_props:cellsH:6\r\n5909d5ef86f77467974efbd8:Grids:0:_props:cellsV:3\r\n5909d89086f77472591234a0:Grids:0:_props:cellsH:6\r\n5909d89086f77472591234a0:Grids:0:_props:cellsV:6\r\n5909d76c86f77471e53d2adf:Grids:0:_props:cellsH:7\r\n5909d76c86f77471e53d2adf:Grids:0:_props:cellsV:4\r\n5909d45286f77465a8136dc6:Grids:0:_props:cellsH:4\r\n5909d45286f77465a8136dc6:Grids:0:_props:cellsV:4\r\n578f87ad245977356274f2cc:Grids:0:_props:cellsH:6\r\n578f87ad245977356274f2cc:Grids:0:_props:cellsV:3\r\n55d4887d4bdc2d962f8b4570:Cartridges:0:_max_count:45\r\n5c6d42cb2e2216000e69d7d1:Cartridges:0:_max_count:45\r\n5c6d450c2e221600114c997d:Cartridges:0:_max_count:45\r\n5c05413a0db834001c390617:Cartridges:0:_max_count:45\r\n5aaa5dfee5b5b000140293d3:Cartridges:0:_max_count:45\r\n5d1340b3d7ad1a0b52682ed7:Cartridges:0:_max_count:45\r\n6241c2c2117ad530666a5108:Cartridges:0:_max_count:45\r\n55802d5f4bdc2dac148b458e:Cartridges:0:_max_count:45\r\n5d1340cad7ad1a0b0b249869:Cartridges:0:_max_count:45\r\n5c6d46132e221601da357d56:Cartridges:0:_max_count:45\r\n5a9e81fba2750c00164f6b11:Cartridges:0:_max_count:45\r\n59d625f086f774661516605d:Cartridges:0:_max_count:45\r\n5a01c29586f77474660c694c:Cartridges:0:_max_count:45\r\n6272874a6c47bd74f92e2087:Cartridges:0:_max_count:45\r\n59d6272486f77466146386ff:Cartridges:0:_max_count:45\r\n5e21a3c67e40bd02257a008a:Cartridges:0:_max_count:45\r\n59fafc5086f7740dbe19f6c3:Cartridges:0:_max_count:45\r\n59fafc9386f774067d462453:Cartridges:0:_max_count:45\r\n5ac66c5d5acfc4001718d314:Cartridges:0:_max_count:45\r\n5ac66bea5acfc43b321d4aec:Cartridges:0:_max_count:45\r\n5bed61680db834001d2c45ab:Cartridges:0:_max_count:45\r\n649ec30cb013f04a700e60fb:Cartridges:0:_max_count:45\r\n564ca99c4bdc2d16268b4589:Cartridges:0:_max_count:45\r\n55d480c04bdc2d1d4e8b456a:Cartridges:0:_max_count:45\r\n5cbdaf89ae9215000e5b9c94:Cartridges:0:_max_count:45\r\n5aaa4194e5b5b055d06310a5:Cartridges:0:_max_count:45\r\n5a0060fc86f7745793204432:Cartridges:0:_max_count:45\r\n61840bedd92c473c77021635:Cartridges:0:_max_count:45\r\n61840d85568c120fdd2962a5:Cartridges:0:_max_count:45\r\n5fb651dc85f90547f674b6f4:Cartridges:0:_max_count:45\r\n62307b7b10d2321fa8741921:Cartridges:0:_max_count:45\r\n5926c3b286f774640d189b6b:Cartridges:0:_max_count:45\r\n5ba2657ed4351e0035628ff2:Cartridges:0:_max_count:45\r\n5addcce35acfc4001a5fc635:Cartridges:0:_max_count:45\r\n5de8eaadbbaf010b10528a6d:Cartridges:0:_max_count:45\r\n5894a05586f774094708ef75:Cartridges:0:_max_count:45\r\n599860ac86f77436b225ed1a:Cartridges:0:_max_count:45\r\n5c0672ed0db834001b7353f3:Cartridges:0:_max_count:45\r\n57d1519e24597714373db79d:Cartridges:0:_max_count:45\r\n5b7bef5d5acfc43bca7067a3:Cartridges:0:_max_count:45\r\n5b7d37845acfc400170e2f87:Cartridges:0:_max_count:45\r\n5c0548ae0db834001966a3c2:Cartridges:0:_max_count:45\r\n62e153bcdb1a5c41971c1b5b:Cartridges:0:_max_count:45\r\n62e7c98b550c8218d602cbb4:Cartridges:0:_max_count:45\r\n5aaa5e60e5b5b000140293d6:Cartridges:0:_max_count:25\r\n5888988e24597752fe43a6fa:Cartridges:0:_max_count:25\r\n628120fd5631d45211793c9f:Cartridges:0:_max_count:25\r\n5b1fd4e35acfc40018633c39:Cartridges:0:_max_count:25\r\n59e5d83b86f7745aed03d262:Cartridges:0:_max_count:25\r\n55d4837c4bdc2d1d4e8b456c:Cartridges:0:_max_count:25\r\n5df8f535bb49d91fb446d6b0:Cartridges:0:_max_count:25\r\n5caf1041ae92157c28402e3f:Cartridges:0:_max_count:25\r\n617130016c780c1e710c9a24:Cartridges:0:_max_count:25\r\n64b9e2037fdfb81df81e3c25:Cartridges:0:_max_count:25\r\n5d25a6538abbc306c62e630d:Cartridges:0:_max_count:25\r\n5d25a7b88abbc3054f3e60bc:Cartridges:0:_max_count:25\r\n5d25af8f8abbc3055079fec5:Cartridges:0:_max_count:25\r\n5bfeaa0f0db834001b734927:Cartridges:0:_max_count:25\r\n5a78832ec5856700155a6ca3:Cartridges:0:_max_count:25\r\n5fc23426900b1d5091531e15:Cartridges:0:_max_count:25\r\n5bae13ded4351e44f824bf38:Cartridges:0:_max_count:25\r\n5b7bef1e5acfc43d82528402:Cartridges:0:_max_count:25\r\n5998529a86f774647f44f421:Cartridges:0:_max_count:25\r\n587df3a12459772c28142567:Cartridges:0:_max_count:25\r\n5a966f51a2750c00156aacf6:Cartridges:0:_max_count:25\r\n630e1adbbd357927e4007c09:Cartridges:0:_max_count:25\r\n5c471c442e221602b542a6f8:Cartridges:0:_max_count:25\r\n6422e1ea3c0f06190302161a:Cartridges:0:_max_count:25\r\n5c503ad32e2216398b5aada2:Cartridges:0:_max_count:25\r\n57838f0b2459774a256959b2:Cartridges:0:_max_count:25\r\n5448c1d04bdc2dff2f8b4569:Cartridges:0:_max_count:35\r\n6450ec2e7da7133e5a09ca96:Cartridges:0:_max_count:35\r\n64b9cf0ac12b9c38db26923a:Cartridges:0:_max_count:35\r\n64b9e265c94d0d15c5027e35:Cartridges:0:_max_count:35\r\n5df8f541c41b2312ea3335e3:Cartridges:0:_max_count:35\r\n65293c38fc460e50a509cb25:Cartridges:0:_max_count:35\r\n5a3501acc4a282000d72293a:Cartridges:0:_max_count:35\r\n5caf1109ae9215753c44119f:Cartridges:0:_max_count:35\r\n5d3eb5eca4b9363b1f22f8e4:Cartridges:0:_max_count:35\r\n618168dc8004cc50514c34fc:Cartridges:0:_max_count:35\r\n6183d53f1cb55961fa0fdcda:Cartridges:0:_max_count:35\r\n5d2f213448f0355009199284:Cartridges:0:_max_count:35\r\n5ba264f6d4351e0034777d52:Cartridges:0:_max_count:35\r\n617131a4568c120fdd29482d:Cartridges:0:_max_count:35\r\n5aaf8a0be5b5b00015693243:Cartridges:0:_max_count:35\r\n5cf12a15d7f00c05464b293f:Cartridges:0:_max_count:35\r\n5de8ea8ffd6b4e6e2276dc35:Cartridges:0:_max_count:35\r\n5c5db6552e2216001026119d:Cartridges:0:_max_count:35\r\n5c920e902e221644f31c3c99:Cartridges:0:_max_count:35\r\n5c0673fb0db8340023300271:Cartridges:0:_max_count:35\r\n57d14e1724597714010c3f4b:Cartridges:0:_max_count:35\r\n5b099ac65acfc400186331e1:Cartridges:0:_max_count:35\r\n5b7c2d1d5acfc43d1028532a:Cartridges:0:_max_count:35\r\n587df583245977373c4f1129:Cartridges:0:_max_count:35\r\n5cf8f3b0d7f00c00217872ef:Cartridges:0:_max_count:35\r\n633a98eab8b0506e48497c1a:Cartridges:0:_max_count:35\r\n5c88f24b2e22160bc12c69a6:Cartridges:0:_max_count:35\r\n57838f9f2459774a150289a0:Cartridges:0:_max_count:35\r\n5de8eaadbbaf010b10528a6d:Cartridges:0:_max_count:40\r\n5fc3e466187fea44d52eda90:Cartridges:0:_max_count:40\r\n65293c7a17e14363030ad308:Cartridges:0:_max_count:40\r\n625ff2ccb8c587128c1a01dd:Cartridges:0:_max_count:20\r\n5d25a4a98abbc30b917421a4:Cartridges:0:_max_count:20\r\n5bfea7ad0db834001c38f1ee:Cartridges:0:_max_count:20\r\n5ce69cbad7f00c00b61c5098:Cartridges:0:_max_count:20\r\n5ae0973a5acfc4001562206c:Cartridges:0:_max_count:20\r\n5882163e24597758206fee8c:Cartridges:0:_max_count:20\r\n57616a9e2459773c7a400234:Cartridges:0:_max_count:20\r\n5c6161fb2e221600113fbde5:Cartridges:0:_max_count:20\r\n5c503ac82e221602b21d6e9a:Cartridges:0:_max_count:20\r\n633ec6ee025b096d320a3b15:Cartridges:0:_max_count:20\r\n544a378f4bdc2d30388b4567:Cartridges:0:_max_count:55\r\n5d1340bdd7ad1a0e8d245aab:Cartridges:0:_max_count:55\r\n5b1fb3e15acfc4001637f068:Cartridges:0:_max_count:55\r\n59e5f5a486f7746c530b3ce2:Cartridges:0:_max_count:55\r\n5ba26586d4351e44f824b340:Cartridges:0:_max_count:55\r\n55d481904bdc2d8c2f8b456a:Cartridges:0:_max_count:60\r\n630e295c984633f1fb0e7c30:Cartridges:0:_max_count:57\r\n5c6592372e221600133e47d7:Cartridges:0:_max_count:200\r\n646372518610c40fc20204e8:Cartridges:0:_max_count:200\r\n6513f0a194c72326990a3868:Cartridges:0:_max_count:200\r\n5780cf7f2459777de4559322:MaximumNumberOfUsage:15\r\n5d80c60f86f77440373c4ece:MaximumNumberOfUsage:15\r\n5ede7a8229445733cb4c18e2:MaximumNumberOfUsage:15\r\n5d80c62a86f7744036212b3f:MaximumNumberOfUsage:15\r\n62987dfc402c7f69bf010923:MaximumNumberOfUsage:15\r\n63a3a93f8a56922e82001f5d:MaximumNumberOfUsage:15\r\n64ccc25f95763a1ae376e447:MaximumNumberOfUsage:15\r\n64d4b23dc1b37504b41ac2b6:MaximumNumberOfUsage:3\r\n5d08d21286f774736e7c94c3:MaximumNumberOfUsage:3\r\n5efde6b4f5448336730dbd61:MaximumNumberOfUsage:3\r\n5e42c81886f7742a01529f57:MaximumNumberOfUsage:25\r\n5e42c83786f7742a021fdf3c:MaximumNumberOfUsage:35\r\n5df8a4d786f77412672a1e3b:Grids:0:_props:cellsH:6\r\n5df8a4d786f77412672a1e3b:Grids:0:_props:cellsV:12\r\n5c0e774286f77468413cc5b2:Grids:0:_props:cellsH:6\r\n5c0e774286f77468413cc5b2:Grids:0:_props:cellsV:10\r\n5ab8ebf186f7742d8b372e80:Grids:0:_props:cellsH:5\r\n5ab8ebf186f7742d8b372e80:Grids:0:_props:cellsV:9\r\n639346cc1c8f182ad90c8972:Grids:0:_props:cellsH:5\r\n639346cc1c8f182ad90c8972:Grids:0:_props:cellsV:9\r\n59e763f286f7742ee57895da:Grids:0:_props:cellsH:5\r\n59e763f286f7742ee57895da:Grids:0:_props:cellsV:9\r\n61b9e1aaef9a1b5d6a79899a:Grids:0:_props:cellsH:5\r\n61b9e1aaef9a1b5d6a79899a:Grids:0:_props:cellsV:9\r\n5b44c6ae86f7742d1627baea:Grids:0:_props:cellsH:5\r\n5b44c6ae86f7742d1627baea:Grids:0:_props:cellsV:8\r\n628e1ffc83ec92260c0f437f:Grids:0:_props:cellsH:5\r\n62a1b7fbc30cfa1d366af586:Grids:0:_props:cellsH:5\r\n628e1ffc83ec92260c0f437f:Grids:0:_props:cellsV:8\r\n62a1b7fbc30cfa1d366af586:Grids:0:_props:cellsV:8\r\n5f5e467b0bc58666c37e7821:Grids:0:_props:cellsH:5\r\n5f5e467b0bc58666c37e7821:Grids:0:_props:cellsV:8\r\n545cdae64bdc2d39198b4568:Grids:0:_props:cellsH:5\r\n545cdae64bdc2d39198b4568:Grids:0:_props:cellsV:8\r\n6034d103ca006d2dca39b3f0:Grids:0:_props:cellsH:4\r\n6038d614d10cbf667352dd44:Grids:0:_props:cellsH:5\r\n6034d103ca006d2dca39b3f0:Grids:0:_props:cellsV:12\r\n6038d614d10cbf667352dd44:Grids:0:_props:cellsV:12\r\n628bc7fb408e2b2e9c0801b1:Grids:0:_props:cellsH:4\r\n628bc7fb408e2b2e9c0801b1:Grids:0:_props:cellsV:10\r\n5e9dcf5986f7746c417435b3:Grids:0:_props:cellsH:5\r\n5e9dcf5986f7746c417435b3:Grids:0:_props:cellsV:6\r\n5ca20d5986f774331e7c9602:Grids:0:_props:cellsH:5\r\n5ca20d5986f774331e7c9602:Grids:0:_props:cellsV:6\r\n56e335e4d2720b6c058b456d:Grids:0:_props:cellsH:5\r\n56e335e4d2720b6c058b456d:Grids:0:_props:cellsV:6\r\n60a2828e8689911a226117f9:Grids:0:_props:cellsH:5\r\n60a2828e8689911a226117f9:Grids:0:_props:cellsV:6\r\n60a272cc93ef783291411d8e:Grids:0:_props:cellsH:5\r\n60a272cc93ef783291411d8e:Grids:0:_props:cellsV:7\r\n618bb76513f5097c8d5aa2d5:Grids:0:_props:cellsH:5\r\n619cf0335771dd3c390269ae:Grids:0:_props:cellsV:7\r\n618bb76513f5097c8d5aa2d5:Grids:0:_props:cellsH:5\r\n619cf0335771dd3c390269ae:Grids:0:_props:cellsV:7\r\n618cfae774bb2d036a049e7c:Grids:0:_props:cellsH:5\r\n618cfae774bb2d036a049e7c:Grids:0:_props:cellsV:7\r\n5af0548586f7743a532b7e99:MaxHpResource:30\r\n5755383e24597772cb798966:MaxHpResource:12\r\n5751a89d24597722aa0e8db0:MaxHpResource:20\r\n5af0454c86f7746bf20992e8:MaxHpResource:10\r\n544fb3364bdc2d34748b456a:MaxHpResource:3\r\n5d02778e86f774203e7dedbe:MaxHpResource:20\r\n5d02797c86f774203f38e30a:MaxHpResource:30\r\n544fb25a4bdc2dfb738b4567:MaxHpResource:2\r\n5751a25924597722c463c472:MaxHpResource:5\r\n60098af40accd37ef2175f27:MaxHpResource:3\r\n5e8488fa988a8701445df1e4:MaxHpResource:5\r\n5e831507ea0a7c419c2f9bd9:MaxHpResource:2\r\n5755356824597772cb798962:MaxHpResource:200\r\n590c661e86f7741e566b646a:MaxHpResource:440\r\n544fb45d4bdc2dee738b4568:MaxHpResource:800\r\n590c678286f77426c9660122:MaxHpResource:600\r\n60098ad7c2240c0fe85c570a:MaxHpResource:800\r\n590c657e86f77412b013051d:MaxHpResource:3600\r\n544fb3f34bdc2d03748b456a:MaxHpResource:4\r\n5ed515e03a40a50460332579:MaxHpResource:4\r\n637b620db7afa97bfc3d7009:MaxHpResource:4\r\n5c10c8fd86f7743d7d706df3:MaxHpResource:4\r\n5c0e530286f7747fa1419862:MaxHpResource:4\r\n5c0e534186f7747fa1419867:MaxHpResource:4\r\n5fca138c2a7b221b2852a5c6:MaxHpResource:4\r\n637b6251104668754b72f8f9:MaxHpResource:4\r\n5ed515f6915ec335206e4152:MaxHpResource:4\r\n5c0e533786f7747fa23f4d47:MaxHpResource:4\r\n637b6179104668754b72f8f5:MaxHpResource:4\r\n5ed515ece452db0eb56fc028:MaxHpResource:4\r\n5ed5160a87bb8443d10680b5:MaxHpResource:4\r\n5c0e531286f7747fa54205c2:MaxHpResource:4\r\n5c0e531d86f7747fa23f4d42:MaxHpResource:4\r\n5ed515c8d380ab312177c0fa:MaxHpResource:4\r\n5ed5166ad380ab312177c100:MaxHpResource:4\r\n637b60c3b7afa97bfc3d7001:MaxHpResource:4\r\n5ed51652f6c34d2cc26336a1:MaxHpResource:4\r\n5fca13ca637ee0341a484f46:MaxHpResource:4\r\n637b612fb7afa97bfc3d7005:MaxHpResource:4\r\n5cfe8010d7ad1a59283b14c6:Cartridges:0:_max_count:65\r\n5addccf45acfc400185c2989:Cartridges:0:_max_count:65\r\n5b7bef9c5acfc43d102852ec:Cartridges:0:_max_count:65\r\n5a351711c4a282000b1521a4:Cartridges:0:_max_count:65\r\n5a718f958dc32e00094b97e7:Cartridges:0:_max_count:65\r\n5c5db6742e2216000f1b2852:Cartridges:0:_max_count:65\r\n5cc70093e4a949033c734312:Cartridges:0:_max_count:65\r\n544a37c44bdc2d25388b4567:Cartridges:0:_max_count:75\r\n59c1383d86f774290a37e0ca:Cartridges:0:_max_count:75\r\n55d482194bdc2d1d4e8b456b:Cartridges:0:_max_count:75\r\n564ca9df4bdc2d35148b4569:Cartridges:0:_max_count:60\r\n641074a07fd350b98c0b3f96:Cartridges:0:_max_count:30\r\n5de8e8dafd6b4e6e2276dc32:Cartridges:0:_max_count:30\r\n56d59948d2720bb7418b4582:Cartridges:0:_max_count:30\r\n5de8eaadbbaf010b10528a6d:Cartridges:0:_max_count:45\r\n64898602f09d032aa9399d56:StackMinRandom:45\r\n64898602f09d032aa9399d56:StackMaxRandom:45\r\n64898602f09d032aa9399d56:StackSlots:0:_max_count:45\r\n57372ac324597767001bc261:StackMinRandom:45\r\n57372ac324597767001bc261:StackMaxRandom:45\r\n57372ac324597767001bc261:StackSlots:0:_max_count:45\r\n57372bd3245977670b7cd243:StackMinRandom:45\r\n57372bd3245977670b7cd243:StackMaxRandom:45\r\n57372bd3245977670b7cd243:StackSlots:0:_max_count:45\r\n57372c89245977685d4159b1:StackMinRandom:45\r\n57372c89245977685d4159b1:StackMaxRandom:45\r\n57372c89245977685d4159b1:StackSlots:0:_max_count:45\r\n5737330a2459776af32363a1:StackMinRandom:45\r\n5737330a2459776af32363a1:StackMaxRandom:45\r\n5737330a2459776af32363a1:StackSlots:0:_max_count:45\r\n5737339e2459776af261abeb:StackMinRandom:45\r\n5737339e2459776af261abeb:StackMaxRandom:45\r\n5737339e2459776af261abeb:StackSlots:0:_max_count:45\r\n57372db0245977685d4159b2:StackMinRandom:45\r\n57372db0245977685d4159b2:StackMaxRandom:45\r\n57372db0245977685d4159b2:StackSlots:0:_max_count:45\r\n5c1262a286f7743f8a69aab2:StackMinRandom:45\r\n5c1262a286f7743f8a69aab2:StackMaxRandom:45\r\n5c1262a286f7743f8a69aab2:StackSlots:0:_max_count:45\r\n57372e4a24597768553071c2:StackMinRandom:45\r\n57372e4a24597768553071c2:StackMaxRandom:45\r\n57372e4a24597768553071c2:StackSlots:0:_max_count:45\r\n57372ebf2459776862260582:StackMinRandom:45\r\n57372ebf2459776862260582:StackMaxRandom:45\r\n57372ebf2459776862260582:StackSlots:0:_max_count:45\r\n573733c72459776b0b7b51b0:StackMinRandom:45\r\n573733c72459776b0b7b51b0:StackMaxRandom:45\r\n573733c72459776b0b7b51b0:StackSlots:0:_max_count:45\r\n57372f5c24597769917c0131:StackMinRandom:45\r\n57372f5c24597769917c0131:StackMaxRandom:45\r\n57372f5c24597769917c0131:StackSlots:0:_max_count:45\r\n5737300424597769942d5a01:StackMinRandom:45\r\n5737300424597769942d5a01:StackMaxRandom:45\r\n5737300424597769942d5a01:StackSlots:0:_max_count:45\r\n64aceafcb5bf5e95f50a4c20:StackMinRandom:45\r\n64aceafcb5bf5e95f50a4c20:StackMaxRandom:45\r\n64aceafcb5bf5e95f50a4c20:StackSlots:0:_max_count:45\r\n6579847c5a0e5879d12f2873:StackMinRandom:45\r\n6579847c5a0e5879d12f2873:StackMaxRandom:45\r\n6579847c5a0e5879d12f2873:StackSlots:0:_max_count:45\r\n6579846c1ec1943afb14c15a:StackMinRandom:45\r\n6579846c1ec1943afb14c15a:StackMaxRandom:45\r\n6579846c1ec1943afb14c15a:StackSlots:0:_max_count:45\r\n6489875745f9ca4ba51c4808:StackMinRandom:45\r\n6489875745f9ca4ba51c4808:StackMaxRandom:45\r\n6489875745f9ca4ba51c4808:StackSlots:0:_max_count:45\r\n657025bbcfc010a0f5006a35:StackMinRandom:45\r\n657025bbcfc010a0f5006a35:StackMaxRandom:45\r\n657025bbcfc010a0f5006a35:StackSlots:0:_max_count:45\r\n657025c9cfc010a0f5006a38:StackMinRandom:45\r\n657025c9cfc010a0f5006a38:StackMaxRandom:45\r\n657025c9cfc010a0f5006a38:StackSlots:0:_max_count:45\r\n657025c4c5d7d4cb4d078582:StackMinRandom:45\r\n657025c4c5d7d4cb4d078582:StackMaxRandom:45\r\n657025c4c5d7d4cb4d078582:StackSlots:0:_max_count:45\r\n657023decfc010a0f50069ec:StackMinRandom:40\r\n657023decfc010a0f50069ec:StackMaxRandom:40\r\n657023decfc010a0f50069ec:StackSlots:0:_max_count:40\r\n657023e31419851aef03e6ee:StackMinRandom:40\r\n657023e31419851aef03e6ee:StackMaxRandom:40\r\n657023e31419851aef03e6ee:StackSlots:0:_max_count:40\r\n657023e7c5d7d4cb4d078552:StackMinRandom:40\r\n657023e7c5d7d4cb4d078552:StackMaxRandom:40\r\n657023e7c5d7d4cb4d078552:StackSlots:0:_max_count:40\r\n657023eccfc010a0f50069ef:StackMinRandom:40\r\n657023eccfc010a0f50069ef:StackMaxRandom:40\r\n657023eccfc010a0f50069ef:StackSlots:0:_max_count:40\r\n65702452cfc010a0f50069fe:StackMinRandom:40\r\n65702452cfc010a0f50069fe:StackMaxRandom:40\r\n65702452cfc010a0f50069fe:StackSlots:0:_max_count:40\r\n657024581419851aef03e700:StackMinRandom:40\r\n657024581419851aef03e700:StackMaxRandom:40\r\n657024581419851aef03e700:StackSlots:0:_max_count:40\r\n65702426cfc010a0f50069f8:StackMinRandom:40\r\n65702426cfc010a0f50069f8:StackMaxRandom:40\r\n65702426cfc010a0f50069f8:StackSlots:0:_max_count:40\r\n65702432bfc87b3a3409321c:StackMinRandom:40\r\n65702432bfc87b3a3409321c:StackMaxRandom:40\r\n65702432bfc87b3a3409321c:StackSlots:0:_max_count:40\r\n657024361419851aef03e6fa:StackMinRandom:40\r\n657024361419851aef03e6fa:StackMaxRandom:40\r\n657024361419851aef03e6fa:StackSlots:0:_max_count:40\r\n6570243bbfc87b3a3409321f:StackMinRandom:40\r\n6570243bbfc87b3a3409321f:StackMaxRandom:40\r\n6570243bbfc87b3a3409321f:StackSlots:0:_max_count:40\r\n64898838d5b4df6140000a20:StackMinRandom:40\r\n64898838d5b4df6140000a20:StackMaxRandom:40\r\n64898838d5b4df6140000a20:StackSlots:0:_max_count:40\r\n65702479c5d7d4cb4d07855e:StackMinRandom:40\r\n65702479c5d7d4cb4d07855e:StackMaxRandom:40\r\n65702479c5d7d4cb4d07855e:StackSlots:0:_max_count:40\r\n6570243fcfc010a0f50069fb:StackMinRandom:40\r\n6570243fcfc010a0f50069fb:StackMaxRandom:40\r\n6570243fcfc010a0f50069fb:StackSlots:0:_max_count:40\r\n65702474bfc87b3a34093226:StackMinRandom:40\r\n65702474bfc87b3a34093226:StackMaxRandom:40\r\n65702474bfc87b3a34093226:StackSlots:0:_max_count:40\r\n65702449bfc87b3a34093223:StackMinRandom:40\r\n65702449bfc87b3a34093223:StackMaxRandom:40\r\n65702449bfc87b3a34093223:StackSlots:0:_max_count:40\r\n6570244ec5d7d4cb4d078558:StackMinRandom:40\r\n6570244ec5d7d4cb4d078558:StackMaxRandom:40\r\n6570244ec5d7d4cb4d078558:StackSlots:0:_max_count:40\r\n6570246fcfc010a0f5006a01:StackMinRandom:40\r\n6570246fcfc010a0f5006a01:StackMaxRandom:40\r\n6570246fcfc010a0f5006a01:StackSlots:0:_max_count:40\r\n65702469c5d7d4cb4d07855b:StackMinRandom:40\r\n65702469c5d7d4cb4d07855b:StackMaxRandom:40\r\n65702469c5d7d4cb4d07855b:StackSlots:0:_max_count:40\r\n657024431419851aef03e6fd:StackMinRandom:40\r\n657024431419851aef03e6fd:StackMaxRandom:40\r\n657024431419851aef03e6fd:StackSlots:0:_max_count:40\r\n6570247ebfc87b3a34093229:StackMinRandom:40\r\n6570247ebfc87b3a34093229:StackMaxRandom:40\r\n6570247ebfc87b3a34093229:StackSlots:0:_max_count:40\r\n657024a4bfc87b3a3409322c:StackMinRandom:40\r\n657024a4bfc87b3a3409322c:StackMaxRandom:40\r\n657024a4bfc87b3a3409322c:StackSlots:0:_max_count:40\r\n657024a91419851aef03e70c:StackMinRandom:40\r\n657024a91419851aef03e70c:StackMaxRandom:40\r\n657024a91419851aef03e70c:StackSlots:0:_max_count:40\r\n657024831419851aef03e703:StackMinRandom:40\r\n657024831419851aef03e703:StackMaxRandom:40\r\n657024831419851aef03e703:StackSlots:0:_max_count:40\r\n6570248dcfc010a0f5006a04:StackMinRandom:40\r\n6570248dcfc010a0f5006a04:StackMaxRandom:40\r\n6570248dcfc010a0f5006a04:StackSlots:0:_max_count:40\r\n657024921419851aef03e706:StackMinRandom:40\r\n657024921419851aef03e706:StackMaxRandom:40\r\n657024921419851aef03e706:StackSlots:0:_max_count:40\r\n65702495c5d7d4cb4d078561:StackMinRandom:40\r\n65702495c5d7d4cb4d078561:StackMaxRandom:40\r\n65702495c5d7d4cb4d078561:StackSlots:0:_max_count:40\r\n6570249bcfc010a0f5006a07:StackMinRandom:40\r\n6570249bcfc010a0f5006a07:StackMaxRandom:40\r\n6570249bcfc010a0f5006a07:StackSlots:0:_max_count:40\r\n6570249f1419851aef03e709:StackMinRandom:40\r\n6570249f1419851aef03e709:StackMaxRandom:40\r\n6570249f1419851aef03e709:StackSlots:0:_max_count:40\r\n6570253ec5d7d4cb4d078573:StackMinRandom:40\r\n6570253ec5d7d4cb4d078573:StackMaxRandom:40\r\n6570253ec5d7d4cb4d078573:StackSlots:0:_max_count:40\r\n65702532cfc010a0f5006a19:StackMinRandom:40\r\n65702532cfc010a0f5006a19:StackMaxRandom:40\r\n65702532cfc010a0f5006a19:StackSlots:0:_max_count:40\r\n65702536c5d7d4cb4d078570:StackMinRandom:40\r\n65702536c5d7d4cb4d078570:StackMaxRandom:40\r\n65702536c5d7d4cb4d078570:StackSlots:0:_max_count:40\r\n6570253acfc010a0f5006a1c:StackMinRandom:40\r\n6570253acfc010a0f5006a1c:StackMaxRandom:40\r\n6570253acfc010a0f5006a1c:StackSlots:0:_max_count:40\r\n657025421419851aef03e71e:StackMinRandom:40\r\n657025421419851aef03e71e:StackMaxRandom:40\r\n657025421419851aef03e71e:StackSlots:0:_max_count:40\r\n65702546cfc010a0f5006a1f:StackMinRandom:40\r\n65702546cfc010a0f5006a1f:StackMaxRandom:40\r\n65702546cfc010a0f5006a1f:StackSlots:0:_max_count:40\r\n6570254abfc87b3a34093244:StackMinRandom:40\r\n6570254abfc87b3a34093244:StackMaxRandom:40\r\n6570254abfc87b3a34093244:StackSlots:0:_max_count:40\r\n6489848173c462723909a14b:StackMinRandom:35\r\n6489848173c462723909a14b:StackMaxRandom:35\r\n6489848173c462723909a14b:StackSlots:0:_max_count:35\r\n657023ccbfc87b3a3409320a:StackMinRandom:35\r\n657023ccbfc87b3a3409320a:StackMaxRandom:35\r\n657023ccbfc87b3a3409320a:StackSlots:0:_max_count:35\r\n657023d6cfc010a0f50069e9:StackMinRandom:35\r\n657023d6cfc010a0f50069e9:StackMaxRandom:35\r\n657023d6cfc010a0f50069e9:StackSlots:0:_max_count:35\r\n657023dabfc87b3a3409320d:StackMinRandom:35\r\n657023dabfc87b3a3409320d:StackMaxRandom:35\r\n657023dabfc87b3a3409320d:StackSlots:0:_max_count:35\r\n657023f81419851aef03e6f1:StackMinRandom:35\r\n657023f81419851aef03e6f1:StackMaxRandom:35\r\n657023f81419851aef03e6f1:StackSlots:0:_max_count:35\r\n657024011419851aef03e6f4:StackMinRandom:35\r\n657024011419851aef03e6f4:StackMaxRandom:35\r\n657024011419851aef03e6f4:StackSlots:0:_max_count:35\r\n657023f1bfc87b3a34093210:StackMinRandom:35\r\n657023f1bfc87b3a34093210:StackMaxRandom:35\r\n657023f1bfc87b3a34093210:StackSlots:0:_max_count:35\r\n657023fcbfc87b3a34093213:StackMinRandom:35\r\n657023fcbfc87b3a34093213:StackMaxRandom:35\r\n657023fcbfc87b3a34093213:StackSlots:0:_max_count:35\r\n5c11279ad174af029d64592b:StackMinRandom:35\r\n5c11279ad174af029d64592b:StackMaxRandom:35\r\n5c11279ad174af029d64592b:StackSlots:0:_max_count:35\r\n64acea16c4eda9354b0226b0:StackMinRandom:35\r\n64acea16c4eda9354b0226b0:StackMaxRandom:35\r\n64acea16c4eda9354b0226b0:StackSlots:0:_max_count:35\r\n64ace9d9b5bf5e95f50a4c1d:StackMinRandom:35\r\n64ace9d9b5bf5e95f50a4c1d:StackMaxRandom:35\r\n64ace9d9b5bf5e95f50a4c1d:StackSlots:0:_max_count:35\r\n64acea2c03378853630da53e:StackMinRandom:35\r\n64acea2c03378853630da53e:StackMaxRandom:35\r\n64acea2c03378853630da53e:StackSlots:0:_max_count:35\r\n6489851fc827d4637f01791b:StackMinRandom:35\r\n6489851fc827d4637f01791b:StackMaxRandom:35\r\n6489851fc827d4637f01791b:StackSlots:0:_max_count:35\r\n64ace9f9c4eda9354b0226aa:StackMinRandom:35\r\n64ace9f9c4eda9354b0226aa:StackMaxRandom:35\r\n64ace9f9c4eda9354b0226aa:StackSlots:0:_max_count:35\r\n5649ed104bdc2d3d1c8b458b:StackMinRandom:35\r\n5649ed104bdc2d3d1c8b458b:StackMaxRandom:35\r\n5649ed104bdc2d3d1c8b458b:StackSlots:0:_max_count:35\r\n64ace9ff03378853630da538:StackMinRandom:35\r\n64ace9ff03378853630da538:StackMaxRandom:35\r\n64ace9ff03378853630da538:StackSlots:0:_max_count:35\r\n64acea09c4eda9354b0226ad:StackMinRandom:35\r\n64acea09c4eda9354b0226ad:StackMaxRandom:35\r\n64acea09c4eda9354b0226ad:StackSlots:0:_max_count:35\r\n64acea0d03378853630da53b:StackMinRandom:35\r\n64acea0d03378853630da53b:StackMaxRandom:35\r\n64acea0d03378853630da53b:StackSlots:0:_max_count:35\r\n657025dfcfc010a0f5006a3b:StackMinRandom:35\r\n657025dfcfc010a0f5006a3b:StackMaxRandom:35\r\n657025dfcfc010a0f5006a3b:StackSlots:0:_max_count:35\r\n657025dabfc87b3a34093256:StackMinRandom:35\r\n657025dabfc87b3a34093256:StackMaxRandom:35\r\n657025dabfc87b3a34093256:StackSlots:0:_max_count:35\r\n657025d4c5d7d4cb4d078585:StackMinRandom:35\r\n657025d4c5d7d4cb4d078585:StackMaxRandom:35\r\n657025d4c5d7d4cb4d078585:StackSlots:0:_max_count:35\r\n657025cfbfc87b3a34093253:StackMinRandom:35\r\n657025cfbfc87b3a34093253:StackMaxRandom:35\r\n657025cfbfc87b3a34093253:StackSlots:0:_max_count:35\r\n657984a50fbff513dd435765:StackMinRandom:35\r\n657984a50fbff513dd435765:StackMaxRandom:35\r\n657984a50fbff513dd435765:StackSlots:0:_max_count:35\r\n6489854673c462723909a14e:StackMinRandom:35\r\n6489854673c462723909a14e:StackMaxRandom:35\r\n6489854673c462723909a14e:StackSlots:0:_max_count:35\r\n5c1127bdd174af44217ab8b9:StackMinRandom:35\r\n5c1127bdd174af44217ab8b9:StackMaxRandom:35\r\n5c1127bdd174af44217ab8b9:StackSlots:0:_max_count:35\r\n65702561cfc010a0f5006a28:StackMinRandom:35\r\n65702561cfc010a0f5006a28:StackMaxRandom:35\r\n65702561cfc010a0f5006a28:StackSlots:0:_max_count:35\r\n6570254fcfc010a0f5006a22:StackMinRandom:35\r\n6570254fcfc010a0f5006a22:StackMaxRandom:35\r\n6570254fcfc010a0f5006a22:StackSlots:0:_max_count:35\r\n65702554bfc87b3a34093247:StackMinRandom:35\r\n65702554bfc87b3a34093247:StackMaxRandom:35\r\n65702554bfc87b3a34093247:StackSlots:0:_max_count:35\r\n65702558cfc010a0f5006a25:StackMinRandom:35\r\n65702558cfc010a0f5006a25:StackMaxRandom:35\r\n65702558cfc010a0f5006a25:StackSlots:0:_max_count:35\r\n648984e3f09d032aa9399d53:StackMinRandom:35\r\n648984e3f09d032aa9399d53:StackMaxRandom:35\r\n648984e3f09d032aa9399d53:StackSlots:0:_max_count:35\r\n65702566bfc87b3a3409324d:StackMinRandom:35\r\n65702566bfc87b3a3409324d:StackMaxRandom:35\r\n65702566bfc87b3a3409324d:StackSlots:0:_max_count:35\r\n6570255dbfc87b3a3409324a:StackMinRandom:35\r\n6570255dbfc87b3a3409324a:StackMaxRandom:35\r\n6570255dbfc87b3a3409324a:StackSlots:0:_max_count:35\r\n648984b8d5b4df6140000a1a:StackMinRandom:35\r\n648984b8d5b4df6140000a1a:StackMaxRandom:35\r\n648984b8d5b4df6140000a1a:StackSlots:0:_max_count:35\r\n65702572c5d7d4cb4d078576:StackMinRandom:35\r\n65702572c5d7d4cb4d078576:StackMaxRandom:35\r\n65702572c5d7d4cb4d078576:StackSlots:0:_max_count:35\r\n64aceac0c4eda9354b0226b3:StackMinRandom:35\r\n64aceac0c4eda9354b0226b3:StackMaxRandom:35\r\n64aceac0c4eda9354b0226b3:StackSlots:0:_max_count:35\r\n64acee6903378853630da544:StackMinRandom:35\r\n64acee6903378853630da544:StackMaxRandom:35\r\n64acee6903378853630da544:StackSlots:0:_max_count:35\r\n65702577cfc010a0f5006a2c:StackMinRandom:35\r\n65702577cfc010a0f5006a2c:StackMaxRandom:35\r\n65702577cfc010a0f5006a2c:StackSlots:0:_max_count:35\r\n6570257cc5d7d4cb4d078579:StackMinRandom:35\r\n6570257cc5d7d4cb4d078579:StackMaxRandom:35\r\n6570257cc5d7d4cb4d078579:StackSlots:0:_max_count:35\r\n560d75f54bdc2da74d8b4573:StackMinRandom:35\r\n560d75f54bdc2da74d8b4573:StackMaxRandom:35\r\n560d75f54bdc2da74d8b4573:StackSlots:0:_max_count:35\r\n64aceab0426a303417060654:StackMinRandom:35\r\n64aceab0426a303417060654:StackMaxRandom:35\r\n64aceab0426a303417060654:StackSlots:0:_max_count:35\r\n65702584cfc010a0f5006a2f:StackMinRandom:35\r\n65702584cfc010a0f5006a2f:StackMaxRandom:35\r\n65702584cfc010a0f5006a2f:StackSlots:0:_max_count:35\r\n6570241bcfc010a0f50069f5:StackMinRandom:25\r\n6570241bcfc010a0f50069f5:StackMaxRandom:25\r\n6570241bcfc010a0f50069f5:StackSlots:0:_max_count:25\r\n65702420bfc87b3a34093219:StackMinRandom:25\r\n65702420bfc87b3a34093219:StackMaxRandom:25\r\n65702420bfc87b3a34093219:StackSlots:0:_max_count:25\r\n648983d6b5a2df1c815a04ec:StackMinRandom:25\r\n648983d6b5a2df1c815a04ec:StackMaxRandom:25\r\n648983d6b5a2df1c815a04ec:StackSlots:0:_max_count:25\r\n573722e82459776104581c21:StackMinRandom:32\r\n573722e82459776104581c21:StackMaxRandom:32\r\n573722e82459776104581c21:StackSlots:0:_max_count:32\r\n573724b42459776125652ac2:StackMinRandom:32\r\n573724b42459776125652ac2:StackMaxRandom:32\r\n573724b42459776125652ac2:StackSlots:0:_max_count:32\r\n5737250c2459776125652acc:StackMinRandom:32\r\n5737250c2459776125652acc:StackMaxRandom:32\r\n5737250c2459776125652acc:StackSlots:0:_max_count:32\r\n573725b0245977612125bae2:StackMinRandom:32\r\n573725b0245977612125bae2:StackMaxRandom:32\r\n573725b0245977612125bae2:StackSlots:0:_max_count:32\r\n5737260b24597761224311f2:StackMinRandom:32\r\n5737260b24597761224311f2:StackMaxRandom:32\r\n5737260b24597761224311f2:StackSlots:0:_max_count:32\r\n5737266524597761006c6a8c:StackMinRandom:32\r\n5737266524597761006c6a8c:StackMaxRandom:32\r\n5737266524597761006c6a8c:StackSlots:0:_max_count:32\r\n573726d824597765d96be361:StackMinRandom:32\r\n573726d824597765d96be361:StackMaxRandom:32\r\n573726d824597765d96be361:StackSlots:0:_max_count:32\r\n5737273924597765dd374461:StackMinRandom:32\r\n5737273924597765dd374461:StackMaxRandom:32\r\n5737273924597765dd374461:StackSlots:0:_max_count:32\r\n573727c624597765cc785b5b:StackMinRandom:32\r\n573727c624597765cc785b5b:StackMaxRandom:32\r\n573727c624597765cc785b5b:StackSlots:0:_max_count:32\r\n5737280e24597765cc785b5c:StackMinRandom:32\r\n5737280e24597765cc785b5c:StackMaxRandom:32\r\n5737280e24597765cc785b5c:StackSlots:0:_max_count:32\r\n5737287724597765e1625ae2:StackMinRandom:32\r\n5737287724597765e1625ae2:StackMaxRandom:32\r\n5737287724597765e1625ae2:StackSlots:0:_max_count:32\r\n573728cc24597765cc785b5d:StackMinRandom:32\r\n573728cc24597765cc785b5d:StackMaxRandom:32\r\n573728cc24597765cc785b5d:StackSlots:0:_max_count:32\r\n573728f324597765e5728561:StackMinRandom:32\r\n573728f324597765e5728561:StackMaxRandom:32\r\n573728f324597765e5728561:StackSlots:0:_max_count:32\r\n5737256c2459776125652acd:StackMinRandom:32\r\n5737256c2459776125652acd:StackMaxRandom:32\r\n5737256c2459776125652acd:StackSlots:0:_max_count:32\r\n5739d41224597779c3645501:StackMinRandom:32\r\n5739d41224597779c3645501:StackMaxRandom:32\r\n5739d41224597779c3645501:StackSlots:0:_max_count:32\r\n648985c074a806211e4fb682:StackSlots:0:_max_count:100\r\n648985c074a806211e4fb682:StackMinRandom:100\r\n648985c074a806211e4fb682:StackMaxRandom:100\r\n657023bebfc87b3a34093207:StackSlots:0:_max_count:100\r\n657023bebfc87b3a34093207:StackMinRandom:100\r\n657023bebfc87b3a34093207:StackMaxRandom:100\r\n657023a9126cc4a57d0e17a6:StackSlots:0:_max_count:100\r\n657023a9126cc4a57d0e17a6:StackMinRandom:100\r\n657023a9126cc4a57d0e17a6:StackMaxRandom:100\r\n657023b1cfc010a0f50069e5:StackSlots:0:_max_count:100\r\n657023b1cfc010a0f50069e5:StackMinRandom:100\r\n657023b1cfc010a0f50069e5:StackMaxRandom:100\r\n657023b71419851aef03e6e8:StackSlots:0:_max_count:100\r\n657023b71419851aef03e6e8:StackMinRandom:100\r\n657023b71419851aef03e6e8:StackMaxRandom:100\r\n657023c61419851aef03e6eb:StackSlots:0:_max_count:100\r\n657023c61419851aef03e6eb:StackMinRandom:100\r\n657023c61419851aef03e6eb:StackMaxRandom:100\r\n6489879db5a2df1c815a04ef:StackSlots:0:_max_count:100\r\n6489879db5a2df1c815a04ef:StackMinRandom:100\r\n6489879db5a2df1c815a04ef:StackMaxRandom:100\r\n65702406bfc87b3a34093216:StackSlots:0:_max_count:100\r\n65702406bfc87b3a34093216:StackMinRandom:100\r\n65702406bfc87b3a34093216:StackMaxRandom:100\r\n6570240a1419851aef03e6f7:StackSlots:0:_max_count:100\r\n6570240a1419851aef03e6f7:StackMinRandom:100\r\n6570240a1419851aef03e6f7:StackMaxRandom:100\r\n6570240ecfc010a0f50069f2:StackSlots:0:_max_count:100\r\n6570240ecfc010a0f50069f2:StackMinRandom:100\r\n6570240ecfc010a0f50069f2:StackMaxRandom:100\r\n65702414c5d7d4cb4d078555:StackSlots:0:_max_count:100\r\n65702414c5d7d4cb4d078555:StackMinRandom:100\r\n65702414c5d7d4cb4d078555:StackMaxRandom:100\r\n6570252dbfc87b3a34093241:StackSlots:0:_max_count:100\r\n6570252dbfc87b3a34093241:StackMinRandom:100\r\n6570252dbfc87b3a34093241:StackMaxRandom:100\r\n657025281419851aef03e71b:StackSlots:0:_max_count:100\r\n657025281419851aef03e71b:StackMinRandom:100\r\n657025281419851aef03e71b:StackMaxRandom:100\r\n648986bbc827d4637f01791e:StackSlots:0:_max_count:100\r\n648986bbc827d4637f01791e:StackMinRandom:100\r\n648986bbc827d4637f01791e:StackMaxRandom:100\r\n65702524cfc010a0f5006a16:StackSlots:0:_max_count:100\r\n65702524cfc010a0f5006a16:StackMinRandom:100\r\n65702524cfc010a0f5006a16:StackMaxRandom:100\r\n65702520bfc87b3a3409323e:StackSlots:0:_max_count:100\r\n65702520bfc87b3a3409323e:StackMinRandom:100\r\n65702520bfc87b3a3409323e:StackMaxRandom:100\r\n6570251ccfc010a0f5006a13:StackSlots:0:_max_count:100\r\n6570251ccfc010a0f5006a13:StackMinRandom:100\r\n6570251ccfc010a0f5006a13:StackMaxRandom:100\r\n657025161419851aef03e718:StackSlots:0:_max_count:100\r\n657025161419851aef03e718:StackMinRandom:100\r\n657025161419851aef03e718:StackMaxRandom:100\r\n64898583d5b4df6140000a1d:StackSlots:0:_max_count:100\r\n64898583d5b4df6140000a1d:StackMinRandom:100\r\n64898583d5b4df6140000a1d:StackMaxRandom:100\r\n657024f9bfc87b3a3409323b:StackSlots:0:_max_count:100\r\n657024f9bfc87b3a3409323b:StackMinRandom:100\r\n657024f9bfc87b3a3409323b:StackMaxRandom:100\r\n657024f5cfc010a0f5006a10:StackSlots:0:_max_count:100\r\n657024f5cfc010a0f5006a10:StackMinRandom:100\r\n657024f5cfc010a0f5006a10:StackMaxRandom:100\r\n657024f01419851aef03e715:StackSlots:0:_max_count:100\r\n657024f01419851aef03e715:StackMinRandom:100\r\n657024f01419851aef03e715:StackMaxRandom:100\r\n657024ecc5d7d4cb4d07856d:StackSlots:0:_max_count:100\r\n657024ecc5d7d4cb4d07856d:StackMinRandom:100\r\n657024ecc5d7d4cb4d07856d:StackMaxRandom:100\r\n657024e8cfc010a0f5006a0d:StackSlots:0:_max_count:100\r\n657024e8cfc010a0f5006a0d:StackMinRandom:100\r\n657024e8cfc010a0f5006a0d:StackMaxRandom:100\r\n657024e3c5d7d4cb4d07856a:StackSlots:0:_max_count:100\r\n657024e3c5d7d4cb4d07856a:StackMinRandom:100\r\n657024e3c5d7d4cb4d07856a:StackMaxRandom:100\r\n5447ac644bdc2d6c208b4567:StackSlots:0:_max_count:100\r\n5447ac644bdc2d6c208b4567:StackMinRandom:100\r\n5447ac644bdc2d6c208b4567:StackMaxRandom:100\r\n657024debfc87b3a34093238:StackSlots:0:_max_count:100\r\n657024debfc87b3a34093238:StackMinRandom:100\r\n657024debfc87b3a34093238:StackMaxRandom:100\r\n657024d8c5d7d4cb4d078567:StackSlots:0:_max_count:100\r\n657024d8c5d7d4cb4d078567:StackMinRandom:100\r\n657024d8c5d7d4cb4d078567:StackMaxRandom:100\r\n65702606cfc010a0f5006a3e:StackSlots:0:_max_count:100\r\n65702606cfc010a0f5006a3e:StackMinRandom:100\r\n65702606cfc010a0f5006a3e:StackMaxRandom:100\r\n6570260c1419851aef03e727:StackSlots:0:_max_count:100\r\n6570260c1419851aef03e727:StackMinRandom:100\r\n6570260c1419851aef03e727:StackMaxRandom:100\r\n65702610cfc010a0f5006a41:StackSlots:0:_max_count:100\r\n65702610cfc010a0f5006a41:StackMinRandom:100\r\n65702610cfc010a0f5006a41:StackMaxRandom:100\r\n65702619bfc87b3a34093259:StackSlots:0:_max_count:100\r\n65702619bfc87b3a34093259:StackMinRandom:100\r\n65702619bfc87b3a34093259:StackMaxRandom:100\r\n65702614c5d7d4cb4d07858b:StackSlots:0:_max_count:100\r\n65702614c5d7d4cb4d07858b:StackMinRandom:100\r\n65702614c5d7d4cb4d07858b:StackMaxRandom:100\r\n6570261dc5d7d4cb4d07858e:StackSlots:0:_max_count:100\r\n6570261dc5d7d4cb4d07858e:StackMinRandom:100\r\n6570261dc5d7d4cb4d07858e:StackMaxRandom:100\r\n65702621cfc010a0f5006a44:StackSlots:0:_max_count:100\r\n65702621cfc010a0f5006a44:StackMinRandom:100\r\n65702621cfc010a0f5006a44:StackMaxRandom:100\r\n65702629cfc010a0f5006a47:StackSlots:0:_max_count:100\r\n65702629cfc010a0f5006a47:StackMinRandom:100\r\n65702629cfc010a0f5006a47:StackMaxRandom:100\r\n6570262d1419851aef03e72d:StackSlots:0:_max_count:100\r\n6570262d1419851aef03e72d:StackMinRandom:100\r\n6570262d1419851aef03e72d:StackMaxRandom:100\r\n657026251419851aef03e72a:StackSlots:0:_max_count:100\r\n657026251419851aef03e72a:StackMinRandom:100\r\n657026251419851aef03e72a:StackMaxRandom:100\r\n65702630cfc010a0f5006a4a:StackSlots:0:_max_count:100\r\n65702630cfc010a0f5006a4a:StackMinRandom:100\r\n65702630cfc010a0f5006a4a:StackMaxRandom:100\r\n657026341419851aef03e730:StackSlots:0:_max_count:100\r\n657026341419851aef03e730:StackMinRandom:100\r\n657026341419851aef03e730:StackMaxRandom:100\r\n65702639bfc87b3a3409325c:StackSlots:0:_max_count:100\r\n65702639bfc87b3a3409325c:StackMinRandom:100\r\n65702639bfc87b3a3409325c:StackMaxRandom:100\r\n65702640cfc010a0f5006a4d:StackSlots:0:_max_count:100\r\n65702640cfc010a0f5006a4d:StackMinRandom:100\r\n65702640cfc010a0f5006a4d:StackMaxRandom:100\r\n65702591c5d7d4cb4d07857c:StackSlots:0:_max_count:100\r\n65702591c5d7d4cb4d07857c:StackMinRandom:100\r\n65702591c5d7d4cb4d07857c:StackMaxRandom:100\r\n657025961419851aef03e721:StackSlots:0:_max_count:100\r\n657025961419851aef03e721:StackMinRandom:100\r\n657025961419851aef03e721:StackMaxRandom:100\r\n6570259bc5d7d4cb4d07857f:StackSlots:0:_max_count:100\r\n6570259bc5d7d4cb4d07857f:StackMinRandom:100\r\n6570259bc5d7d4cb4d07857f:StackMaxRandom:100\r\n648987d673c462723909a151:StackSlots:0:_max_count:100\r\n648987d673c462723909a151:StackMinRandom:100\r\n648987d673c462723909a151:StackMaxRandom:100\r\n657025a4bfc87b3a34093250:StackSlots:0:_max_count:100\r\n657025a4bfc87b3a34093250:StackMinRandom:100\r\n657025a4bfc87b3a34093250:StackMaxRandom:100\r\n657025a81419851aef03e724:StackSlots:0:_max_count:100\r\n657025a81419851aef03e724:StackMinRandom:100\r\n657025a81419851aef03e724:StackMaxRandom:100\r\n6570259fcfc010a0f5006a32:StackSlots:0:_max_count:100\r\n6570259fcfc010a0f5006a32:StackMinRandom:100\r\n6570259fcfc010a0f5006a32:StackMaxRandom:100\r\n657026451419851aef03e733:StackSlots:0:_max_count:200\r\n657026451419851aef03e733:StackMinRandom:200\r\n657026451419851aef03e733:StackMaxRandom:200\r\n6570264acfc010a0f5006a50:StackSlots:0:_max_count:200\r\n6570264acfc010a0f5006a50:StackMinRandom:200\r\n6570264acfc010a0f5006a50:StackMaxRandom:200\r\n6570264d1419851aef03e736:StackSlots:0:_max_count:200\r\n6570264d1419851aef03e736:StackMinRandom:200\r\n6570264d1419851aef03e736:StackMaxRandom:200\r\n65702652cfc010a0f5006a53:StackSlots:0:_max_count:200\r\n65702652cfc010a0f5006a53:StackMinRandom:200\r\n65702652cfc010a0f5006a53:StackMaxRandom:200\r\n65702656c5d7d4cb4d078591:StackSlots:0:_max_count:200\r\n65702656c5d7d4cb4d078591:StackMinRandom:200\r\n65702656c5d7d4cb4d078591:StackMaxRandom:200\r\n6570265bcfc010a0f5006a56:StackSlots:0:_max_count:200\r\n6570265bcfc010a0f5006a56:StackMinRandom:200\r\n6570265bcfc010a0f5006a56:StackMaxRandom:200\r\n6570265f1419851aef03e739:StackSlots:0:_max_count:200\r\n6570265f1419851aef03e739:StackMinRandom:200\r\n6570265f1419851aef03e739:StackMaxRandom:200\r\n65702664cfc010a0f5006a59:StackSlots:0:_max_count:200\r\n65702664cfc010a0f5006a59:StackMinRandom:200\r\n65702664cfc010a0f5006a59:StackMaxRandom:200\r\n6570266bc5d7d4cb4d078594:StackSlots:0:_max_count:200\r\n6570266bc5d7d4cb4d078594:StackMinRandom:200\r\n6570266bc5d7d4cb4d078594:StackMaxRandom:200\r\n65702681bfc87b3a3409325f:StackSlots:0:_max_count:200\r\n65702681bfc87b3a3409325f:StackMinRandom:200\r\n65702681bfc87b3a3409325f:StackMaxRandom:200\r\n6570900858b315e8b70a8a98:StackSlots:0:_max_count:240\r\n6570900858b315e8b70a8a98:StackMinRandom:240\r\n6570900858b315e8b70a8a98:StackMaxRandom:240\r\n5737292724597765e5728562:StackSlots:0:_max_count:240\r\n5737292724597765e5728562:StackMinRandom:240\r\n5737292724597765e5728562:StackMaxRandom:240\r\n57372a7f24597766fe0de0c1:StackSlots:0:_max_count:240\r\n57372a7f24597766fe0de0c1:StackMinRandom:240\r\n57372a7f24597766fe0de0c1:StackMaxRandom:240\r\n57372b832459776701014e41:StackSlots:0:_max_count:240\r\n57372b832459776701014e41:StackMinRandom:240\r\n57372b832459776701014e41:StackMaxRandom:240\r\n57372bad245977670b7cd242:StackSlots:0:_max_count:240\r\n57372bad245977670b7cd242:StackMinRandom:240\r\n57372bad245977670b7cd242:StackMaxRandom:240\r\n57372c21245977670937c6c2:StackSlots:0:_max_count:240\r\n57372c21245977670937c6c2:StackMinRandom:240\r\n57372c21245977670937c6c2:StackMaxRandom:240\r\n57372c56245977685e584582:StackSlots:0:_max_count:240\r\n57372c56245977685e584582:StackMinRandom:240\r\n57372c56245977685e584582:StackMaxRandom:240\r\n57372d1b2459776862260581:StackSlots:0:_max_count:240\r\n57372d1b2459776862260581:StackMinRandom:240\r\n57372d1b2459776862260581:StackMaxRandom:240\r\n57372d4c245977685a3da2a1:StackSlots:0:_max_count:240\r\n57372d4c245977685a3da2a1:StackMinRandom:240\r\n57372d4c245977685a3da2a1:StackMaxRandom:240\r\n657025ebc5d7d4cb4d078588:StackSlots:0:_max_count:240\r\n657025ebc5d7d4cb4d078588:StackMinRandom:240\r\n657025ebc5d7d4cb4d078588:StackMaxRandom:240\r\n57372deb245977685d4159b3:StackSlots:0:_max_count:240\r\n57372deb245977685d4159b3:StackMinRandom:240\r\n57372deb245977685d4159b3:StackMaxRandom:240\r\n57372e1924597768553071c1:StackSlots:0:_max_count:240\r\n57372e1924597768553071c1:StackMinRandom:240\r\n57372e1924597768553071c1:StackMaxRandom:240\r\n57372e73245977685d4159b4:StackSlots:0:_max_count:240\r\n57372e73245977685d4159b4:StackMinRandom:240\r\n57372e73245977685d4159b4:StackMaxRandom:240\r\n57372ee1245977685d4159b5:StackSlots:0:_max_count:240\r\n57372ee1245977685d4159b5:StackMinRandom:240\r\n57372ee1245977685d4159b5:StackMaxRandom:240\r\n57372f7d245977699b53e301:StackSlots:0:_max_count:240\r\n57372f7d245977699b53e301:StackMinRandom:240\r\n57372f7d245977699b53e301:StackMaxRandom:240\r\n57372fc52459776998772ca1:StackSlots:0:_max_count:240\r\n57372fc52459776998772ca1:StackMinRandom:240\r\n57372fc52459776998772ca1:StackMaxRandom:240\r\n657024aebfc87b3a3409322f:StackSlots:0:_max_count:20\r\n657024aebfc87b3a3409322f:StackMinRandom:20\r\n657024aebfc87b3a3409322f:StackMaxRandom:20\r\n657024b31419851aef03e70f:StackSlots:0:_max_count:20\r\n657024b31419851aef03e70f:StackMinRandom:20\r\n657024b31419851aef03e70f:StackMaxRandom:20\r\n657024bdc5d7d4cb4d078564:StackSlots:0:_max_count:20\r\n657024bdc5d7d4cb4d078564:StackMinRandom:20\r\n657024bdc5d7d4cb4d078564:StackMaxRandom:20\r\n5d1b371186f774253763a656:MaxResource:100\r\n5d1b36a186f7742523398433:MaxResource:250\r\n544a5cde4bdc2d39388b456b:Grids:0:_props:cellsH:5\r\n544a5cde4bdc2d39388b456b:Grids:0:_props:cellsV:5\r\n56e33634d2720bd8058b456b:Grids:0:_props:cellsH:5\r\n56e33634d2720bd8058b456b:Grids:0:_props:cellsV:4\r\n5f5e45cc5021ce62144be7aa:Grids:0:_props:cellsH:4\r\n5f5e45cc5021ce62144be7aa:Grids:0:_props:cellsV:5\r\n56e33680d2720be2748b4576:Grids:0:_props:cellsH:4\r\n56e33680d2720be2748b4576:Grids:0:_props:cellsV:4\r\n5ab8ee7786f7742d8f33f0b9:Grids:0:_props:cellsH:5\r\n5ab8ee7786f7742d8f33f0b9:Grids:0:_props:cellsV:3\r\n5ab8f04f86f774585f4237d8:Grids:0:_props:cellsH:4\r\n5ab8f04f86f774585f4237d8:Grids:0:_props:cellsH:3",
+    "RemoveKeysUsageNumber": false,
+    "RaidDrop": true
+  },
+  "Hideout": {
+    "EnableStash": true,
+    "Stash": {
+      "StashLvl4": 300,
+      "StashLvl3": 150,
+      "StashLvl2": 100,
+      "StashLvl1": 50
+    },
+    "Regeneration": {
+      "OfflineRegen": false,
+      "HealthRegen": 3,
+      "HideoutHealth": false,
+      "HideoutEnergy": false,
+      "HideoutHydration": false,
+      "HydrationRegen": 3,
+      "EnergyRegen": 3
+    },
+    "WaterFilterTime": 150,
+    "BitcoinTime": 1200,
+    "MaxBitcoins": 24,
+    "NoFuelMult": 0.75,
+    "ScavCasePrice": 0.5,
+    "ScavCaseTime": 0.5,
+    "HideoutConstMult": 0.25,
+    "HideoutProdMult": 0.25,
+    "WaterFilterRate": 50,
+    "GPUBoostRate": 0.5,
+    "AirFilterRate": 0.5,
+    "RemoveConstructionsRequirements": false,
+    "RemoveSkillRequirements": false,
+    "RemoveTraderLevelRequirements": false,
+    "EnableHideout": true,
+    "FuelConsumptionRate": 0.75
+  },
+  "Traders": {
+    "Fence": {
+      "ArmorDurability_Max": 100,
+      "GunDurability_Max": 100,
+      "ArmorDurability_Min": 65,
+      "GunDurability_Min": 65,
+      "PriceMult": 1.2,
+      "PremiumAmountOnSale": 50,
+      "PresetCount": 5,
+      "StockTime_Min": 40,
+      "StockTime_Max": 100,
+      "AmountOnSale": 150,
+      "PresetMult": 2,
+      "Blacklist": "5c164d2286f774194c5e69fa\r\n543be6674bdc2df1348b4569\r\n5448bf274bdc2dfc2f8b456a\r\n5447bedf4bdc2d87278b4568\r\n6275303a9f372d6ea97f9ec7\r\n62e9103049c018f425059f38\r\n59f32bb586f774757e1e8442\r\n59f32c3b86f77472a31742f0\r\n627bce33f21bc425b06ab967\r\n62f109593b54472778797866\r\n5d52cc5ba4b9367408500062\r\n5d52d479a4b936793d58c76b\r\n5e99711486f7744bfc4af328\r\n62f10b79e7ee985f386b2f47\r\n633ffb5d419dbf4bea7004c6\r\n543be5dd4bdc2deb348b4569\r\n65649eb40bf0ed77b8044453\r\n5448e54d4bdc2dcc718b4568\r\n5a341c4086f77401f2541505\r\n5422acb9af1c889c16000029\r\n64d0b40fbe2eed70e254e2d4\r\n5fc22d7c187fea44d52eda44"
+    },
+    "RemoveTradeLimits": false,
+    "QuestRedeemTime": 48,
+    "TraderMarkup": {
+      "Ragman": 65,
+      "Peacekeeper": 55,
+      "Fence": 25,
+      "Prapor": 55,
+      "Jaeger": 70,
+      "Mechanic": 65,
+      "Skier": 50,
+      "Therapist": 65
+    },
+    "TraderSell": {
+      "Ragman": 1.75,
+      "Peacekeeper": 1.75,
+      "Prapor": 1.75,
+      "Jaeger": 1.75,
+      "Mechanic": 1.75,
+      "Skier": 1.75,
+      "Therapist": 1.75
+    },
+    "MinDurabSell": 60,
+    "AllQuestsAvailable": false,
+    "RemoveBarterOffers": false,
+    "RemoveCurrencyOffers": false,
+    "UnlockQuestAssort": false,
+    "EnableTraders": true,
+    "FIRRestrictsQuests": false,
+    "TradersLvl4": false,
+    "FIRTrade": false
+  },
+  "Loot": {
+    "RandomContPlace": false,
+    "Airdrops": {
+      "Mixed": {
+        "ArmorMin": 3,
+        "ArmorMax": 5,
+        "BarterMin": 20,
+        "BarterMax": 40,
+        "PresetMin": 3,
+        "PresetMax": 6,
+        "CratesMin": 0,
+        "CratesMax": 0
+      },
+      "Medical": {
+        "ArmorMin": 0,
+        "ArmorMax": 0,
+        "BarterMin": 20,
+        "BarterMax": 40,
+        "PresetMin": 0,
+        "PresetMax": 0,
+        "CratesMin": 0,
+        "CratesMax": 0
+      },
+      "Barter": {
+        "ArmorMin": 0,
+        "ArmorMax": 0,
+        "BarterMin": 20,
+        "BarterMax": 40,
+        "PresetMin": 0,
+        "PresetMax": 0,
+        "CratesMin": 0,
+        "CratesMax": 0
+      },
+      "Weapon": {
+        "ArmorMin": 4,
+        "ArmorMax": 8,
+        "BarterMin": 15,
+        "BarterMax": 25,
+        "PresetMin": 8,
+        "PresetMax": 10,
+        "CratesMin": 0,
+        "CratesMax": 0
+      },
+      "Sandbox_air": 35,
+      "Streets_air": 35,
+      "AirtimeMin": 1,
+      "AirtimeMax": 3,
+      "Lighthouse_air": 30,
+      "Bigmap_air": 35,
+      "Interchange_air": 35,
+      "Shoreline_air": 30,
+      "Reserve_air": 35,
+      "Woods_air": 25
+    },
+    "EnableLoot": true,
+    "Locations": {
+      "Streets": {
+        "Loose": 4.35,
+        "Container": 3.5
+      },
+      "Sandbox": {
+        "Loose": 3.75,
+        "Container": 3.5
+      },
+      "Lighthouse": {
+        "Loose": 4.35,
+        "Container": 3.5
+      },
+      "Bigmap": {
+        "Loose": 4.1,
+        "Container": 3.5
+      },
+      "Interchange": {
+        "Loose": 4.25,
+        "Container": 3.5
+      },
+      "FactoryDay": {
+        "Loose": 4.75,
+        "Container": 3.5
+      },
+      "Laboratory": {
+        "Loose": 3.5,
+        "Container": 3.5
+      },
+      "Shoreline": {
+        "Loose": 5.25,
+        "Container": 3.5
+      },
+      "Reserve": {
+        "Loose": 4.45,
+        "Container": 3.5
+      },
+      "Woods": {
+        "Loose": 3.4,
+        "Container": 3.5
+      },
+      "FactoryNight": {
+        "Loose": 4.5,
+        "Container": 3.5
+      },
+      "AllContainers": false
+    }
+  },
+  "Player": {
+    "CharXP": {
+      "ScavKill": 100,
+      "ScavHMult": 1.15,
+      "PMCKill": 200,
+      "PMCHMult": 1.5
+    },
+    "RaidMult": {
+      "MIA": 0.5,
+      "Runner": 0.5,
+      "Survived": 1.55,
+      "Killed": 0.75
+    },
+    "EnableStats": true,
+    "Skills": {
+      "SkillFatigueReset": 200,
+      "SkillFreshEffect": 2.3,
+      "SkillFPoints": 1,
+      "SkillPointsBeforeFatigue": 1,
+      "SkillMinEffect": 0.0001,
+      "SkillFatiguePerPoint": 0.6
+    },
+    "FallDamage": false,
+    "BlackStomach": 5,
+    "HydrationLoss": 0.75,
+    "EnergyLoss": 0.75,
+    "EnableHealth": false,
+    "SkillProgMult": 0.9,
+    "Health": {
+      "LeftArm": 60,
+      "RightArm": 60,
+      "Head": 35,
+      "Chest": 85,
+      "Stomach": 70,
+      "LeftLeg": 65,
+      "RightLeg": 65
+    },
+    "WeaponSkillMult": 2,
+    "EnablePlayer": true,
+    "DiedHealth": {
+      "Saveeffects": true,
+      "Savehealth": true,
+      "Health_blacked": 0.1,
+      "Health_death": 0.3
+    },
+    "MaxStamina": 115,
+    "UnlimitedStamina": false,
+    "MaxHydration": 115,
+    "MaxEnergy": 115
+  },
+  "Raids": {
+    "SandboxAddLevel": false,
+    "RaidTime": 30,
+    "SaveQuestItems": true,
+    "Exfils": {
+      "CarSandbox": 10000,
+      "CarShoreline": 10000,
+      "CoopPaidSandbox": 10000,
+      "CoopPaidShoreline": 10000,
+      "CoopPaidStreets": 10000,
+      "CoopPaidLighthouse": 10000,
+      "CarLighthouse": 10000,
+      "CarExtractTime": 20,
+      "ArmorExtract": false,
+      "CoopPaid": true,
+      "CoopPaidInterchange": 10000,
+      "CoopPaidWoods": 10000,
+      "CoopPaidReserve": 10000,
+      "NoBackpack": false,
+      "FreeCoop": false,
+      "CarInterchange": 10000,
+      "CarWoods": 10000,
+      "CarStreets": 10000,
+      "CarCustoms": 10000,
+      "ExtendedExtracts": false,
+      "ChanceExtracts": false,
+      "GearExtract": false
+    },
+    "NoRunThrough": false,
+    "Timeacceleration": 5,
+    "SafeExit": false,
+    "SaveGearAfterDeath": false,
+    "RaidEvents": {
+      "DisableEvents": false,
+      "SnowEvent": true,
+      "KillaFactoryChance": 5,
+      "GoonsFactoryChance": 15,
+      "GoonsFactory": true,
+      "BossesOnCustoms": false,
+      "HoundsWoods": 30,
+      "HoundsCustoms": 30,
+      "HoundsShoreline": 30,
+      "Christmas": false,
+      "Halloween": false,
+      "IncludeTagilla": false,
+      "KillaFactory": true,
+      "BossesOnReserve": false,
+      "CultistsEverywhere": false,
+      "RaidersEverywhere": false,
+      "GlukharLabs": false
+    },
+    "LabInsurance": true,
+    "EnableRaids": true,
+    "Removelabkey": false,
+    "RaidStartup": {
+      "TimeBeforeDeployLocal": 15,
+      "AIAmount": "AsOnline",
+      "SaveDurability": true,
+      "SaveLoot": true,
+      "AIDifficulty": "Easy",
+      "MIAEndofRaid": true,
+      "TaggedAndCursed": false,
+      "EnableBosses": true,
+      "ScavWars": false
+    }
+  },
+  "Fleamarket": {
+    "FleaFIR": false,
+    "EventOffers": false,
+    "SellOffersAmount": 10,
+    "FleaConditions": {
+      "FleaFood_Min": 5,
+      "FleaArmor_Min": 5,
+      "FleaFood_Max": 100,
+      "FleaArmor_Max": 100,
+      "FleaMedical_Min": 80,
+      "FleaSpec_Min": 2,
+      "FleaMedical_Max": 100,
+      "FleaSpec_Max": 100,
+      "FleaWeapons_Min": 80,
+      "FleaVests_Min": 5,
+      "FleaKeys_Min": 97,
+      "FleaWeapons_Max": 100,
+      "FleaVests_Max": 100,
+      "FleaKeys_Max": 100
+    },
+    "OverrideOffers": false,
+    "FleaMarketLevel": 10,
+    "FleaBlacklist": null,
+    "DisableBSGList": false,
+    "EnableFleamarket": true,
+    "Sell_mult": 1.24,
+    "Tradeoffer_max": 1,
+    "Rep_loss": 0.01,
+    "Rep_gain": 0.05,
+    "Tradeoffer_min": 0,
+    "Sell_chance": 80,
+    "EnableFees": true,
+    "DynamicOffers": {
+      "ExpireThreshold": 1400,
+      "Stack_min": 10,
+      "PerOffer_min": 7,
+      "Stack_max": 600,
+      "PerOffer_max": 30,
+      "Eurooffers": 8,
+      "Dollaroffers": 14,
+      "Roubleoffers": 78,
+      "NonStack_min": 10,
+      "Time_min": 6,
+      "Price_min": 0.8,
+      "NonStack_max": 10,
+      "Time_max": 60,
+      "Price_max": 1.4
+    }
+  },
+  "Services": {
+    "RepairBox": {
+      "NoRandomRepair": false,
+      "MaxSkillPointsPerRepair": 0.6,
+      "OpGunRepair": true,
+      "RepairSkillPoint": 0.05,
+      "OpArmorRepair": true,
+      "RepairMult": 1
+    },
+    "EnableHealMarkup": false,
+    "TherapistLvl1": 1,
+    "TherapistLvl2": 1.1,
+    "TherapistLvl3": 1.2,
+    "TherapistLvl4": 1.35,
+    "FreeHealLvl": 5,
+    "FreeHealRaids": 30,
+    "ReturnChanceTherapist": 100,
+    "InsuranceMultTherapist": 0.25,
+    "EnableServices": true,
+    "ClothesAnySide": true,
+    "InsuranceMultPrapor": 0.16,
+    "InsuranceStorageTime": 72,
+    "ReturnChancePrapor": 95,
+    "ClothesLevelUnlock": false,
+    "ClothesFree": false,
+    "Prapor_Max": 36,
+    "Prapor_Min": 24,
+    "Therapist_Max": 14,
+    "Therapist_Min": 5
+  },
+  "Quests": {
+    "DailyQuests": {
+      "MinKillsLR3": 5,
+      "MaxKillsLR3": 20,
+      "MinKillsLR2": 5,
+      "MaxKillsLR2": 15,
+      "MinItems": 2,
+      "MaxItems": 5,
+      "Extracts": 3,
+      "Types": "Completion,Elimination,Exploration",
+      "Spread": 1,
+      "MinKillsLR1": 2,
+      "MaxKillsLR1": 4,
+      "Access": 10,
+      "QuestAmount": 10,
+      "Lifespan": 1220
+    },
+    "WeeklyQuests": {
+      "MinKillsLR3": 20,
+      "MaxKillsLR3": 40,
+      "MinKillsLR2": 15,
+      "MaxKillsLR2": 40,
+      "MinItems": 2,
+      "MaxItems": 5,
+      "Extracts": 10,
+      "Types": "Completion,Elimination,Exploration",
+      "Spread": 1,
+      "MinKillsLR1": 10,
+      "MaxKillsLR1": 20,
+      "Access": 10,
+      "QuestAmount": 5,
+      "Lifespan": 5040
+    },
+    "EnableQuests": true,
+    "ScavQuests": {
+      "MinKillsLR2": 3,
+      "MaxKillsLR2": 15,
+      "MinItems": 2,
+      "MaxItems": 5,
+      "Extracts": 3,
+      "Types": "Elimination,Completion",
+      "Spread": 1,
+      "MinKillsLR1": 1,
+      "MaxKillsLR1": 3,
+      "Access": 1,
+      "QuestAmount": 1,
+      "Lifespan": 1220
+    }
+  },
+  "CSM": {
+    "CustomPocket": true,
+    "Pockets": {
+      "DefaultPocket": false,
+      "SpecGKeychain": true,
+      "SpecSimpleWallet": true,
+      "SpecWZWallet": true,
+      "SpecKeycardHolder": true,
+      "SpecKeytool": true,
+      "SpecInjectorCase": true,
+      "SpecSlots": 3,
+      "FourthH": 1,
+      "FourthV": 1,
+      "ThirdH": 1,
+      "ThirdV": 1,
+      "SecondH": 1,
+      "SecondV": 1,
+      "FirstH": 1,
+      "FirstV": 1
+    },
+    "Cases": {
+      "GKeychain": {
+        "VSize": 4,
+        "HSize": 4,
+        "Filter": false
+      },
+      "KeycardHolderCase": {
+        "VSize": 4,
+        "HSize": 4,
+        "Filter": false
+      },
+      "InjectorCase": {
+        "VSize": 5,
+        "HSize": 4,
+        "Filter": false
+      },
+      "Holodilnick": {
+        "VSize": 12,
+        "HSize": 12,
+        "Filter": false
+      },
+      "PistolCase": {
+        "VSize": 4,
+        "HSize": 3,
+        "Filter": false
+      },
+      "DocumentsCase": {
+        "VSize": 5,
+        "HSize": 5,
+        "Filter": false
+      },
+      "Keytool": {
+        "VSize": 6,
+        "HSize": 5,
+        "Filter": false
+      },
+      "SiccCase": {
+        "VSize": 7,
+        "HSize": 7,
+        "Filter": false
+      },
+      "ThiccWeaponCase": {
+        "VSize": 15,
+        "HSize": 8,
+        "Filter": false
+      },
+      "ThiccItemsCase": {
+        "VSize": 15,
+        "HSize": 15,
+        "Filter": false
+      },
+      "MedicineCase": {
+        "VSize": 8,
+        "HSize": 8,
+        "Filter": false
+      },
+      "DogtagCase": {
+        "VSize": 10,
+        "HSize": 10,
+        "Filter": false
+      },
+      "MagazineCase": {
+        "VSize": 8,
+        "HSize": 9,
+        "Filter": false
+      },
+      "AmmunitionCase": {
+        "VSize": 10,
+        "HSize": 6,
+        "Filter": false
+      },
+      "WeaponCase": {
+        "VSize": 12,
+        "HSize": 6,
+        "Filter": false
+      },
+      "ItemsCase": {
+        "VSize": 12,
+        "HSize": 12,
+        "Filter": false
+      },
+      "GrenadeCase": {
+        "VSize": 8,
+        "HSize": 8,
+        "Filter": false
+      },
+      "WZWallet": {
+        "VSize": 4,
+        "HSize": 4,
+        "Filter": false
+      },
+      "SimpleWallet": {
+        "VSize": 3,
+        "HSize": 3,
+        "Filter": false
+      },
+      "MoneyCase": {
+        "VSize": 5,
+        "HSize": 8,
+        "Filter": false
+      },
+      "LuckyScav": {
+        "VSize": 15,
+        "HSize": 15,
+        "Filter": false
+      }
+    },
+    "SecureContainers": {
+      "KappaHSize": 4,
+      "AlphaVSize": 3,
+      "KappaVSize": 5,
+      "AlphaHSize": 3,
+      "GammaHSize": 4,
+      "GammaVSize": 4,
+      "BetaVSize": 3,
+      "BetaHSize": 4,
+      "EpsilonHSize": 5,
+      "EpsilonVSize": 3,
+      "DevVSize": 10,
+      "DevHSize": 10,
+      "WaistPouchHSize": 3,
+      "WaistPouchVSize": 3
+    },
+    "EnableCSM": true
+  },
+  "Scav": {
+    "SCAVPockets": {
+      "FourthH": 2,
+      "FourthV": 2,
+      "ThirdH": 2,
+      "ThirdV": 2,
+      "SecondH": 2,
+      "SecondV": 2,
+      "FirstH": 2,
+      "FirstV": 2
+    },
+    "HostileBosses": false,
+    "FriendlyBosses": false,
+    "CarBaseStanding": 1.5,
+    "ScavTimer": 600,
+    "ScavCustomPockets": true,
+    "ScavLab": false,
+    "FriendlyScavs": false,
+    "HostileScavs": false,
+    "StandingFriendlyKill": -0.01,
+    "StandingPMCKill": 0.03,
+    "Health": {
+      "LeftArm": 60,
+      "RightArm": 60,
+      "Head": 35,
+      "Chest": 85,
+      "Stomach": 70,
+      "LeftLeg": 65,
+      "RightLeg": 65
+    },
+    "EnableScavHealth": false,
+    "EnableScav": true
+  },
+  "Bots": {
+    "AIChance": {
+      "Kolontay": 30,
+      "Kaban": 35,
+      "TagillaNight": 23,
+      "TrioLighthouse": 35,
+      "TrioShoreline": 35,
+      "TrioWoods": 35,
+      "Zryachiy": 100,
+      "CultistCustoms": 15,
+      "CultistShoreline": 22,
+      "Trio": 35,
+      "RaiderLab": 40,
+      "RaiderReserve": 35,
+      "CultistFactory": 15,
+      "CultistWoods": 13,
+      "Rogue": 85,
+      "Tagilla": 30,
+      "Shturman": 30,
+      "Glukhar": 30,
+      "Sanitar": 30,
+      "Reshala": 35,
+      "Killa": 30
+    },
+    "ArmorDurab": {
+      "PMCMax": 100,
+      "FollowerMax": 100,
+      "BossMax": 100,
+      "MarksmanMax": 100,
+      "ScavMax": 100,
+      "RogueMax": 100,
+      "RaiderMax": 100,
+      "PMCMin": 90,
+      "FollowerMin": 90,
+      "BossMin": 100,
+      "MarksmanMin": 90,
+      "ScavMin": 50,
+      "RogueMin": 90,
+      "RaiderMin": 90
+    },
+    "WeaponDurab": {
+      "PMCMax": 100,
+      "FollowerMax": 100,
+      "BossMax": 100,
+      "MarksmanMax": 100,
+      "ScavMax": 100,
+      "RogueMax": 100,
+      "RaiderMax": 100,
+      "PMCMin": 95,
+      "FollowerMin": 80,
+      "BossMin": 80,
+      "MarksmanMin": 60,
+      "ScavMin": 85,
+      "RogueMin": 80,
+      "RaiderMin": 80
+    },
+    "EnableBots": true
+  },
+  "PMC": {
+    "NameOverride": false,
+    "ForceCustomWaves": true,
+    "CustomWaveChance": 50,
+    "PMCChance": {
+      "PMCNamePrefix": 0,
+      "PMCAllNamePrefix": 0,
+      "PMCLooseWep": 30,
+      "HostilePMC": 100,
+      "PMCWepEnhance": 0
+    },
+    "LevelMargin": 10,
+    "PMCNameList": "NotJojo\r\nGhostFenixx\r\nSinistar\r\nGoose\r\nAssAssIn\r\nMayoringram\r\nMorgan\r\nNukeSkywalker\r\njvs\r\nEstamNar\r\nMMX\r\nTabi\r\nAsian69Lover\r\nBeagle\r\nbllt\r\nBright\r\nBroCC\r\nCthuluTheMadGod\r\nDoddsy\r\nGodHimself\r\nNicholas\r\nmonsterfoxtrot\r\nMotch\r\nMylu\r\nnavodschikrichtschutze\r\nSazukiwi\r\nSingularity\r\nodin_4\r\nthorncp\r\nTobi\r\nXen0Xys\r\nShiro-Chan\r\nTrappussy\r\numsirqualquerai\r\nwaffentrageraufe100\r\naleves\r\nCarl\r\nFox\r\nGamenator\r\njbs4bmx\r\nJustNU\r\nKattomine\r\nKronzky\r\nLimbo\r\nMissingInAction\r\nssh\r\nRevingly\r\nTheSparta\r\nTraveler\r\nFontaine\r\nAtonicX\r\nBuyingGF\r\nCats\r\nCoolbugfactes\r\nDecompress\r\nElektryczny9\r\nFrumorn\r\nImTheRickHere\r\nKarma\r\ncowkiller19\r\nNex\r\nStako\r\nThe2ndarbiter\r\nDSpider\r\nAndy\r\nBadwolf_54\r\nBedalek\r\nBiohazard6165\r\nblkcbrd13\r\nCentolloJames\r\nChameleon2310\r\nD3\r\nDalamadur\r\nEpiicBatkiller\r\nFlamber\r\nG10rgos\r\nGamenator\r\nJosh33\r\nJustin\r\nKacidi\r\nKarma\r\nLayerOfBlubber\r\nLennyrod\r\nMarchwin\r\nmxa9690\r\nnex1488\r\nXnoowl\r\nPonderingTheOrb\r\nSerakym\r\nStockUserName\r\nSyra\r\nVampireKittenThe2nd\r\nXsos\r\nWahntalot\r\nEmilia\r\nZ3R0\r\nZooey",
+    "NamesEnable": true,
+    "PMCRatio": 50,
+    "AItoPMC": {
+      "PMCtoCursedScav": 20,
+      "SnipertoPMC": 0,
+      "PMCtoScav": 25,
+      "ExusectoPMC": 5,
+      "PMCtoRaider": 7
+    },
+    "DisableLowLevelPMC": false,
+    "LootableMelee": true,
+    "EnablePMC": true
+  },
+  "Custom": {
+    "EnableCustom": false,
+    "DebugAI": false,
+    "LoggerIntoServer": false
+  }
+}

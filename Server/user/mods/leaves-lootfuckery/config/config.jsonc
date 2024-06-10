@@ -1,0 +1,30 @@
+{
+    "editProbabilities": true,      //Main enabling of the mod. 
+
+    "dataDumpRealRuns": false,      //Dumps data before each run
+    "dataDump": false,              //Dumps data on server start
+    "categorize": true,             //Categorizes the data dump
+    "convertToCompact": true,       //Makes the output more compact
+    "runAllMaps": false,             //Data dumps every map
+    "mapToGenerate": "shoreline",  //If runAllMaps is diabled, will only run this map.
+    "timesToGenerate": 250,         //How many times to generate to get better averages. 
+
+    "convertToName": true,          //Convert from item ID to name
+    "localizeNames": true,          //Localize rather than using the default names
+    "localization": "en"            //The localization to pull names from
+
+    //Map names
+    /*
+        "bigmap"            //Customs
+        "factory4_day"      //Factory - Day
+        "factory4_night"    //Factory - Night
+        "interchange"       //Interchange
+        "laboratory"        //Labs
+        "lighthouse"        //Lighthouse
+        "rezervbase"        //Rezerv
+        "shoreline"         //Shoreline
+        "tarkovstreets"     //Streets of Tarkov
+        "woods"             //Woods
+        "sandbox"           //Ground Zero
+    */
+}

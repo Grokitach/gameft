@@ -1,0 +1,104 @@
+{
+  "health": {
+    "BodyParts": [
+      {
+        "Head": {
+          "min": 20,
+          "max": 20
+        },
+        "Chest": {
+          "min": 120,
+          "max": 120
+        },
+        "Stomach": {
+          "min": 120,
+          "max": 120
+        },
+        "LeftArm": {
+          "min": 65,
+          "max": 65
+        },
+        "RightArm": {
+          "min": 65,
+          "max": 65
+        },
+        "LeftLeg": {
+          "min": 60,
+          "max": 60
+        },
+        "RightLeg": {
+          "min": 60,
+          "max": 60
+        }
+      }
+    ],
+    "Temperature": {
+      "max": 30,
+      "min": 30
+    }
+  },
+  "scavHealth": {
+    "BodyParts": [
+      {
+        "Head": {
+          "min": 20,
+          "max": 20
+        },
+        "Chest": {
+          "min": 120,
+          "max": 120
+        },
+        "Stomach": {
+          "min": 120,
+          "max": 120
+        },
+        "LeftArm": {
+          "min": 65,
+          "max": 65
+        },
+        "RightArm": {
+          "min": 65,
+          "max": 65
+        },
+        "LeftLeg": {
+          "min": 60,
+          "max": 60
+        },
+        "RightLeg": {
+          "min": 60,
+          "max": 60
+        }
+      },
+      {
+        "Head": {
+          "min": 20,
+          "max": 20
+        },
+        "Chest": {
+          "min": 120,
+          "max": 120
+        },
+        "Stomach": {
+          "min": 120,
+          "max": 120
+        },
+        "LeftArm": {
+          "min": 65,
+          "max": 65
+        },
+        "RightArm": {
+          "min": 65,
+          "max": 65
+        },
+        "LeftLeg": {
+          "min": 60,
+          "max": 60
+        },
+        "RightLeg": {
+          "min": 60,
+          "max": 60
+        }
+      }
+    ]
+  }
+}

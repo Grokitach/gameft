@@ -1,0 +1,9 @@
+{
+	"name": "SVM",
+	"author": "GhostFenixx",
+	"version": "1.8.1",
+	"akiVersion": "3.8.x",
+	"license": "CC BY-NC-ND",
+	"devdependencies": {},
+	"main": "src/SVM.js"
+}

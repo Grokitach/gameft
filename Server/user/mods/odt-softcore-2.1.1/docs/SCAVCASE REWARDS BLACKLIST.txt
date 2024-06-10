@@ -1,0 +1,1255 @@
+Electronics     4500    Motor Controller #1     5af04c0b86f774138708f78e
+Electronics     4500    Motor Controller #2     5b4c72b386f7745b453af9c0
+Electronics     4500    Motor Controller #3     5b4c72c686f77462ac37e907
+Electronics     5000    Single-axis Fiber Optic Gyroscope #1    5af04e0a86f7743a532b79e2
+Electronics     5000    Single-axis Fiber Optic Gyroscope #2    5b4c72fb86f7745cef1cffc5
+Electronics     undefined       Working hard drive      628393620d8524273e7eb028
+Electronics     4500    Working hard drive      5a29276886f77435ed1b117c
+Electronics     4500    Toughbook reinforced laptop     5a29284f86f77463ef3db363
+Electronics     4500    Laptop with information 619252352be33f26043400a7
+Electronics     4500    T-90M Commander Control Panel   609267a2bb3f46069c3e6c7d
+Electronics     4500    MBT Integrated Navigation System        60c080eb991ac167ad1c3ad4
+Jewelry 7000    Christmas tree ornament (Red)   5df8a6a186f77412640e2e80
+Jewelry 10000   Christmas tree ornament (Silver)        5df8a72c86f77412640e2e83
+Jewelry 20000   Christmas tree ornament (Violet)        5df8a77486f77412672a1e3f
+Jewelry 0       Gold pocket watch on a chain    590de92486f77423d9312a33
+Jewelry 0       Bronze pocket watch on a chain  5937fd0086f7742bf33fc198
+Jewelry 0       Silver pocket watch on a chain  5937fc6786f7742cab753590
+Lubricant       0       Golden Zibbo lighter    5939a00786f7742fe8132936
+Medical supplies        2150    Blood sample    5a687e7886f7740c4a5133fb
+Other   600     Dogtag BEAR     59f32bb586f774757e1e8442
+Other   600     Dogtag USEC     59f32c3b86f77472a31742f0
+Other   undefined       item_dogtag_t2  5b9b9020e7ef6f5716480215
+Other   2150    Chemical container #1   5b43237186f7742f3a4ab252
+Other   2150    Chemical container #2   5b4c81a086f77417d26be63f
+Other   2150    Chemical container #3   5b4c81bd86f77418a75ae159
+Other   0       Syringe with a chemical 593a87af86f774122f54a951
+ArmBand 573     Armband (Blue)  5b3f3af486f774679e752c1f
+ArmBand 527     Armband (Green) 5b3f3b0186f774021a2afef7
+ArmBand 894     Armband (Red)   5b3f3ade86f7746b6b790d8e
+ArmBand 729     Armband (White) 5b3f16c486f7747c327f55f7
+ArmBand 534     Armband (Yellow)        5b3f3b0e86f7746752107cda
+Armor   251100  6B13 M modified assault armor (Tan)     5c0e541586f7747fa54205c9
+FaceCover       2589    Balaclava       572b7f1624597762ae139822
+FaceCover       3454    Cold Fear infrared balaclava    5ab8f39486f7745cd93a1cca
+FaceCover       1600    Balaclava_dev   58ac60eb86f77401897560ff
+FaceCover       6788    Ghost balaclava 5ab8f4ff86f77431c60d91ba
+FaceCover       72000   Death Knight mask       62963c18dbc8ab5f0d382d0b
+FaceCover       3211    Momex balaclava 5b432f3d5acfc4704b4a1dfb
+FaceCover       21000   Big Pipe's smoking pipe 62a61bbf8ec41a51b34758d2
+FaceCover       4040    Shemagh (Tan)   5b4325355acfc40019478126
+FaceCover       6211    Deadly Skull mask       5b432b6c5acfc4001a599bf0
+FaceCover       135000  Tagilla's welding mask "Gorilla"        60a7ad3a0c5cb24b0134664a
+FaceCover       135000  Tagilla's welding mask "UBEY"   60a7ad2a2198820d95707a2e
+FaceCover       4258    Shemagh (Green) 5ab8f85d86f7745cd93a1cf5
+FaceCover       undefined       test_balaclava  59e8936686f77467ce798647
+Headwear        2043    UX PRO beanie   5aa2ba46e5b5b000137b758d
+Headwear        1732    USEC baseball cap (Black)       5b40e61f5acfc4001a599bec
+Headwear        1827    BEAR baseball cap (Black)       5b40e5e25acfc4001a599bea
+Headwear        1500    Beret (Black)   5f60e6403b85f6263c14558c
+Headwear        1353    Beret (Olive)   5f60e784f2bcbb675b00dac7
+Headwear        1642    USEC baseball cap (Tan) 5aa2a7e8e5b5b00016327c16
+Headwear        10000   Jack-o'-lantern tactical pumpkin helmet 59ef13ca86f77445fd0e2483
+Headwear        21000   Big Pipe's bandana      628e4dd1f477aa12234918aa
+Headwear        4510    Tactical fleece beanie  5aa2ba19e5b5b00014028f4e
+Headwear        1995    Bandana 5b43271c5acfc432ff4dce65
+Headwear        3400    Beret (Blue)    5f60e7788adaa7100c3adb49
+Headwear        8353    BOSS cap        60a7acf20c5cb24b01346648
+Headwear        7330    Kolpak-1S riot helmet   59e7711e86f7746cae05fbe1
+Headwear        1726    BEAR baseball cap (Green)       5aa2b87de5b5b00016327c25
+Headwear        2170    MIL-TEC boonie hat      5b4327aa5acfc400175496e0
+Headwear        3170    Stich Profi Chimera boonie hat  60b52e5bc7d8103275739d67
+Headwear        126327  Maska-1SCh bulletproof helmet (Killa)   5c0e874186f7745dc7616606
+Vis. observ. device     1669    Tactical glasses        557ff21e4bdc2d89578b4586
+Vis. observ. device     2028    Dundukk sport sunglasses        5aa2b986e5b5b00014028f4c
+Vis. observ. device     2755    6B34 anti-fragmentation glasses 5b432be65acfc433000ed01f
+Vis. observ. device     6700    RayBench Aviator glasses        5d6d2ef3a4b93618084f58bd
+Vis. observ. device     3500    Crossbow tactical glasses       5d5fca1ea4b93635fd598c07
+Vis. observ. device     5600    Gascan glasses  5d6d2e22a4b9361bd5780d05
+Vis. observ. device     4700    Oakley SI M Frame safety glasses        5c1a1cc52e221602b3136e3d
+Vis. observ. device     3200    Pyramex Proximity safety glasses        5c0d32fcd174af02a1659c75
+Armored equipment       87800   Maska-1SCh face shield (Killa)  5c0e842486f77443a74d2976
+Inventory       undefined       Default Inventory       55d7217a4bdc2d86028b456d
+Locking container       undefined       item_quest_container_box        590de5d986f77417a4293192
+Locking container       0       Carbon case     5910922b86f7747d96753483
+Locking container       0       Bank case       590dde5786f77405e71908b2
+AuxiliaryMod    300     M1911A1 slide stop      5e81c539cb2b95385c177553
+AuxiliaryMod    1800    M1911A1 Wilson Extended slide stop      5ef3553c43cb350a955a7ccb
+AuxiliaryMod    500     HK USP slide lock       6193d5d4f8ee7e52e4210a1b
+AuxiliaryMod    350     M1911A1 hammer  5e81c550763d9f754677befd
+AuxiliaryMod    4000    M1911A1 STI HEX hammer  5ef35f46382a846010715a96
+AuxiliaryMod    1500    M1911A1 Wilson Retro Commander hammer   5ef35d2ac64c5d0dfc0571b0
+AuxiliaryMod    4900    M1911A1 Wilson Ultralight skeletonized hammer   5ef35bc243cb350a955a7ccd
+AuxiliaryMod    750     HK USP hammer   6193d3be7c6c7b169525f0da
+AuxiliaryMod    276     NPZ USP-1 scope eyecup  5cf639aad7f00c065703d455
+AuxiliaryMod    576     KMZ 1P59 scope eyecup   5d0b5cd3d7ad1a3fe32ad263
+AuxiliaryMod    2800    NPZ 1P78 scope eyecup   618a760e526131765025aae3
+AuxiliaryMod    258     FAB Defense protection cap for AGR-870  5bfe86bd0db83400232fe959
+AuxiliaryMod    100     Axion Kobra sight shade 591c4e1186f77410354b316e
+AuxiliaryMod    500     HK G36 hand stop        622f16a1a5958f63c67f1737
+AuxiliaryMod    100     Glock ZEV Tech sight mount cap  5a71e1868dc32e00094b97f3
+AuxiliaryMod    1776    MP-155 Ultima underbarrel mount 606f26752535c57a13424d22
+AuxiliaryMod    1476    MP-155 Ultima pistol grip rubber pad    60785c0d232e5a31c233d51c
+AuxiliaryMod    261     NSPU-M scope eyecup     5ba36f85d4351e0085325c81
+AuxiliaryMod    276     PSO scope eyecup        57f3a5ae2459772b0e0bf19e
+AuxiliaryMod    356     Trijicon REAP-IR scope eyecup   5a1eacb3fcdbcb09800872be
+AuxiliaryMod    1276    STM-9 magwell   602f85fd9b513876d4338d9c
+AuxiliaryMod    1576    STM-9 magwell (Grey)    60338ff388382f4fab3fd2c8
+AuxiliaryMod    2342    SV-98 anti-heat ribbon  56083eab4bdc2d26448b456a
+AuxiliaryMod    400     SV-98 sound suppressor heat shield      5c4eecde2e221602b3140418
+AuxiliaryMod    2850    KAC URX 3/3.1 stopper panel     5d123b7dd7ad1a004f01b262
+AuxiliaryMod    2850    KAC URX 3/3.1 stopper panel (FDE)       5d124c1ad7ad1a12227c53a7
+AuxiliaryMod    1750    KAC URX 3/3.1 long panel        5d123b70d7ad1a0ee35e0754
+AuxiliaryMod    1750    KAC URX 3/3.1 long panel (FDE)  5d124c0ed7ad1a10d168dd9b
+AuxiliaryMod    1200    KAC URX 3/3.1 short panel       5d123a3cd7ad1a004e476058
+AuxiliaryMod    1200    KAC URX 3/3.1 short panel (FDE) 5d124c01d7ad1a115c7d59fb
+AuxiliaryMod    704     Armasight Vulcan MG scope eyecup        5b3cbc235acfc4001863ac44
+AuxiliaryMod    undefined       test_consumable 5ae089fb5acfc408fb13989b
+AuxiliaryMod    3700    M1911A1 Caspian Arms Trik Trigger       5ef32e4d1c1fd62aea6a150d
+AuxiliaryMod    450     M1911A1 trigger 5e81c6a2ac2bb513793cdc7f
+AuxiliaryMod    700     HK USP trigger  6193d3cded0429009f543e6a
+Bipod   4207    Harris HBR Bipod        5888961624597754281f93f3
+Bipod   4269    HK G36 bipod    622b397c9a3d4327e41843b6
+Bipod   4269    SV-98 bipod     56ea8222d2720b69698b4567
+Gas block       2600    HK 416A5 low profile gas block  5bb20dcad4351e3bac1212da
+Gas block       6000    HK417 low profile gas block     61702f1b67085e45ef140b26
+Gas block       2904    AK Kiba Arms VDM CS gas tube    5a01ad4786f77450561fda02
+Gas block       2073    AK-74 gas tube (6P20 Sb.1-2)    59c6633186f7740cf0493bb9
+Gas block       2055    AKM gas tube (6P1 Sb.1-2)       59d64ec286f774171d1e0a42
+Gas block       1793    PP-19-01 "Vityaz" gas tube      59ccd11386f77428f24a488f
+Gas block       1977    Molot AKM-type gas tube 59e649f986f77411d949b246
+Gas block       2300    AK-545 SAG Mk. 2.1 gas tube     628b8d83717774443b15e248
+Gas block       2241    AK UltiMAK M1-B gas tube & handguard    59ccfdba86f7747f2109a587
+Gas block       2001    AKS-74U gas tube (6P26 Sb.1-2)  59d36a0086f7747e673f3946
+Gas block       8250    CMMG low profile gas block      6065dc8a132d4d12c81fd8e3
+Gas block       5050    AR-10 KAC Low Profile Gas Block 5dfa3d45dfc58d14537c20b0
+Gas block       2570    M4A1 front sight        5ae30e795acfc408fb139a0b
+Gas block       4756    Daniel Defense MK12 Low Profile Gas Block       56eabcd4d2720b66698b4574
+Gas block       7800    JP Enterprises Gas System-5B    5d00ec68d7ad1a04a067e5be
+Gas block       4190    AR-15 Windham Weaponry Rail Gas Block   56ea8d2fd2720b7c698b4570
+Gas block       3000    HK G36 gas block        622b327b267a1b13a44abea3
+Gas block       4500    MCX gas block   5fbc210bf24b94483f726481
+Gas block       8050    Mk-18 gas block 5fc2360f900b1d5091531e19
+Gas block       2520    SVDS gas tube   5c471c842e221615214259b5
+Gas block       1750    VPO-101 "Vepr-Hunter" gas tube  5c5039be2e221602b177c9ff
+Flashhider      1340    AR-15 Colt USGI A2 5.56x45 flash hider  544a38634bdc2d58388b4568
+Flashhider      9200    AR-15 AWC PSR 5.56x45 muzzle brake      612e0cfc8004cc50514c2d9e
+Flashhider      5660    AK-74 SRVV 5.45x39 muzzle brake 5cc9a96cd7f00c011c04e04a
+Flashhider      600     AK-105 5.45x39 muzzle brake-compensator (6P44 0-20)     5ac72e945acfc43f3b691116
+Flashhider      600     AK-104 7.62x39 muzzle brake-compensator (6P46 0-20)     5ac72e895acfc43b321d4bd5
+Flashhider      7237    AR-15 Noveske KX3 5.56x45 flash hider   56ea6fafd2720b844b8b4593
+Flashhider      4800    AR-15 SureFire WarComp 5.56x45 flash hider      5c6d710d2e22165df16b81e7
+Flashhider      694     AK-74 5.45x39 muzzle brake-compensator (6P20 0-20)      5649aa744bdc2ded0b8b457e
+Flashhider      2340    SIG Sauer Micro Brake 7.62x51 muzzle brake      5fbcbd02900b1d5091531dd3
+Flashhider      1600    FN P90 5.7x28 flash hider       5cc82796e24e8d000f5859a8
+Flashhider      602     AK-74M 5.45x39 muzzle brake-compensator (6P20 0-20)     5ac7655e5acfc40016339a19
+Flashhider      7980    AR-15 Daniel Defense WAVE 5.56x45 muzzle brake  5cff9e5ed7ad1a09407397d4
+Flashhider      600     VPO-136 "Vepr-KM" 7.62x39 muzzle brake-compensator      59e61eb386f77440d64f5daf
+Flashhider      719     AKS-74U 5.45x39 muzzle brake (6P26 0-20)        57dc324a24597759501edc20
+Flashhider      600     AK-101 5.56x45 muzzle brake-compensator 5ac72e615acfc43f67248aa0
+Flashhider      602     SVDS 7.62x54R muzzle brake-compensator  5c471bfc2e221602b21d4e17
+Flashhider      602     AK-102 5.56x45 muzzle brake-compensator (6P44 0-20)     5ac72e725acfc400180ae701
+Flashhider      5120    Desert Tech 7.62x51 flash hider 5dcbe965e4ed22586443a79d
+Flashhider      4557    DVL-10 M2 7.62x51 muzzle brake  5888996c24597754281f9419
+Flashhider      903     MPX A2 9x19 flash hider 58949dea86f77409483e16a8
+Flashhider      2800    P226 TJ's Custom 9x19 compensator       5c6beec32e221601da3578f2
+Flashhider      911     HK MP7A1 4.6x30 flash hider     5ba26acdd4351e003562908e
+Flashhider      5500    HK MP5 B&T QD 9x19 muzzle brake 615d8df08004cc50514c3236
+Flashhider      5800    SIG Sauer Two Port Brake 7.62x51 muzzle brake   5fbcbd10ab884124df0cd563
+Flashhider      8900    HK MP5 Noveske-style 9x19 muzzle brake-compensator      5c07c5ed0db834001b73571c
+Flashhider      9850    AK Venom Tactical Antidote 7.62x39 muzzle brake-compensator     5c7951452e221644f31bfd5c
+Flashhider      4503    Glock 9x19 Double Diamond flash hider   5a70366c8dc32e001207fb06
+Flashhider      9200    AR-10 TAA ZK-38 7.62x51 muzzle brake    612e0e3c290d254f5e6b291d
+Flashhider      600     VPO-209 thread protector        59e8a00d86f7742ad93b569c
+Flashhider      907     AR-15 ADAR 2-15 5.56x45 flash hider     5c0fafb6d174af02a96260ba
+Flashhider      4230    AK Zenit DTK-1 7.62x39/5.45x39 muzzle brake-compensator 5649ab884bdc2ded0b8b457f
+Flashhider      600     AK-103 7.62x39 muzzle brake-compensator 5ac72e7d5acfc40016339a02
+Flashhider      7980    AR-10 Daniel Defense WAVE 7.62x51 muzzle brake  5d1f819086f7744b355c219b
+Flashhider      663     PP-19-01 "Vityaz" 9x19 muzzle brake-compensator 5998597786f77414ea6da093
+Flashhider      4230    Desert Tech 5.56x45 flash hider 5c48a2a42e221602b66d1e07
+Flashhider      7800    SV-98 SRVV Mk.2.0 7.62x54R muzzle brake-compensator     5c4ee3d62e2216152006f302
+Flashhider      606     AKML system 7.62x39 flash hider 5a0d716f1526d8000d26b1e2
+Flashhider      3900    AK Spikes Tactical Dynacomp 7.62x39 muzzle brake-compensator    5a9ea27ca2750c00137fa672
+Flashhider      608     AKM 7.62x39 muzzle brake-compensator (6P1 0-14) 59d64fc686f774171b243fe2
+Flashhider      9650    Ferfrans CRD 5.56x45 Concussion Reduction Device        5f6339d53ada5942720e2dc3
+Flashhider      5960    AK SRVV 7.62x39 muzzle brake-compensator        5cc9ad73d7f00c000e2579d4
+Flashhider      8486    AK-74 PWS CQB 74 5.45x39 muzzle brake   5943eeeb86f77412d6384f6b
+Flashhider      950     RPK-16 5.45x39 muzzle brake-compensator 5beec3420db834001b095429
+Flashhider      3800    TT PM-Laser DTK-TT muzzle brake-compensator     5bffd7ed0db834001d23ebf9
+Flashhider      3540    Mosin Rifle Tacfire Tanker Style 7.62x54R muzzle brake  5bbdb83fd4351e44f824c44b
+Flashhider      3500    FN SCAR-L 5.56x45 flash hider   618407a850224f204c1da549
+Flashhider      8400    AR-15 Ferfrans CQB 5.56x45 muzzle brake 5f6372e2865db925d54f3869
+Flashhider      1340    KRISS Vector .45 ACP flash hider        5fb65424956329274326f316
+Flashhider      7217    AR-10 CMMG SV Brake 7.62x51 muzzle brake        6065c6e7132d4d12c81fd8e1
+Flashhider      5500    AR-15 KAC QDC 5.56x45 flash suppressor kit      56ea8180d2720bf2698b456a
+Flashhider      1840    SIG Sauer 7.62x51 3-prong flash hider   5fbcbcf593164a5b6278efb2
+Flashhider      6420    AR-15 SureFire SF3P 5.56x45 Flash hider 5c7fb51d2e2216001219ce11
+Flashhider      6900    HK G36 5.56x45 4-prong flash hider      622f128cec80d870d349b4e8
+Flashhider      7180    AR-15 Thunder Beast Arms 223CB 5.56x45 muzzle brake     5d440625a4b9361eec4ae6c5
+Flashhider      6149    AR-15 AAC Blackout 51T 5.56x45 flash hider      5c7e5f112e221600106f4ede
+Flashhider      3750    HK Prolonged 7.62x51 flash hider        61713308d92c473c770214a0
+Flashhider      7848    Yankee Hill Annihilator multi-caliber flash hider       5b3a16655acfc40016387a2a
+Flashhider      3365    Glock 9x19 Lone Wolf LWD-COMP9 compensator      5a7ad1fb51dfba0013379715
+Flashhider      500     Saiga-9 9x19 muzzle brake-compensator   5998598e86f7740b3f498a86
+Flashhider      5244    DVL-10 7.62x51 muzzle device    58889c7324597754281f9439
+Flashhider      2142    M1A SOCOM 16 7.62x51 muzzle brake-compensator   5aafa1c2e5b5b00015042a56
+Flashhider      4557    ORSIS T-5000M 7.62x51 muzzle brake-compensator  5df35e7f2a78646d96665dd4
+Flashhider      2800    Glock 9x19 Lone Wolf AlphaWolf Bullnose compensator     5a705e128dc32e000d46d258
+Flashhider      8400    AR-10 Nordic Components Corvette 7.62x51 compensator    5d02677ad7ad1a04a15c0f95
+Flashhider      6100    ASh-12 12.7x55 muzzle brake-compensator 5caf17c9ae92150b30006be1
+Flashhider      8000    AR-15 SilencerCo ASR 5.56x45 flash hider        609269c3b0e443224b421cc1
+Flashhider      1497    SV-98 7.62x54R muzzle device    560e620e4bdc2d724b8b456b
+Flashhider      6756    Mosin Rifle Texas Precision Products 7.62x54R muzzle brake      5bc5a351d4351e003477a414
+Flashhider      4600    AR-10 AAC Blackout 51T 7.62x51 flash hider      5a34fd2bc4a282329a73b4c5
+Flashhider      1907    STM-9 9x19 muzzle brake 60337f5dce399e10262255d1
+Flashhider      9600    AK Hexagon Reactor 5.45x39 muzzle brake 615d8f5dd92c473c770212ef
+Flashhider      7817    AR-10 2A Armanent X3 7.62x51 compensator        5b7d693d5acfc43bca706a3d
+Flashhider      7280    AR-10 Thunder Beast Arms 30CB 7.62x51 muzzle brake      5d443f8fa4b93678dd4a01aa
+Flashhider      6149    AR-10 KAC QDC 7.62x51 flash suppressor kit      5dfa3cd1b33c0951220c079b
+Flashhider      5500    HK G36C 5.56x45 4-prong flash hider     622f0ee47762f55aaa68ac87
+Flashhider      1340    KRISS Vector 9x19 flash hider   5fbbc3324e8a554c40648348
+Flashhider      9300    AR-15 HK BLITZ 5.56x45 flash hider      615d8e2f1cb55961fa0fd9a4
+Flashhider      6152    Glock 9x19 CARVER Custom 4 Port compensator     5a7ad0c451dfba0013379712
+Flashhider      5000    AR-15 Yankee Hill Phantom 5.56x45 flash hider   626a74340be03179a165e30c
+Flashhider      7850    AR-15 TROY Claymore 5.56x45 muzzle brake        5cc9b815d7f00c000e2579d6
+Flashhider      9000    AR-10 Dead Air Keymount 7.62x51 muzzle brake    628a66b41d5e41750e314f34
+Flashhider      2339    SA-58 Austrian Style 7.62x51 muzzle brake       5b7d68af5acfc400170e30c3
+Flashhider      4200    AAC SCAR-SD 51T 7.62x51 flash hider     618178aa1cb55961fa0fdc80
+Flashhider      9850    Lantac BMD 7.62x51 Blast Mitigation Device      5cf78720d7f00c06595bc93e
+Flashhider      9442    M14 JP Enterprises 7.62x51 Tactical Compensator 5addbb825acfc408fb139400
+Flashhider      8120    SilencerCo AC-858 ASR .338 LM muzzle brake      5fc23636016cce60e8341b05
+Flashhider      8000    AR-10 SureFire Warden 7.62x51 blast regulator   615d8eb350224f204c1da1cf
+Flashhider      9350    AR-10 Precision Armanent M11 Severe-Duty 7.62x51 muzzle brake   5cdd7693d7f00c0010373aa5
+Flashhider      8000    AR-15 SureFire Warden 5.56x45 blast regulator   62669bccdb9ebb4daa44cd14
+Flashhider      7100    KAC QDC 5.56x45 3-Prong Flash Eliminator        626667e87379c44d557b7550
+Flashhider      5054    Glock 9x19 CARVER Custom Decelerator 3 Port compensator 5a7037338dc32e000d46d257
+Flashhider      6476    Glock 9x19 Strike Industries G4 SlideComp compensator   5a7b32a2e899ef00135e345a
+Flashhider      8043    M14 Good Iron 7.62x51 muzzle brake      5addbb945acfc4001a5fc44e
+Flashhider      5403    M14 Smith Enterprise Vortex 7.62x51 muzzle brake        5addbba15acfc400185c2854
+Flashhider      6488    M14 Yankee Hill Phantom 7.62x51 flash hider     5addbbb25acfc40015621bd9
+Flashhider      4700    M1911 Anarchy Outdoors .45 ACP muzzle brake     5ef61964ec7f42238c31e0c1
+Flashhider      4909    M1A Smith Enterprise SOCOM 16 7.62x51 threaded muzzle brake & gas block 5ab3afb2d8ce87001660304dFlashhider      1601    SA-58 3-Prong Trident 7.62x51 flash hider       5b099b7d5acfc400186331e4
+Flashhider      4817    SV-98 7.62x54R thread adapter   5c4eec9b2e2216398b5aaba2
+Comb. muzzle device     4350    MP9 9x19 sound suppressor mount 5de8f237bbaf010b10528a70
+Comb. muzzle device     3970    Gemtech ONE direct thread mount adapter 5c7954d52e221600106f4cc7
+Comb. muzzle device     1100    HK USP Tactical thread protector        6194f1f918a3974e5e7421e4
+Comb. muzzle device     400     P226 thread protection cap      587de5ba2459771c0f1e8a58
+Comb. muzzle device     701     SOK-12 thread protection tube   576167ab2459773cad038c43
+Comb. muzzle device     undefined       muzzle_tkpd_izhmash_93x64       5580239d4bdc2de7118b4583
+Comb. muzzle device     2783    Remington Tactical Choke 12ga   560838c94bdc2d77798b4569
+Comb. muzzle device     4046    GK-02 12ga muzzle brake 58272d7f2459774f6311ddfd
+Comb. muzzle device     1500    Mosin Rifle Kiba Arms 7.62x54R custom thread adapter    5cf79389d7f00c10941a0c4d
+Comb. muzzle device     400     RFB thread protection cap       5f2aa4464b50c14bcf07acdb
+Comb. muzzle device     1000    AWC PSR muzzle brake protector  612e0e04568c120fdd294258
+Comb. muzzle device     2700    AKM 7.62x39 Kiba Arms .308 muzzle device adapter        615d8e9867085e45ef1409c6
+Comb. muzzle device     3000    Lantac BMD Blast Mitigation Device A3 direct thread adapter     5cf78496d7f00c065703d6caComb. muzzle device     1007    Glock SAI 9x19 thread protector 5a6b59a08dc32e000b452fb7
+Comb. muzzle device     5110    PP-91-01 "Kedr-B" threaded suppressor adapter   57f3c7e024597738ea4ba286
+Comb. muzzle device     400     KRISS Vector 9x19 thread protection cap 5fbbc34106bde7524f03cbe9
+Comb. muzzle device     800     SilencerCo Salvo 12 thread adapter      5b363e1b5acfc4771e1c5e80
+Comb. muzzle device     1900    Mosin Rifle Weapon Tuning 7.62x39 thread adapter        5cf67a1bd7f00c06585fb6f3
+Comb. muzzle device     4230    SIG Sauer Taper-LOK 7.62x51/.300 BLK muzzle adapter     5fbc22ccf24b94483f726483
+Comb. muzzle device     300     M9A3 thread protection cap      5cadc390ae921500126a77f1
+Comb. muzzle device     1850    SKS Weapon Tuning 7.62x39 thread adapter        5cf67cadd7f00c065a5abab7
+Comb. muzzle device     8798    Tromix Monster Claw 12ga muzzle brake   59fb137a86f7740adb646af1
+Comb. muzzle device     2766    HK MP5 3-lug thread protector   5926e16e86f7742f5a0f7ecb
+Comb. muzzle device     1800    MTs-255-12 12ga choke   619d36da53b4d42ee724fae4
+Comb. muzzle device     1800    SVDS Rotor 43 thread adapter    5e01e9e273d8eb11426f5bc3
+Comb. muzzle device     800     AI AXMC thread protection cap   628120621d5df4475f46a335
+Comb. muzzle device     500     M700 thread protection cap      5d270b3c8abbc3105335cfb8
+Comb. muzzle device     615     AK 7.62x39 Taktika Tula muzzle adapter  5a0abb6e1526d8000a025282
+Comb. muzzle device     800     SilencerCo Salvo 12 choke adapter       5b363dea5acfc4771e1c5e7e
+Comb. muzzle device     2200    RFB thread spacer       5f2aa43ba9b91d26f20ae6d2
+Comb. muzzle device     2150    ME Cylinder 12ga muzzle adapter 5c0111ab0db834001966914d
+Comb. muzzle device     3990    SilencerCo Omega 45k Piston Mount adapter       5fc4b97bab884124df0cd5e3
+Comb. muzzle device     600     M700 thread protection cap (Stainless steel)    5d270ca28abbc31ee25ee821
+Comb. muzzle device     4120    SilencerCo Hybrid 46 Direct Thread Mount adapter        59bffc1f86f77435b128b872
+Comb. muzzle device     2615    AK CNC Warrior 5.56x45 muzzle device adapter    5e21ca18e4d47f0da15e77dd
+Comb. muzzle device     3750    SilencerCo Omega 45k Direct Thread Mount adapter        5fc4b992187fea44d52edaa9
+Comb. muzzle device     2950    Mosin Rifle Tiger Rock 7.62x51 thread adapter   5cf79599d7f00c10875d9212
+Comb. muzzle device     2970    HK MP5 3-lug suppressor adapter 5c0000c00db834001a6697fc
+Comb. muzzle device     400     KRISS Vector .45 ACP thread protection cap      5fb6548dd1409e5ca04b54f9
+Comb. muzzle device     200     VPO-215 "Gornostay" thread protection cap       5de6556a205ddc616a6bc4f7
+Silencer        undefined       silencer_silencerco_sparrow_22lr        54490a4d4bdc2dbc018b4573
+Silencer        undefined       silencer_kac_qdc_65x35  55d617094bdc2d89028b4568
+Assault scope   undefined       scope_all_elcan_spectre_os4x    544a3f024bdc2d1d388b4568
+Ironsight       800     FN Five-seveN MK2 front sight   5d3eb536a4b9363b1f22f8e2
+Ironsight       700     Mossberg 590 Ghost Ring front sight     5e8708d4ae379e67d22e0102
+Ironsight       470     AKMP system front sight device  5a0f096dfcdbcb0176308b15
+Ironsight       2233    ASh-12 folding front sight      5caf16a2ae92152ac412efbc
+Ironsight       602     HK MP7 flip-up front sight      5ba26b01d4351e0085325a51
+Ironsight       2433    KAC Folding Micro front sight   5dfa3d950dee1b22f862eae0
+Ironsight       2233    KAC Folding front sight 5c17804b2e2216152006c02f
+Ironsight       2200    KRISS Defiance low profile flip-up front sight  5fb6567747ce63734e3fa1dc
+Ironsight       2444    Magpul MBUS Gen2 flip-up front sight    5bc09a30d4351e00367fb7c8
+Ironsight       2400    Magpul MBUS Gen2 flip-up front sight (FDE)      5c18b90d2e2216152142466b
+Ironsight       2350    MCX flip-up front sight 5fc0fa362770a0045c59c677
+Ironsight       600     MPX flip-up front sight 5894a73486f77426d259076c
+Ironsight       501     APS front sight 5aba62f8d8ce87001943946b
+Ironsight       600     AR-15 Leapers UTG Low Profile A2 front sight    55d4af3a4bdc2d972f8b456f
+Ironsight       2350    HK G36 front sight      623166e08c43374ca1567195
+Ironsight       1903    Glock Dead Ringer Snake Eye front sight 5a7d90eb159bd400165484f1
+Ironsight       502     Glock front sight       5a6f58f68dc32e000a311390
+Ironsight       1010    Glock TruGlo TFX front sight    5a7d9104159bd400134c8c21
+Ironsight       1300    Glock ZEV Tech front sight      5a71e0048dc32e000c52ecc8
+Ironsight       502     M1911A1 front sight     5e81ee213397a21db957f6a6
+Ironsight       1628    M1A SA National Match .062 Blade front sight    5addba3e5acfc4001669f0ab
+Ironsight       1624    M1A SA XS Post .125 Blade front sight   5aafa49ae5b5b00015042a58
+Ironsight       460     M9A3 front sight        5cadd919ae921500126a77f3
+Ironsight       3100    FN SCAR flip-up front sight     61816fcad92c473c770215cc
+Ironsight       524     Mosin Rifle front sight 5ae099875acfc4001714e593
+Ironsight       1500    P226 Meprolight TRU-DOT Night front sight       5c07b36c0db834002a1259e9
+Ironsight       500     P226 front sight        56d5a661d2720bd8418b456b
+Ironsight       800     PL-15 front sight       60228a76d62c9b14ed777a66
+Ironsight       999     SV-98 rear sight        56083e1b4bdc2dc8488b4572
+Ironsight       471     AKMB system rear sight  5a0eb980fcdbcb001a3b00a6
+Ironsight       2800    HK USP Red Dot sight mount      61963a852d2c397d660036ad
+Ironsight       996     AS VAL rear sight       57c44e7b2459772d28133248
+Ironsight       3600    M9A3 Sight Mount rear sight rail        5cadd954ae921500103bb3c2
+Ironsight       600     APS rear sight  5aba637ad8ce87001773e17f
+Ironsight       900     MP9 rear sight  5de8fb539f98ac2bc659513a
+Ironsight       505     M9A3 rear sight 5cadd940ae9215051e1c2316
+Ironsight       1050    MCX flip-up rear sight  5fc0fa957283c4046c58147e
+Ironsight       802     MPX flip-up rear sight  5894a81786f77427140b8347
+Ironsight       900     FN Five-seveN MK2 rear sight    5d3eb4aba4b93650d64e497d
+Ironsight       3600    Magpul MBUS Gen2 flip-up rear sight     5bc09a18d4351e003562b68e
+Ironsight       2698    AK Taktika Tula TT01 rear sight rail    5649d9a14bdc2d79388b4580
+Ironsight       1250    HK G36 rear sight       6231670f0b8aa5472d060095
+Ironsight       472     AK-105 rear sight (6P44 Sb.1-30)        5ac733a45acfc400192630e2
+Ironsight       499     AK-74 rear sight (6P20 Sb.2)    5649b0544bdc2d1b2b8b458a
+Ironsight       800     HK 416A5 flip-up rear sight     5bb20e49d4351e3bac1212de
+Ironsight       908     AR-15 Colt A2 rear sight        55d5f46a4bdc2d1b198b4567
+Ironsight       482     AKM rear sight (6P1 Sb.2-1)     59d650cf86f7741b846413a4
+Ironsight       502     Chiappa Rhino front sight       619f4d304c58466fe1228437
+Ironsight       803     HK MP7 flip-up rear sight       5ba26b17d4351e00367f9bdd
+Ironsight       601     APB rear sight  5aba639ed8ce8700182ece67
+Ironsight       3600    Magpul MBUS Gen2 flip-up rear sight (FDE)       5c18b9192e2216398b5a8104
+Ironsight       800     HK USP Tactical rear sight      6194f2df645b5d229654ad77
+Ironsight       2100    HK MP5 Drum rear sight  5926d2be86f774134d668e4e
+Ironsight       604     Chiappa Rhino rear sight        619f4cee4c58466fe1228435
+Ironsight       470     VPO-209 rear sight      59e8977386f77415a553c453
+Ironsight       512     AK-74M rear sight (6P20 Sb.2)   5ac72e475acfc400180ae6fe
+Ironsight       996     VSS rear sight  57838e1b2459774a256959b1
+Ironsight       300     SKS rear sight  574db213245977459a2f3f5d
+Ironsight       604     Glock rear sight        5a6f5d528dc32e00094b97d9
+Ironsight       2000    Glock ZEV Tech rear sight       5a71e0fb8dc32e00094b97f2
+Ironsight       605     P226 rear sight 56d5a77ed2720b90418b4568
+Ironsight       1800    ASh-12 rear sight carry handle  5caf1691ae92152ac412efb9
+Ironsight       700     HK USP Tactical front sight     6194f3286db0f2477964e67d
+Ironsight       470     AKMP system rear sight device   5a0ed824fcdbcb0176308b0d
+Ironsight       400     SOK-12 rear sight       57a9b9ce2459770ee926038d
+Ironsight       878     SVDS rear sight 5c471b7e2e2216152006e46c
+Ironsight       700     HK USP rear sight       6194f2912d2c397d6600348d
+Ironsight       950     PL-15 extended front sight      60228a850ddce744014caf69
+Ironsight       524     SVDS front sight        5c471ba12e221602b3137d76
+Ironsight       1800    AK RD Enhanced V2 Rear Sight    628a7b23b0f75035732dd565
+Ironsight       800     RPK-16 rear sight base  5beec9450db83400970084fd
+Ironsight       800     Mossberg 590 Ghost Ring rear sight      5e87114fe2db31558c75a120
+Ironsight       700     AK-545 SAG rear sight   628b9471078f94059a4b9bfb
+Ironsight       3325    KAC Folding rear sight  5c1780312e221602b66cc189
+Ironsight       3900    FN SCAR flip-up rear sight      61817865d3a39d50044c13a4
+Ironsight       890     Chiappa Rhino Green Fiber Optic front sight     619f52454c58466fe122843b
+Ironsight       3200    KRISS Defiance low profile flip-up rear sight   5fb6564947ce63734e3fa1da
+Ironsight       800     RPK-16 rear sight       5bf3f59f0db834001a6fa060
+Ironsight       600     HK USP front sight      6194f35c18a3974e5e7421e6
+Ironsight       2400    Trijicon ACOG backup rear sight 5c05295e0db834001a66acbb
+Ironsight       3525    KAC Folding Micro rear sight    5dfa3d7ac41b2312ea33362a
+Ironsight       823     AR-15 rear sight carry handle   5ae30bad5acfc400185c2dc4
+Ironsight       4106    Glock Dead Ringer Snake Eye rear sight  5a7d9122159bd4001438dbf4
+Ironsight       1818    Glock TruGlo TFX rear sight     5a7d912f159bd400165484f3
+Ironsight       471     M14 SA Enlarged Military Aperture rear sight    5abcbb20d8ce87001773e258
+Ironsight       604     M1911A1 rear sight      5e81ee4dcb2b95385c177582
+Ironsight       800     Benelli M3 Ghost Ring rear sight        625ebcef6f53af4aa66b44dc
+Ironsight       800     Mosin Rifle carbine rear sight  5bfd4c980db834001b73449d
+Ironsight       878     Mosin Rifle rear sight  5ae099925acfc4001a5fc7b3
+Ironsight       1400    P226 Meprolight TRU-DOT Night rear sight        5c07b3850db834002330045b
+Ironsight       3819    P226 Sight Mount 220-239 rear sight bearing     56ea7293d2720b8d4b8b45ba
+Ironsight       900     PL-15 rear sight        60229948cacb6b0506369e27
+Ironsight       950     PL-15 extended rear sight       602293f023506e50807090cb
+Ironsight       414     PP-19-01 "Vityaz" rear sight    599860e986f7743bb57573a6
+Ironsight       900     Chiappa Rhino Green Fiber Optic rear sight      619f4f8c4c58466fe1228439
+Ironsight       470     SA-58 Holland Type rear sight   5b0bc22d5acfc47a8607f085
+Ironsight       2400    SOK-12 CSS rear sight rail mount        58272b842459774abc128d50
+Ironsight       300     VPO-101 "Vepr-Hunter" rear sight        5c503b1c2e221602b21d6e9d
+Charging handle 2200    HK417 E1 extended charging handle       61702d8a67085e45ef140b24
+Charging handle 5000    AK CSS knurled charging handle  6130ca3fd92c473c77020dbd
+Charging handle 2663    AK Zenit RP-1 charging handle   5648ac824bdc2ded0b8b457d
+Charging handle 1050    AR-10 KAC ambidextrous charging handle  5df8e085bb49d91fb446d6a8
+Charging handle 850     AR-10 KAC charging handle       5df8e053bb49d91fb446d6a6
+Charging handle 650     AR-15 ADAR 2-15 charging handle 5c0faf68d174af02a96260b8
+Charging handle 4396    AR-15 Badger Ordnance Tactical Charging Handle Latch    56ea7165d2720b6e518b4583
+Charging handle 733     AR-15 Colt charging handle      55d44fd14bdc2d962f8b456e
+Charging handle 2060    AR-15 HK Extended Latch charging handle 5bb20dbcd4351e44f824c04e
+Charging handle 1900    AR-15 MASP Industries Ambidextrous Battle Charging Handle       6033749e88382f4fab3fd2c5
+Charging handle 6753    AR-15 Radian Weapons Raptor charging handle     5b2240bf5acfc40dc528af69
+Charging handle 6653    AR-15 Radian Weapons Raptor charging handle (Grey)      5d44334ba4b9362b346d1948
+Charging handle 7000    AR-15 Rainier Arms Avalanche MOD2 charging handle       5f633ff5c444ce7e3c30a006
+Charging handle undefined       charge_ax_accuracy_internation_axmc_762x51_pb   62811d61578c54356d6d67ea
+Charging handle 1300    Benelli M3 Super 90 charging handle     625ec45bb14d7326ac20f572
+Charging handle 733     MCX charging handle     5fbcc640016cce60e8341acc
+Charging handle 2400    FN SCAR charging handle 6181688c6c780c1e710c9b04
+Charging handle 2200    Mk47 ambidextrous charging handle       606587bd6d0bd7580617bacc
+Charging handle 1650    HK MP5 cocking handle   5926c32286f774616e42de99
+Charging handle 1550    HK MP5K cocking handle  5d2f2d5748f03572ec0c0139
+Charging handle 650     MP9 charging handle     5de922d4b11454561e39239f
+Charging handle 1780    MPX Geissele SCH charging handle        5c5db6b32e221600102611a0
+Charging handle 730     MPX double latch charging handle        58949edd86f77409483e16a9
+Charging handle 700     MPX single latch charging handle        58949fac86f77409483e16aa
+Charging handle 1600    FN P90 charging handle  5cc6ea78e4a949000e1ea3c1
+Charging handle 2663    FN P90 K&M The Handler charging handle  5cc6ea85e4a949000e1ea3c3
+UBGL    undefined       launcher_ak74_izhmash_gp34      5648b62b4bdc2d9d488b4585
+Magazine        2122    MP-153 12ga 8-shell magazine    56deeefcd2720bc8328b4568
+CylinderMagazine        1500    MTs-255-12 12ga cylinder        60dc519adf4c47305f6d410d
+CylinderMagazine        800     Chiappa Rhino 9x19 6-round cylinder     624c3074dbbd335e8e6becf3
+CylinderMagazine        1100    Chiappa Rhino .357 6-round cylinder     619f54a1d25cbd424731fb99
+Magazine        1974    AK 7.62x39 6L10 30-round magazine       5a01c29586f77474660c694c
+Magazine        1850    M700 7.62x51 Wyatt's Outdoor 5-round magazine   5bfea7ad0db834001c38f1ee
+Magazine        4493    DVL-10 7.62x51 10-round magazine        5888988e24597752fe43a6fa
+Magazine        2450    AR-10 7.62x51 KAC 20-round steel magazine       5df8f541c41b2312ea3335e3
+Magazine        4100    MP9 9x19 30-round magazine      5de8eac42a78646d96665d91
+Magazine        6240    M700 7.62x51 ProMag AA-70 20-round magazine     5cf12a15d7f00c05464b293f
+Magazine        3765    AK-74 5.45x39 6L26 45-round magazine    55d481904bdc2d8c2f8b456a
+Magazine        2200    KS-23M 23x75 3-shell magazine cap       5f647d9f8499b57dc40ddb93
+Magazine        3530    AK-74 5.45x39 6L18 45-round magazine    564ca9df4bdc2d35148b4569
+Magazine        3900    M700 7.62x51 AICS 10-round magazine     5d25a6538abbc306c62e630d
+Magazine        4387    AK 7.62x39 US Palm "AK30" 30-round magazine (Black)     59fafc5086f7740dbe19f6c3
+Magazine        1808    AK-101 5.56x45 6L29 30-round magazine   5ac66c5d5acfc4001718d314
+Magazine        902     MP-153 12ga 5-shell magazine    5882163e24597758206fee8c
+Magazine        1999    AK-74 5.45x39 6L23 30-round magazine    55d480c04bdc2d1d4e8b456a
+Magazine        3450    HK417/G28 7.62x51 20-round magazine     617131a4568c120fdd29482d
+Magazine        1800    AR-10 7.62x51 KAC 10-round steel magazine       5df8f535bb49d91fb446d6b0
+Magazine        4026    HK MP7 4.6x30 20-round magazine 5ba264f6d4351e0034777d52
+Magazine        2100    M700 7.62x51 AICS 5-round magazine      5d25a4a98abbc30b917421a4
+Magazine        1800    M9A3 9x19 17-round magazine     5cadc2e0ae9215051e1c21e7
+Magazine        5600    M700 7.62x51 MDT AICS 12-round magazine 5d25a6a48abbc306c62e6310
+Magazine        2031    AK-74 5.45x39 6L20 30-round magazine    564ca99c4bdc2d16268b4589
+Magazine        4000    FN SCAR-H 7.62x51 20-round magazine     618168dc8004cc50514c34fc
+Magazine        3007    SA-58/FAL 7.62x51 MMW polymer 20-round magazine 5b7c2d1d5acfc43d1028532a
+Magazine        4340    M700 7.62x51 ProMag AA-70 10-round magazine     5d25af8f8abbc3055079fec5
+Magazine        2350    HK G36 5.56x45 30-round magazine        62307b7b10d2321fa8741921
+Magazine        1476    Glock 9x19 17-round magazine    5a718b548dc32e000d46d262
+Magazine        2300    Benelli M3 Super 90 12ga 7-shell magazine       6259bdcabd28e4721447a2aa
+Magazine        4700    AK 7.62x39 US Palm "AK30" 30-round magazine (FDE)       59fafc9386f774067d462453
+Magazine        2100    HK417/G28 7.62x51 10-round magazine     617130016c780c1e710c9a24
+Magazine        1535    MP-443 "Grach" 9x19 18-round magazine   576a5ed62459771e9c2096cb
+Magazine        3500    M700 7.62x51 Wyatt's Outdoor 10-round magazine  5bfeaa0f0db834001b734927
+Magazine        3100    HK MP5 9x19 20-round magazine   5d2f213448f0355009199284
+Magazine        1255    MP-133 12ga 6-shell magazine    55d484b44bdc2d1d4e8b456d
+Magazine        940     PM 9x18PM 90-93 8-round magazine        5448c12b4bdc2d02308b456f
+Magazine        2073    MPX 9x19 30-round magazine      5894a05586f774094708ef75
+Magazine        2300    HK UMP .45 ACP 25-round magazine        5fc3e466187fea44d52eda90
+Magazine        1221    MP-155 12ga 6-shell magazine    6076c87f232e5a31c233d50e
+Magazine        2200    HK USP .45 ACP 12-round magazine        6193d338de3cdf1d2614a6fc
+Magazine        1221    MP-153 12ga 6-shell magazine    5882163824597757561aa922
+Magazine        2096    P226 9x19 15-round magazine     56d59948d2720bb7418b4582
+Magazine        1450    MPX 9x19 20-round magazine      5c5db6552e2216001026119d
+Magazine        4637    VSS 9x39 6L24 10-round magazine 57838f0b2459774a256959b2
+Magazine        1663    MP-153 12ga 7-shell magazine    5882163224597757561aa920
+Magazine        1506    SR-1MP 9x21 18-round magazine   59f99a7d86f7745b134aa97b
+Magazine        500     MP-153 12ga 4-shell magazine cap        56deee15d2720bee328b4567
+Magazine        6001    HK MP7 4.6x30 30-round magazine 5ba2657ed4351e0035628ff2
+Magazine        2631    PPSh-41 7.62x25 35-round magazine       5ea034eb5aad6446a939737b
+Magazine        1694    SOK-12 12/76 sb.5 5-round magazine      57616a9e2459773c7a400234
+Magazine        1157    TT 7.62x25 tt-105 8-round magazine      571a29dc2459771fb2755a6a
+Magazine        5697    SKS 7.62x39 ProMag SKS-A5 20-round magazine     587df583245977373c4f1129
+Magazine        5999    VSS 9x39 6L25 20-round magazine 57838f9f2459774a150289a0
+Magazine        2550    MP9 9x19 25-round magazine      5de8eaadbbaf010b10528a6d
+Magazine        1700    MP9 9x19 15-round magazine      5de8e8dafd6b4e6e2276dc32
+Magazine        1950    MP9 9x19 20-round magazine      5de8ea8ffd6b4e6e2276dc35
+Magazine        2295    MP-133 12ga 8-shell magazine    55d485804bdc2d8c2f8b456b
+Magazine        4010    HK MP5 9x19 30-round magazine   5926c3b286f774640d189b6b
+Magazine        2750    AK-12 5.45x39 30-round magazine 5bed61680db834001d2c45ab
+Magazine        1763    AK 7.62x39 30-round magazine (issued '55 or later)      59d625f086f774661516605d
+Magazine        2100    AK-74 5.45x39 6L23 "Plum" 30-round magazine     5cbdaf89ae9215000e5b9c94
+Magazine        849     APS 9x18PM 20-round magazine    5a17fb03fcdbcbcae668728f
+Magazine        700     AK 7.62x39 aluminium 10-round magazine  5b1fd4e35acfc40018633c39
+Magazine        undefined       AGS-30 30x29 30-round box       5d52d479a4b936793d58c76b
+Magazine        3232    AR-10 7.62x51 Magpul PMAG 20 SR-LR GEN M3 20-round magazine     5a3501acc4a282000d72293a
+Magazine        1500    Mossberg 590A1 12ga 8-shell magazine cap        5e87080c81c4ed43e83cefda
+Magazine        998     AK 7.62x39 ribbed metal 10-round magazine       59e5d83b86f7745aed03d262
+Magazine        4100    Glock .45 ACP KRISS G30 MagEx 30-round magazine 5fb651dc85f90547f674b6f4
+Magazine        1500    Benelli M3 Super 90 12ga 5-shell magazine cap   625ff2ccb8c587128c1a01dd
+Magazine        5273    MPX 9x19 TTI "Base Pad +11" 41-round magazine   5c5db6652e221600113fba51
+Magazine        1600    SKS 7.62x39 10-round internal box magazine      587df3a12459772c28142567
+Magazine        4609    SA-58/FAL 7.62x51 SLR 30-round magazine 5b7d37845acfc400170e2f87
+Magazine        6600    ASh-12 12.7x55 10-round magazine        5caf1041ae92157c28402e3f
+Magazine        2800    M700 7.62x51 Magpul PMAG AC 5-round magazine    5ce69cbad7f00c00b61c5098
+Magazine        2012    5.56x45 Colt AR-15 STANAG 30-round magazine     55d4887d4bdc2d962f8b4570
+Magazine        3300    AKMS 7.62x39 aluminium 30-round magazine        5a0060fc86f7745793204432
+Magazine        4466    SA-58/FAL 7.62x51 30-round magazine     5b7bef5d5acfc43bca7067a3
+Magazine        1550    Glock .45 ACP 13-round magazine 5fb651b52b1b027b1f50bcff
+Magazine        1100    M1911A1 .45 ACP 7-round magazine        5e81c4ca763d9f754677befa
+Magazine        2956    Glock 9x19 "Big Stick" 33-round magazine        5a7ad2e851dfba0016153692
+Magazine        2422    PP-19-01 "Vityaz" 9x19 30-round magazine        599860ac86f77436b225ed1a
+Magazine        2400    SLR-106/AK 5.56x45 Circle 10 30-round magazine  5c0548ae0db834001966a3c2
+Magazine        1802    SA-58/FAL 7.62x51 10-round magazine     5b7bef1e5acfc43d82528402
+Magazine        3660    FN Five-seveN 5.7x28 20-round magazine  5d3eb5eca4b9363b1f22f8e4
+Magazine        2877    PP-91 "Kedr" 9x18PM 30-round magazine   57d1519e24597714373db79d
+Magazine        1030    M870 12ga 4-shell magazine cap  5a7882dcc5856700177af662
+Magazine        2100    M1911A1 .45 ACP Mec-Gar 11-round magazine       5ef3448ab37dfd6af863525c
+Magazine        3700    SOK-12 12/76 SAI-02 10-round magazine   5a966f51a2750c00156aacf6
+Magazine        1935    AK-103 7.62x39 30-round magazine        5ac66bea5acfc43b321d4aec
+Magazine        2468    M1A 7.62x51 20-round magazine   5aaf8a0be5b5b00015693243
+Magazine        1502    PP-91 "Kedr" 9x18PM 20-round magazine   57d14e1724597714010c3f4b
+Magazine        2780    SA-58/FAL 7.62x51 20-round magazine     5b099ac65acfc400186331e1
+Magazine        1376    PL-15 9x19 16-round magazine    602286df23506e50807090c6
+Magazine        5000    M700 7.62x51 Magpul PMAG AC 10-round magazine   5d25a7b88abbc3054f3e60bc
+Magazine        8661    Glock 9x19 SGM Tactical 50-round drum magazine  5a718f958dc32e00094b97e7
+Magazine        5802    M14 7.62x51 30-round magazine   5addcce35acfc4001a5fc635
+Magazine        4680    5.56x45 TROY BattleMag STANAG 30-round magazine 5c6d46132e221601da357d56
+Magazine        2940    P226 9x19 20-round extended magazine    5c920e902e221644f31c3c99
+Magazine        3900    SV-98 7.62x54R 10-round magazine        559ba5b34bdc2d1f1a8b4582
+Magazine        3750    SVD 7.62x54R 10-round magazine  5c471c442e221602b542a6f8
+Magazine        9880    SVD 7.62x54R 20-round magazine  5c88f24b2e22160bc12c69a6
+Magazine        1950    ORSIS T-5000M 7.62x51 5-round magazine  5df25b6c0b92095fd441e4cf
+Magazine        785     TOZ-106 20ga MTs 20-01 Sb.3 2-shot magazine     5a38ee51c4a282000c5a955c
+Magazine        1075    TOZ-106 20ga MTs 20-01 Sb.3 4-shot magazine     5a38ed75c4a28232996e40c6
+Magazine        1410    TOZ-106 20ga MTs 20-01 Sb.3 5-shot magazine     5c6161fb2e221600113fbde5
+Magazine        3000    HK USP Tactical .45 ACP 12-round magazine       6193d3149fb0c665d5490e32
+Magazine        undefined       100 rounds belt 5cffa483d7ad1a049e54ef1c
+Magazine        3850    VPO-101 "Vepr-Hunter" 7.62x51 10-round magazine 5c503ad32e2216398b5aada2
+Magazine        2500    Benelli M3 Super 90 12ga Toni System 9-shell magazine   625ff2eb9f5537057932257d
+Magazine        1731    Glock 9x19 Magpul PMAG GL9 21-round magazine    5a718da68dc32e000d46d264
+Magazine        1100    VPO-101 "Vepr-Hunter" 7.62x51 5-round magazine  5c503ac82e221602b21d6e9a
+Magazine        1200    VPO-215 "Gornostay" .366 TKM 4-round magazine   5de653abf76fdc1ce94a5a2a
+Magazine        1970    Mosin Rifle 7.62x54R 5-round magazine   5ae0973a5acfc4001562206c
+Magazine        2100    FN SCAR-L 5.56x45 30-round magazine     61840bedd92c473c77021635
+Magazine        4500    FN SCAR-H 7.62x51 20-round magazine (FDE)       6183d53f1cb55961fa0fdcda
+Magazine        6129    Mosin Rifle 7.62x54R ProMag Archangel OPFOR 10-round magazine   5bae13ded4351e44f824bf38
+Magazine        2500    FN SCAR-L 5.56x45 30-round magazine (FDE)       61840d85568c120fdd2962a5
+Magazine        3425    5.56x45 HK PM Gen.2 STANAG 30-round magazine    5c6d450c2e221600114c997d
+Magazine        4005    5.56x45 HK 30 STANAG polymer 30-round magazine  5c6d42cb2e2216000e69d7d1
+Magazine        2444    M870 12ga 10-shell magazine     5a78832ec5856700155a6ca3
+Magazine        2001    5.56x45 Magpul PMAG 10 GEN M3 STANAG 10-round magazine  5aaa5e60e5b5b000140293d6
+Magazine        3006    5.56x45 Magpul PMAG 20 GEN M3 STANAG 20-round magazine  5448c1d04bdc2dff2f8b4569
+Magazine        3113    5.56x45 Magpul PMAG 30 GEN M3 STANAG 30-round magazine  5aaa5dfee5b5b000140293d3
+Magazine        2658    AK-74 5.45x39 Magpul PMAG 30 GEN M3 30-round magazine   5aaa4194e5b5b055d06310a5
+Magazine        1679    M870 12ga 7-shell magazine      5a78830bc5856700137e4c90
+Magazine        6177    5.56x45 Magpul PMAG 40 GEN M3 STANAG 40-round magazine  544a378f4bdc2d30388b4567
+Magazine        2300    AK 7.62x39 FAB Defense Ultimag 30R 30-round magazine    6272874a6c47bd74f92e2087
+Magazine        3586    AK 7.62x39 bakelite 40-round magazine   5b1fb3e15acfc4001637f068
+Magazine        3183    AK 7.62x39 Magpul PMAG 30 GEN M3 30-round magazine      59d6272486f77466146386ff
+Magazine        2488    AK 7.62x39 Molot 40-round magazine (6P2.Sb-11)  59e5f5a486f7746c530b3ce2
+Magazine        undefined       !!!DO_NOT_USE!!!AI AXMC 7.62x51 10-round magazine       628120f210e26c1f344e6558
+Magazine        9700    AI AXMC .338 LM 10-round magazine       628120fd5631d45211793c9f
+Magazine        3600    Benelli M3 Super 90 12ga Toni System 11-shell magazine  625ff3046d721f05d93bf2ee
+Magazine        4750    Benelli M3 Super 90 12ga Toni System 13-shell magazine  625ff31daaaa8c1130599f64
+Magazine        1499    Saiga-9 9x19 sb.7 10-round magazine     5998529a86f774647f44f421
+Magazine        1850    PP-19-01 "Vityaz" 9x19 PUFGUN SG-919 20 20-round magazine       5c0673fb0db8340023300271
+Magazine        3350    PP-19-01 "Vityaz" 9x19 PUFGUN SG-919 30 30-round magazine       5c0672ed0db834001b7353f3
+Magazine        3620    5.56x45 HK Steel Maritime STANAG 30-round magazine      5c05413a0db834001c390617
+Magazine        3113    5.56x45 Magpul PMAG 30 GEN M3 STANAG 30-round magazine (FDE)    5d1340b3d7ad1a0b52682ed7
+Magazine        6177    5.56x45 Magpul PMAG 40 GEN M3 STANAG 40-round magazine (FDE)    5d1340bdd7ad1a0e8d245aab
+Magazine        3797    5.56x45 Magpul PMAG 30 GEN M3 W STANAG 30-round magazine        55802d5f4bdc2dac148b458e
+Magazine        3797    5.56x45 Magpul PMAG 30 GEN M3 W STANAG 30-round magazine (FDE)  5d1340cad7ad1a0b0b249869
+Mount   2600    SVD CAA DRG L-1 barrel mount rail       5e569a132642e66b0b68015c
+Mount   8500    IEA Mil-Optics KH/F 34mm one-piece magmount     5c86592b2e2216000e69e77c
+Mount   6182    Trijicon RMR mount for ACOG scopes      5a33bab6c4a28200741e22f8
+Mount   4000    HK G36 sight mount      622b3c081b89c677a33bcda6
+Mount   2387    MPX GEN1 handguard 4 inch rail  58a5c12e86f7745d585a2b9e
+Mount   1473    Hexagon medium length rail      5b800ebc86f774394e230a90
+Mount   7800    FN SCAR PWS SRX rail extension  61965d9058ef8c428c287e0d
+Mount   3285    Kiba Arms SPRM rail mount for pump-action shotguns      55d48a634bdc2d8b2f8b456a
+Mount   2454    Wilcox Interface for PVS-7      5c11046cd174af02a012e42b
+Mount   3088    NcSTAR MPR45 Backup mount       5649a2464bdc2d91118b45a8
+Mount   5900    Mossberg 590A1 Tactical rail    5eeb2ff5ea4f8b73c827350b
+Mount   2000    ETMI-019 shotgun rail mount     5dfe14f30b92095fd441edaf
+Mount   2451    Aimpoint Micro Standard Mount   58d39d3d86f77445bb794ae7
+Mount   2744    MP-443 "Grach" Zenit B-8 mount  576a7c512459771e796e0e17
+Mount   6256    UNV DLOC-IRD sight mount        5a1ead28fcdbcb001912fa9f
+Mount   3453    AK Zenit B-12 Mount     57ffaea724597779f52b3a4d
+Mount   1496    M870 Leapers UTG PRO MTU-028SG rail     5a7893c1c585673f2b5c374d
+Mount   1648    Trijicon RMR low profile mount  5a33b2c9c4a282000c5a9511
+Mount   7544    VSS/VAL TOZ 6P29M mount 59eb7ebe86f7740b373438ce
+Mount   4086    Lobaev Arms 30mm scope mount    57c69dd424597774c03b7bbc
+Mount   1108    Hexagon short length rail       5b800ed086f7747baf6e2f9e
+Mount   2800    Aimpoint QRP2 mount for CompM4/PRO reflex sights        616584766ef05c2ce828ef57
+Mount   1650    Leapers UTG 25mm ring scope mount       5dff77c759400025ea5150cf
+Mount   2400    Aimpoint LRP mount for CompM4 sights    5c7d55f52e221644f31bff6a
+Mount   2752    VSS/VAL Zenit B-3 ring mount    57a3459f245977764a01f703
+Mount   1880    KMZ 1P69 Weaver mount   5d0a29fed7ad1a002769ad08
+Mount   2799    Kiba Arms 25mm accessory ring mount     57d17e212459775a1179a0f5
+Mount   2550    Aimpoint Micro H-2 Standard Mount       616554fe50224f204c1da2aa
+Mount   3298    AKS-74U Zenit B-18 Mount        57ffb0062459777a045af529
+Mount   1858    MPX GEN1 handguard 2 inch rail  58a56f8d86f774651579314c
+Mount   4268    Trijicon TA51 sight mount       59db7eed86f77461f8380365
+Mount   3800    MP-18 sight mount       61f804acfcba9556ea304cb8
+Mount   1593    Trijicon RMR high profile mount 5a33b652c4a28232996e407c
+Mount   7607    HK MP5 MFI HK universal low profile scope mount 5926dad986f7741f82604363
+Mount   3284    HK MP5SD B&T tri-rail ring mount        59c63b4486f7747afb151c1c
+Mount   5302    Axion Kobra dovetail mount      591ee00d86f774592f7b841e
+Mount   3215    Mosin Rifle AIM Sports Tri-Rail mount   5bbdb811d4351e45020113c7
+Mount   7800    Zenit B-13 "Klassika" dovetail rail platform    5c61a40d2e2216001403158d
+Mount   5495    VSS/VAL Zenit B-3 mount combo   5a9fc7e6a2750c0032157184
+Mount   1450    Benelli M3 Super 90 upper receiver top rail     625ed7c64d9b6612df732146
+Mount   1000    HK G36 magwell  622f02437762f55aaa68ac85
+Mount   1573    HK G36 bottom handguard rail    62444cb99f47004c781903eb
+Mount   1573    HK UMP bottom handguard rail    5fc53954f8b6a877a729eaeb
+Mount   2902    VPO-102 Arbalet mount   609a4b4fe2ff132951242d04
+Mount   8748    SR-1MP quad rail mount  5a27bad7c4a282000b15184b
+Mount   7600    Zenit B-13V "Klassika" dovetail rail platform   5c90c3622e221601da359851
+Mount   850     MP9 side rail   5de8fc0b205ddc616a6bc51b
+Mount   7906    M14 SAGE International DCSB mount       5addbffe5acfc4001714dfac
+Mount   1400    Hensoldt RIS top rail   622efdf8ec80d870d349b4e5
+Mount   2588    Delta-Tek Sprut mount for pump-action shotguns  55d48ebc4bdc2d8c2f8b456c
+Mount   3551    Norotos Titanium Advanced Tactical Mount        5a16b8a9fcdbcb00165aa6ca
+Mount   5118    VOMZ Pilad 043-02 dovetail mount        57acb6222459771ec34b5cb0
+Mount   1033    HK G36 side handguard rail      62444cd3674028188b052799
+Mount   1259    Mosin Rifle Kochetov mount      5b3f7bf05acfc433000ecf6b
+Mount   1200    MP9 bottom rail 5de8fbf2b74cd90030650c79
+Mount   2687    SR-1MP single rail mount        5a27b281c4a28200741e1e52
+Mount   2200    MP-133/153 Taktika Tula 12003 stock adapter     5bfe7fb30db8340018089fed
+Mount   3823    PP-91 "Kedr" Rotor 43 RIS mount 57ee59b42459771c7b045da5
+Mount   4044    Glock Aimtech mount base        5a7ad4af51dfba0013379717
+Mount   1811    Mosin Rifle AIM Sports MNG rail mount   5bc5a372d4351e44f824d17f
+Mount   1105    PU 3.5x ring scope mount        5b3f7c005acfc4704b4a1de8
+Mount   1750    KMZ 1P59 dovetail mount 5d0a29ead7ad1a0026013f27
+Mount   6400    SVD CAA XD RGL receiver mount   5e569a2e56edd02abe09f280
+Mount   6200    HK USP .45 ACP Match compensator        619624b26db0f2477964e6b0
+Mount   3500    HK USP .45 ACP Elite compensator        619621a4de3cdf1d2614a7a7
+Mount   6017    OP-SKS dovetail mount   587e08ee245977446b4410cf
+Mount   1500    HK USP rail adapter     6196255558ef8c428c287d1c
+Mount   1033    KRISS Vector side rail  5fce0f9b55375d18a253eff2
+Mount   1100    KRISS Vector bottom rail        5fbb976df9986c4cff3fe5f2
+Mount   1700    FN Five-seveN MK2 RMR mount     5d7b6bafa4b93652786f4c76
+Mount   5926    M870 XS SHOTRAIL rail with Ghost Ring rear sight        5a78948ec5856700177b1124
+Mount   2200    Daniel Defense 25mm accessory ring mount        6267c6396b642f77f56f5c1c
+Mount   1500    HK G36 STANAG magwell   622f039199f4ea1a4d6c9a17
+Mount   1582    Burris FastFire Weaver Base     577d128124597739d65d0e56
+Mount   1861    SIG Sauer ROMEO sight mount     5b31163c5acfc400153b71cb
+Mount   2600    B&T QD NAR mount for Aimpoint ACRO      615d8d878004cc50514c3233
+Mount   9588    Burris AR-P.E.P.R. 30mm ring scope mount        5b2389515acfc4771e1be0c0
+Mount   2518    Armasight Vulcan universal base 5b3b6dc75acfc47a8773fb1e
+Mount   4277    M870 Mesa Tactical magazine clamp       5a789261c5856700186c65d3
+Mount   2000    NPZ 1P78-1 dovetail mount       618a75c9a3884f56c957ca1b
+Mount   1000    FN P90 EFFEN 90 receiver rail   5cc7012ae4a949001252b43e
+Mount   4479    P226 Trijicon RMR mount 5a32aa0cc4a28232996e405f
+Mount   2454    AN/PVS-14 Dual Dovetail Mount   5a16b93dfcdbcbcae6687261
+Mount   5900    MP-155 Ultima top rail  60785ce5132d4d12c81fd918
+Mount   4047    Glock Aimtech Tiger Shark sight mount   5a7ad55551dfba0015068f42
+Mount   3000    HK G36 optic rail with flip-up sights   622b3d5cf9cfc87d675d2de9
+Mount   2450    Mosin Rifle Arbalet Patriot K+W rail mount      5d024f5cd7ad1a04a067e91a
+Mount   1625    DeltaPoint Cross Slot Mount base        58d2664f86f7747fec5834f6
+Mount   9294    JP Enterprises Flat-Top 30mm ring scope mount   5a37ca54c4a282000d72296a
+Mount   1033    HK UMP side handguard rail      5fc5396e900b1d5091531e72
+Mount   2203    Aimpoint Micro Spacer High      58d39b0386f77443380bf13c
+Mount   7204    M14 Amega Mini Scout Mount system       5addbfd15acfc40015621bde
+Mount   1000    Vltor CASV 2 inch rail  5b7be4575acfc400161d0832
+Mount   1573    KAC URX 3 3 inch rail   5d133067d7ad1a33013f95b4
+Mount   2200    KRISS Vector Mk.5 modular rail  5fbb978207e8a97d1f0902d3
+Mount   1500    VPO-215 "Gornostay" scope rail mount    5de6558e9f98ac2bc65950fc
+Mount   1033    ORSIS T-5000M medium length rail        5df35eb2b11454561e3923e2
+Mount   2203    Aimpoint Standard Spacer        5c7d560b2e22160bc12c6139
+Mount   5620    UM Tactical UM3 pistol sight mount      5a7b4900e899ef197b331a2a
+Mount   3811    P226 Bridge sight mount 5b3a08b25acfc4001754880c
+Mount   1000    FN P90 upper receiver side rail 5cc70146e4a949000d73bf6b
+Mount   2125    RFB handguard rail mount        5f2aa493cd375f14e15eea72
+Mount   2766    SR-1MP sound suppressor mount   5a27b3d0c4a282000d721ec1
+Mount   2200    ORSIS T-5000M scope mount       5df35e970b92095fd441e4d2
+Mount   1100    TOZ-106 dovetail mount  5c6162682e22160010261a2b
+Mount   1420    FN SCAR bottom rail     61816df1d3a39d50044c139e
+Mount   1000    FN P90 upper receiver top rail  5cc7015ae4a949001152b4c6
+Mount   1150    ORSIS T-5000M long length rail  5df35ea9c41b2312ea3334d8
+Mount   9100    SVD SAG low profile sidemount   5dff8db859400025ea5150d4
+Mount   5588    SVDS upper band 5c471c2d2e22164bef5d077f
+Mount   2340    M700 Magpul Pro 700 chassis inline mount        5cdeaca5d7f00c00b61c4b70
+Mount   1230    FN SCAR side rail       61816dfa6ef05c2ce828f1ad
+Mount   2125    Vltor CASV KeyMod 6 inch rail   59e0bed186f774156f04ce84
+Mount   1000    Custom Guns handguard rail      6086b5392535c57a13424d70
+Mount   3217    M14 A.R.M.S. #18 scope mount    5addbfe15acfc4001a5fc58b
+Mount   2600    Glock TangoDown AAM-01 ACRO mount base  615d8da4d3a39d50044c10e8
+Mount   2579    Alexander Arms 10 inch rail     5b30bc285acfc47a8608615d
+Mount   2000    Reptilia ROF-90 RMR mount for Geissele scope mounts     618b9682a3884f56c957ca78
+Mount   1400    Magpul M-LOK Offset Light Mount 6269545d0e57f218e4548ca2
+Mount   1676    TROY QARS 3.2 inch rail 5b4736a986f774040571e998
+Mount   2300    M1911A1 NcSTAR trigger guard mount      5ef369b08cef260c0642acaf
+Mount   2300    Recknagel Era-Tac Sunshade mount for Aimpoint T-1       61714b2467085e45ef140b2c
+Mount   2640    M700 AB Arms MOD*X rail mount   5cde7b43d7f00c000d36b93e
+Mount   2640    M700 extended multi-slot Weaver rail base       5bfebc530db834001d23eb65
+Mount   4193    M1A SOCOM 16 upper part 5ab24ef9e5b5b00fe93c9209
+Mount   4501    HK MP5 B&T tri-rail receiver mount      5a966ec8a2750c00171b3f36
+Mount   3400    M700 30mm integral ring scope mount     5bfebc5e0db834001a6694e5
+Mount   1009    CNC Guns KeyMod 4 inch rail     623c2f4242aee3103f1c44b7
+Mount   1009    CNC Guns KeyMod 2 inch rail     623c2f652febb22c2777d8d7
+Mount   2300    TOZ-106 rail scope mount        5c61627a2e22160012542c55
+Mount   2900    LaRue LT101 QD Tactical Picatinny Riser mount   5c064c400db834001d23f468
+Mount   1800    Magpul M-LOK Cantilever Mount   6269220d70b6c02e665f2635
+Mount   920     RPK-16 handguard rail   5beecbb80db834001d2c465e
+Mount   2000    Reptilia ROF-90 RMR mount for Geissele scope mounts (DDC)       618ba92152ecee1505530bd3
+Mount   1581    Vltor CASV KeyMod 2 inch rail   59e0bdb186f774156f04ce82
+Mount   1531    Vltor CASV 5 inch rail  5b7be46e5acfc400170e2dcf
+Mount   1000    Compact Mount adapter for sights        5c1cdd302e221602b3137250
+Mount   1000    MP-155 Ultima short rail        607ea812232e5a31c233d53c
+Mount   2310    PNV-10T dovetail adapter        5c0695860db834001b735461
+Mount   2640    RFB scope rail mount    5f2aa49f9b44de6b1b4e68d4
+Mount   1777    Vltor CASV KeyMod 4 inch rail   59e0be5d86f7742d48765bd2
+Mount   1306    Vltor CASV 4 inch rail  5b7be4645acfc400170e2dcc
+Mount   1500    Geissele Super Precision top ring cap   618b9671d14d6d5ab879c5ea
+Mount   6012    Nightforce Magmount 30mm ring scope mount       5b3b99265acfc4704b4a1afb
+Mount   1033    Magpul M-LOK 2.5 inch rail      5b7be47f5acfc400170e2dd2
+Mount   8200    AI AX-50 34mm scope mount       62811f461d5df4475f46a332
+Mount   7400    Recknagel Era-Tac 30mm ring scope mount 6171407e50224f204c1da3c5
+Mount   8100    Recknagel Era-Tac 34mm ring scope mount 61713cc4d8e3106d9806c109
+Mount   1725    Alexander Arms 3 inch rail      5b30bc165acfc40016387293
+Mount   9509    Nightforce Magmount 34mm ring scope mount       5aa66a9be5b5b0214e506e89
+Mount   6296    Nightforce Magmount 34mm ring scope mount with Ruggedized Accessory Platform    5aa66c72e5b5b00016327c93Mount   1700    Geissele Super Precision top ring cap (DDC)     618ba91477b82356f91ae0e8
+Mount   1009    Strike Industries KeyMod 4 inch rail    5a9d6d00a2750c5c985b5305
+Mount   1352    Strike Industries KeyMod 6 inch rail    5a9d6d13a2750c00164f6b03
+Mount   1635    Strike Industries TRAX bridge rail      5a9d6d21a2750c00137fa649
+Mount   1900    AI AXMC Adapter Kit medium length rail  628120dd308cb521f87a8fa1
+Mount   1750    AI AXMC Adapter Kit short length rail   628120d309427b40ab14e76d
+Mount   1531    AI AXMC AT X Top Rail   628120c21d5df4475f46a337
+Mount   9811    M14 Leapers UTG 4-Point Locking Deluxe mount    5addbfef5acfc400185c2857
+Mount   2900    M1911A1 Weigand Weig-a-tinny rail mount 5ef5d994dfbc9f3c660ded95
+Mount   1573    Magpul M-LOK 4.1 inch rail      5b7be4895acfc400170e2dd5
+Mount   2109    TROY QARS 4.2 inch rail 5b4736b986f77405cb415c10
+Mount   1000    Remington RAHG 2 inch rail      5c0102aa0db834001b734ba1
+Mount   1500    Remington RAHG 4 inch rail      5c0102b20db834001d23eebc
+Mount   9209    SVD modernization kit top rail  5e569a0156edd02abe09f27d
+Stock   1824    VPO-136 "Vepr-KM" wooden stock  59e6227d86f77440d64f5dc2
+Stock   8824    Mossberg 590A1 Magpul SGA stock 5eea217fc64c5d0dfc05712a
+Stock   9200    HK417 E2 buttstock      617154aa1cb55961fa0fdb3b
+Stock   1400    MP-18 wooden stock      61f7b234ea4ab34f2f59c3ec
+Stock   8097    MFT BUS stock   5947c73886f7747701588af5
+Stock   5100    AR-15 HK Slim Line buttstock    5bb20e70d4351e0035629f8f
+Stock   6500    AKM/AK-74 CAA AKTS buffer tube  5cf518cfd7f00c065b422214
+Stock   8889    Vltor EMOD stock        5b39f8db5acfc40016387a1b
+Stock   6200    AK-74M CAA AKTS AK74 buffer tube        5cf50fc5d7f00c056c53f83c
+Stock   3231    AK GP-25 accessory kit recoil pad       5a0c59791526d8dba737bba7
+Stock   4699    LMT SOPMOD stock        5ae30c9a5acfc408fb139a03
+Stock   2568    AKM wooden stock (6P1 Sb.5)     59d6514b86f774171a068a08
+Stock   6230    MPX/MCX PMM ULSS foldable stock 5c5db6f82e2216003a0fe914
+Stock   4839    MCX/MPX telescoping stock       5fbcc429900b1d5091531dd7
+Stock   8924    M870 Magpul SGA polymer stock   5a78813bc5856700186c4abe
+Stock   4800    FAB Defense GLR-16-S stock      5bfe86df0db834001b734685
+Stock   3228    AKS-74/AKS-74U Zenit PT Lock    59ecc28286f7746d7a68aa8c
+Stock   1499    MP-133/153 wooden stock 56083cba4bdc2de22e8b456f
+Stock   1300    HK G28 buffer tube      617153016c780c1e710c9a2f
+Stock   1544    AKS-74U metal skeleton stock (6P26 Sb.5)        57dc347d245977596754e7a1
+Stock   1556    AKMSN shoulder piece (6P4N Sb.1-19)     5abcd472d8ce8700166032ae
+Stock   3189    AKM/AK-74 Zenit PT Lock 5b222d335acfc4771e1be099
+Stock   2111    HK MP7A1 stock  5bcf0213d4351e0085327c17
+Stock   6500    HK UMP polymer stock    5fc3e4ee7283c4046c5814af
+Stock   5119    AR-15 ADAR 2-15 wooden stock    5c0e2ff6d174af02a1659d4a
+Stock   9200    Glock FAB Defense GLR-17 stock  5d1c702ad7ad1a632267f429
+Stock   2713    AK-74M/AK-100 Zenit PT Lock     5ac78eaf5acfc4001926317a
+Stock   9200    AR-15 HK E1 buttstock   5c87a07c2e2216001219d4a2
+Stock   1820    VPO-209 wooden stock    59e89d0986f77427600d226e
+Stock   7800    AK-545 SAG buffer tube  628b9a40717774443b15e9f2
+Stock   6794    APB detachable wire stock       5a17fb9dfcdbcbcae6687291
+Stock   5300    CNC Guns OV-SV98 M12B stock     624c29ce09cd027dff2f8cd7
+Stock   5053    AKM/AK-74 ME4 buffer tube adapter       5649b2314bdc2d79388b4576
+Stock   1486    M870 SPS polymer stock  5a7880d0c5856700142fdd9d
+Stock   2110    HK MP7A2 stock  5bd704e7209c4d00d7167c31
+Stock   1559    AKS-74 metal skeletonized stock (6P21 Sb.5)     5ab626e4d8ce87272e4c6e43
+Stock   1486    KS-23 wooden stock      5e848db4681bea2ada00daa9
+Stock   3500    FN P90 stock    5cc700b9e4a949000f0f0f25
+Stock   3258    MPX/MCX retractable stock pipe adapter  58ac1bf086f77420ed183f9f
+Stock   1500    Mossberg 590A1 polymer stock    5e87116b81c4ed43e83cefdd
+Stock   3350    FN PS90 stock   5cebec10d7f00c065703d185
+Stock   2620    HK MP5 End Cap stock    5c07c9660db834001a66b588
+Stock   6633    Magpul MOE Carbine stock (FDE)  58d2946386f774496974c37e
+Stock   7441    TROY M7A1 PDW stock (FDE)       591af10186f774139d495f0e
+Stock   2600    Mossberg 590A1 Mesa Tactical LEO gen.1 stock adapter    5ef1b9f0c64c5d0dfc0571a1
+Stock   1626    AK-74M polymer stock (6P34 Sb.15)       5ac50c185acfc400163398d4
+Stock   3500    CMMG RipStock buttstock 606587d11246154cad35d635
+Stock   1557    AKMS shoulder piece (6P4 Sb.1-19)       59ff3b6a86f77477562ff5ed
+Stock   2250    FN P90 buttpad  5cc700cae4a949035e43ba72
+Stock   4650    Lobaev Arms stock       58889d0c2459775bc215d981
+Stock   1847    AK-74 wooden stock (6P20 Sb.5)  5649b1c04bdc2d16268b457c
+Stock   7719    Magpul MOE Carbine stock (Black)        56eabf3bd2720b75698b4569
+Stock   6510    MP-133/153 plastic pistol grip  56083a334bdc2dc8488b4571
+Stock   8600    SB Tactical SBA3 buttstock      628a85ee6b1d481ff772e9d5
+Stock   4990    HK Enhanced Tube buffer tube    5bb20e58d4351e00320205d7
+Stock   1847    MTs-255-12 wooden stock 612781056f3d944a17348d60
+Stock   800     AR-15 ADAR 2-15 buffer tube     5c0faeddd174af02a962601f
+Stock   1626    SVDS polymer stock      5c471b5d2e221602b21d4e14
+Stock   6720    Magpul MOE Carbine stock (Stealth Gray) 58d2947e86f77447aa070d53
+Stock   4100    FAB Defense GL-CORE buttstock   602e620f9b513876d4338d9a
+Stock   5381    Armacon Baskak stock    57ade1442459771557167e15
+Stock   6000    HK G36 polymer stock    622f140da5958f63c67f1735
+Stock   4779    Magpul MOE Carbine rubber buttpad       58d2912286f7744e27117493
+Stock   2500    HK MP5K End Cap stock   5d2f25bc48f03502573e5d85
+Stock   7900    KRISS Defiance DS150 stock (Black)      5fbbaa86f9986c4cff3fe5f6
+Stock   6900    MPX/MCX lightweight stock       5fbcc437d724d907e2077d5c
+Stock   1175    Colt Carbine buffer tube        5649be884bdc2d79388b4577
+Stock   1900    KS-23M wire stock       5e848dc4e4dbc5266a4ec63d
+Stock   2839    MPX/MCX collapsing/telescoping stock    5894a13e86f7742405482982
+Stock   1885    OP-SKS wooden stock     587e0531245977466077a0f7
+Stock   5518    TROY M7A1 PDW stock (Black)     591aef7986f774139d495f03
+Stock   3629    Colt A2 buffer tube     5a33ca0fc4a282000d72292f
+Stock   1200    MP-43-1C buttpad        611a31ce5b7ffe001b4649d1
+Stock   4500    AK-12 stock     5beec8c20db834001d2c465c
+Stock   3780    SV-98 wooden stock      61faa91878830f069b6b7967
+Stock   3119    High Standard M4SS Stock        55d4ae6c4bdc2d8b2f8b456e
+Stock   1200    Soyuz-TM buffer tube    602e3f1254072b51b239f713
+Stock   7900    KRISS Defiance DS150 stock (FDE)        5fce16961f152d4312622bc9
+Stock   3400    SA-58 humpback polymer stock    5b7d645e5acfc400170e2f90
+Stock   3500    SVDS Lynx Arms Hinge buffer tube adapter        6197b229af1f5202c57a9bea
+Stock   3320    Mosin Rifle carbine stock       5bfd384c0db834001a6691d3
+Stock   3750    MPX/MCX Maxim Defense CQB telescoping stock     5c5db6ee2e221600113fba54
+Stock   2160    Mosin Rifle Infantry stock      5bfd35380db83400232fe5cc
+Stock   4150    FN P90 Damage Industries buttpad        5cc700d4e4a949000f0f0f28
+Stock   2512    M870 Mesa Tactical LEO stock adapter    5ae35b315acfc4001714e8b0
+Stock   3286    MP-155 Ultima polymer stock     606eef756d0bd7580617baf8
+Stock   2120    PPSh-41 stock   5ea03e9400685063ec28bfa4
+Stock   3800    CMMG buffer tube        606587e18900dc2d9a55b65f
+Stock   1500    KRISS Vector Pistol Sling adapter       5fb655a72b1b027b1f50bd06
+Stock   1786    VSS wooden stock        578395e82459774a0e553c7b
+Stock   3780    SKS TOZ wooden stock (56-A-231 Sb.5)    574dad8024597745964bf05c
+Stock   2462    Mosin Rifle standard stock      5ae096d95acfc400185c2c81
+Stock   9800    Strike Industries Viper PDW stock       627254cc9c563e6e442c398f
+Stock   4699    M700 Magpul Pro 700 folding stock       5cdeac42d7f00c000d36ba73
+Stock   2100    FN SCAR cheek rest      618167441cb55961fa0fdc71
+Stock   2068    AK-74 polymer stock (6P20 Sb.7) 5649b0fc4bdc2d17108b4588
+Stock   1070    FAB Defense buffer tube for AGR-870     5bfe89510db834001808a127
+Stock   6000    FN SCAR folding polymer stock   61816734d8e3106d9806c1f3
+Stock   3000    AI AXMC pistol grip     62811e2510e26c1f344e6554
+Stock   3889    Mosin Rifle AIM Sports Recoil Pad       5bbde409d4351e003562b036
+Stock   2453    MTs 20-01 stock 5adf23995acfc400185c2aeb
+Stock   1541    MP-133/153 plastic stock        56083be64bdc2d20478b456f
+Stock   2900    RPK-16 buffer tube      5beec8b20db834001961942a
+Stock   2500    FN SCAR rubber buttpad  618167616ef05c2ce828f1a8
+Stock   2853    VPO-101 "Vepr-Hunter" stock     5c503af12e221602b177ca02
+Stock   1700    MP-18 polymer stock     61f803b8ced75b2e852e35f8
+Stock   3111    AS VAL skeleton stock   57c450252459772d28133253
+Stock   1299    MP-155 walnut stock     607d5a891246154cad35d6aa
+Stock   5400    VPO-101 "Vepr-Hunter" SVD-style stock   5f63405df5750b524b45f114
+Stock   6497    Magpul MOE Carbine stock (Foliage Green)        58d2946c86f7744e271174b5
+Stock   4779    DoubleStar ACE recoil pad       5d120a28d7ad1a1c8962e295
+Stock   1508    PP-19-01 "Vityaz" metal skeleton stock  599851db86f77467372f0a18
+Stock   2350    MP9 stock       5de910da8b6c4240ba2651b5
+Stock   2350    VPO-215 "Gornostay" stock       5de655be4a9f347bc92edb88
+Stock   6389    Magpul MOE Carbine stock (Olive Drab)   58d2947686f774485c6a1ee5
+Stock   2168    AK-74 "Plum" polymer stock (6P20 Sb.7)  5cbdb1b0ae9215000d50e105
+Stock   8654    SKS TAPCO Intrafuse stock       5afd7ded5acfc40017541f5e
+Stock   1672    SKS TAPCO Intrafuse buffer tube 5afd7e095acfc40017541f61
+Stock   4850    TOZ-106 custom cut Mosin stock  5c99f3592e221644fc633070
+Stock   1300    TOZ-106 FAB Defense GPCP cheek rest     626a8ae89e664a2e2a75f409
+Stock   3150    ORSIS T-5000M stock     5df35ddddfc58d14537c2036
+Stock   6600    Benelli M3 Mesa Tactical Urbino stock   625eb0faa6e3a82193267ad9
+Stock   6120    KRISS Vector Gen.2 folding stock        5fb6558ad6f0b2136f2d7eb7
+Stock   3900    KRISS Vector non-folding stock adapter  5fb655b748c711690e3a8d5a
+Stock   1702    TOZ-106 stock   5a38ef1fc4a282000b1521f6
+Stock   8500    Strike Industries Viper Mod 1 stock     5c793fde2e221601da358614
+Stock   8700    Strike Industries Advanced Receiver Extension buffer tube       5c793fb92e221644f31bfb64
+Stock   2545    M870 Shockwave Raptor grip      5a788169c5856700142fdd9e
+Stock   2602    M700 AB Arms MOD*X buffer tube side folder adapter      5cde77a9d7f00c000f261009
+Stock   6500    FN SCAR folding polymer stock (FDE)     61825d06d92c473c770215de
+Stock   4200    AKM/AK-74 RD AK to M4 buffer tube adapter       628a6678ccaab13006640e49
+Stock   6000    HK Adjustable Buttstock cheek rest      61715e7e67085e45ef140b33
+Stock   3231    MP-155 Ultima medium recoil pad 606f262c6d0bd7580617bafa
+Stock   6231    MP-155 Ultima large recoil pad  606f263a8900dc2d9a55b68d
+Stock   2200    FN SCAR cheek rest (FDE)        61825d24d3a39d50044c13af
+Stock   3000    Benelli M3 telescopic stock     6259c3387d6aab70bc23a18d
+Stock   1750    Mosin Rifle sawn-off sniper stock       5bfd36290db834001966869a
+Stock   3119    AI AXMC AX buttstock    62811f828193841aca4a45c3
+Stock   1600    Mosin Rifle sawn-off stock      5bfd36ad0db834001c38ef66
+Stock   8500    M700 Hogue Overmolded Ghillie stock     5bfeb32b0db834001a6694d9
+Stock   8500    FN SCAR retractable polymer stock       618167528004cc50514c34f9
+Stock   3580    Mosin Rifle sniper carbine stock        5bfd37c80db834001d23e842
+Stock   9000    FN SCAR retractable polymer stock (FDE) 61825d136ef05c2ce828f1cc
+Stock   2231    MP-155 Ultima thin recoil pad   606ef0812535c57a13424d20
+Stock   2602    SA-58 buffer tube adapter       5b099bf25acfc4001637e683
+Stock   1661    SOK-12 AK-style stock   57616ca52459773c69055192
+Barrel  7006    MP-155 510mm barrel     6076c1b9f2cb2e02a42acedc
+Barrel  9800    Mossberg 590A1 12ga 20 inch barrel      5e87071478f43e51ca2de5e1
+Barrel  4902    MP-133 12ga 610mm barrel        55d448594bdc2d8c2f8b4569
+Barrel  8100    KS-23 23x75 510mm barrel        5e848d1c264f7c180b5e35a9
+Barrel  7619    MP-153 12ga 750mm barrel        56deec93d2720bec348b4568
+Barrel  6574    MPX 9x19 203mm barrel   5894a2c386f77427140b8342
+Barrel  7481    MP-153 12ga 710mm barrel        588200cf2459774414733d55
+Barrel  7179    MP-153 12ga 660mm barrel        588200c224597743990da9ed
+Barrel  3900    MP-133 12ga 540mm barrel        560836484bdc2d20478b456e
+Barrel  2800    MP-43-1C 12ga 510mm barrel      5580169d4bdc2d9d138b4585
+Barrel  3500    MP-43-1C 12ga 725mm barrel      55d447bb4bdc2d892f8b456f
+Barrel  8174    MPX 9x19 10.5 inch barrel       5c5db5b82e2216003a0fe71d
+Barrel  6280    MTs-255-12 12ga 755mm barrel with rib   612368f58b401f4f51239b33
+Barrel  7403    KS-23 23x75 700mm barrel        5e848d2eea0a7c419c2f9bfd
+Barrel  4100    MP-43 12ga 750mm barrel 611a30addbdd8440277441dc
+Barrel  4006    MP-133 12ga 510mm barrel        55d4491a4bdc2d882f8b456e
+Barrel  6123    MP-133 12ga 710mm barrel        5608373c4bdc2dc8488b4570
+Barrel  3800    MPX 9x19 4.5 inch barrel        5c5db5852e2216003a0fe71a
+Barrel  5005    MP-133 12ga 660mm barrel        560836fb4bdc2d773f8b4569
+Barrel  7062    MP-133 12ga 750mm barrel        560837824bdc2d57468b4568
+Barrel  5619    MPX-SD 9x19 165mm barrel        58aeaaa886f7744fc1560f81
+Barrel  5174    MPX 9x19 6.5 inch barrel        5c5db5962e2216000e5e46eb
+Barrel  7180    MP-153 12ga 610mm barrel        588200af24597742fa221dfb
+Barrel  3980    FN Five-seveN 5.7x28 barrel     5d3eb5b6a4b9361eab311902
+Barrel  1660    M9A3 9x19 threaded barrel       5cadc1c6ae9215000f2775a4
+Barrel  4020    MP-133 12ga 510mm barrel with rib       560835c74bdc2dc8488b456f
+Barrel  1700    M1911A1 .45 ACP 127mm barrel    5e81c519cb2b95385c177551
+Barrel  2500    HK USP .45 ACP standard barrel  6194ef39de3cdf1d2614a768
+Barrel  4200    MP-133 12ga 540mm barrel with rib       560836b64bdc2d57468b4567
+Barrel  4100    MP-18 7.62x54R 600mm barrel     61f4012adfc9f01a816adda1
+Barrel  5103    MP-133 12ga 610mm barrel with rib       55d449444bdc2d962f8b456d
+Barrel  7500    STM-9 9x19 12 inch barrel       603372d154072b51b239f9e1
+Barrel  1165    TT 7.62x25 116mm barrel 571a26d524597720680fbe8a
+Barrel  3600    HK USP Expert .45 ACP barrel    6194eff92d2c397d6600348b
+Barrel  1562    P226 9x19 threaded barrel       587de4282459771bca0ec90b
+Barrel  4200    FN Five-seveN 5.7x28 threaded barrel    5d3eb59ea4b9361c284bb4b2
+Barrel  1563    P226 9x19 112mm barrel  56d5a1f7d2720bb3418b456a
+Barrel  5593    M870 12ga sawn-off 325mm barrel 5a787fdfc5856700142fdd9a
+Barrel  6958    MP-133 12ga 710mm barrel with rib       560837544bdc2de22e8b456e
+Barrel  3184    Glock 18C 9x19 barrel with a compensator        5b1fa9ea5acfc40018633c0a
+Barrel  4948    PL-15 9x19 threaded barrel      602a95fe4e02ce1eaa358729
+Barrel  undefined       barrel_ax_accuracy_international_508mm_762x51_pb        628121651d5df4475f46a33c
+Barrel  9700    KRISS Vector 9x19 6 inch barrel 5fbbc383d5cb881a7363194a
+Barrel  8200    KRISS Vector 9x19 5 inch barrel 5fbbc366ca32ed67276c1557
+Barrel  5501    MP-133 12ga 660mm barrel with rib       560837154bdc2da74d8b4568
+Barrel  7680    MP-133 12ga 750mm barrel with rib       5608379a4bdc2d26448b4569
+Barrel  2900    HK USP Tactical .45 ACP threaded barrel 6194efe07c6c7b169525f11b
+Barrel  8200    PPSh-41 7.62x25 10.6 inch barrel        5ea02bb600685063ec28bfa1
+Barrel  6900    HK UMP .45 ACP 8 inch barrel    5fc3e4a27283c4046c5814ab
+Barrel  8900    KRISS Vector .45 ACP 5 inch barrel      5fb65363d1409e5ca04b54f5
+Barrel  5100    VPO-215 "Gornostay" .366TKM 23 inch barrel      5de65547883dde217541644b
+Barrel  7000    STM-9 9x19 10.5 inch barrel     603372b4da11d6478d5a07ff
+Barrel  2563    PL-15 9x19 barrel       602a95edda11d6478d5a06da
+Barrel  1563    Glock 17 9x19 barrel    5a6b5f868dc32e000a311389
+Barrel  7403    M870 12ga 508mm barrel with a fixed sight       5a787ebcc5856700142fdd98
+Barrel  7948    Glock 9x19 Lone Wolf AlphaWolf threaded barrel  5a6b5b8a8dc32e001207faf3
+Barrel  undefined       barrel_ax_accuracy_international_660mm_762x51_pb        6281214c1d5df4475f46a33a
+Barrel  1888    Glock 17 9x19 barrel with a compensator 5a6b60158dc32e000a31138b
+Barrel  undefined       barrel_ax_accuracy_international_610mm_762x51_pb        6281215b4fa03b6b6c35dc6c
+Barrel  2100    Mosin Rifle 7.62x54R sawn-off 200mm barrel      5bfd4cc90db834001d23e846
+Barrel  5965    Glock 9x19 Double Diamond threaded barrel       5a6b5e468dc32e001207faf5
+Barrel  7350    Mosin Rifle 7.62x54R sawn-off 220mm threaded barrel     5bfd4cd60db834001c38f095
+Barrel  4500    HK USP Elite .45 ACP barrel     6194f017ed0429009f543eaa
+Barrel  6000    HK USP Match .45 ACP barrel     6194f02d9bb3d20b0946d2f0
+Barrel  3200    M1911A1 .45 ACP threaded barrel 5f3e77f59103d430b93f94c1
+Barrel  3920    Mosin Carbine 7.62x54R 514mm barrel     5bfd4cbe0db834001b73449f
+Barrel  4401    Mosin Rifle 7.62x54R 730mm regular barrel       5ae09bff5acfc4001562219d
+Barrel  2149    TT 7.62x25 121mm homespun threaded barrel       571a279b24597720b4066566
+Barrel  7600    HK UMP .45 ACP 8 inch threaded barrel   6130c3dffaa1272e43151c7d
+Handguard       2500    HK G36 2-vent handguard 62386b2adf47d66e835094b2
+Handguard       7900    Mossberg 590A1 Magpul MOE forestock     5eea21647547d6330471b3c9
+Handguard       8665    MDR handguard (Black)   5dcbd6b46ec07c0c4347a564
+Handguard       2051    M870 FAB Defense PR-870 forestock       5a788031c585673f2b5c1c79
+Handguard       4000    HK G36 4-vent handguard 62386b7153757417e93a4e9f
+Handguard       8665    MDR handguard (FDE)     5c48a14f2e2216152006edd7
+Handguard       5194    AK Zenit B-10 Handguard 5c617a5f2e2216000f1e81b3
+Handguard       1529    MP-133 beechwood forestock      55d45d3f4bdc2d972f8b456c
+Handguard       1580    SVDS polymer handguard  5c471c6c2e221602b66cd9ae
+Handguard       4200    AK TDI AKM-L handguard  5d1b198cd7ad1a604869ad72
+Handguard       8100    HK 416A5 Quad Rail handguard    5bb20de5d4351e0035629e59
+Handguard       5453    HK MP5SD polymer handguard      5926f34786f77469195bfe92
+Handguard       6778    AR-15 KAC RIS handguard 55d459824bdc2d892f8b4573
+Handguard       5194    AKS-74U Zenit B-11 handguard    57ffa9f4245977728561e844
+Handguard       9150    MP-133 custom plastic forestock with rails      55d45f484bdc2d972f8b456d
+Handguard       1022    ASh-12 polymer handguard        5cdaa99dd7f00c002412d0b2
+Handguard       1600    AR-15 ADAR 2-15 wooden handguard        5c0e2f5cd174af02a012cfc9
+Handguard       2000    MP-18 wooden handguard  61f7b85367ddd414173fdb36
+Handguard       7852    M870 Magpul MOE handguard       5a788068c5856700137e4c8f
+Handguard       5900    HK G36 6-vent handguard 6231654c71b5bc3baa1078e5
+Handguard       2500    MP-18 polymer handguard 61f8024263dc1250e26eb029
+Handguard       2000    Benelli M3 forend       6259c4347d6aab70bc23a190
+Handguard       8600    HK417 Patrol handguard with flip-up front sight 61712eae6c780c1e710c9a1d
+Handguard       1022    AK-74 polymer handguard (6P20 Sb.9)     5648b1504bdc2d9d488b4584
+Handguard       7800    HK MP5 B&T TL-99 aluminum handguard     5a9548c9159bd400133e97b3
+Handguard       8350    HK 416A5 Quad Rail handguard with flip-up front sight   5bb20df1d4351e00347787d5
+Handguard       1402    Mossberg 590A1 SpeedFeed short handguard        5e87076ce2db31558c75a11d
+Handguard       1122    AK-74 "Plum" polymer handguard (6P20 Sb.9)      5cbda9f4ae9215000e5b9bfc
+Handguard       7925    AK Strike Industries TRAX 1 handguard   5a9d56c8a2750c0032157146
+Handguard       3041    HK MP5 Wide Tropical polymer handguard  5926c36d86f77467a92a8629
+Handguard       812     VPO-209 wooden handguard        59e898ee86f77427614bd225
+Handguard       2374    AR-15 Colt M4 Carbine Length handguard  5ae30db85acfc408fb139a05
+Handguard       3388    MP-153 polymer forestock        56deed6ed2720b4c698b4583
+Handguard       2100    KS-23M forestock        5e848d51e4dbc5266a4ec63b
+Handguard       1322    AK-100 series polymer handguard 5cbda392ae92155f3c17c39f
+Handguard       7259    AK Strike Industries TRAX 2 handguard extension 5a9d6d34a2750c00141e07da
+Handguard       9600    SVD CAA XRS-DRG handguard       5e5699df2161e06ac158df6f
+Handguard       801     AK-74 wooden handguard (6P20 Sb.6)      5648b0744bdc2d363b8b4578
+Handguard       8000    MCX GEN1 KeyMod 8 inch handguard        5fbc226eca32ed67276c155d
+Handguard       6269    DVL-10 M2 handguard     5888976c24597754281f93f5
+Handguard       2400    FAL original handguard  5b7bed205acfc400161d08cc
+Handguard       801     VPO-136 "Vepr-KM" wooden handguard      59e6284f86f77440d569536f
+Handguard       9300    MPX Midwest Industries 10.5 inch M-LOK handguard        5c5db6302e2216000e5e47f0
+Handguard       6400    MPX Midwest Industries 4.5 inch M-LOK handguard 5c5db5f22e2216000e5e47e8
+Handguard       9500    AR-15 Strike Industries Viper carbine length M-LOK handguard    5d00e0cbd7ad1a6c6566a42d
+Handguard       5484    SA-58/FAL AIM Sports Universal M-LOK handguard  5b7bebc85acfc43bca706666
+Handguard       5194    AKS-74U Alfa Arms Goliaf handguard      5d15ce51d7ad1a1eff619092
+Handguard       2870    HK MP5K polymer handguard       5d2f259b48f0355a844acd74
+Handguard       808     AKM wooden handguard (6P1 Sb.6-1)       59d64f2f86f77417193ef8b3
+Handguard       1529    MTs-255-12 beechwood forestock  6123649463849f3d843da7c4
+Handguard       9900    M700 AB Arms MOD*X GEN 3 KeyMod handguard       5cde7afdd7f00c000d36b89d
+Handguard       698     AKS-74U wooden handguard (6P26 Sb.6)    57dc32dc245977596d4ef3d3
+Handguard       1402    M870 SpeedFeed Short handguard  5a788089c5856700142fdd9c
+Handguard       3000    WASR-10/63 CAF wooden foregrip  5d2c829448f0353a5c7d6674
+Handguard       8800    AR-15 Magpul MOE SL carbine length M-LOK handguard      5c78f2792e221600106f4683
+Handguard       9500    AR-15 Strike Industries Viper carbine length M-LOK handguard (FDE)      5d00f63bd7ad1a59283b1c1eHandguard       4841    SA-58/FAL AIM Sports Universal KeyMod handguard 5b7be2345acfc400196d524a
+Handguard       3002    SA-58/FAL Belgian Style handguard       5b7d671b5acfc43d82528ddd
+Handguard       1829    MP-155 walnut forestock 607d5aa50494a626335e12ed
+Handguard       4388    MP-155 Ultima polymer forestock 606ee5c81246154cad35d65e
+Handguard       7600    MPX Midwest Industries 6.5 inch M-LOK handguard 5c5db5fc2e2216000f1b2842
+Handguard       4311    MPX GEN1 handguard      5894a42086f77426d2590762
+Handguard       7750    RPK-16 handguard        5beec3e30db8340019619424
+Handguard       9601    SA-58 quad rail full length handguard   5b7be1ca5acfc400170e2d2f
+Handguard       8637    SA-58 quad rail handguard       5b099a9d5acfc47a8607efe7
+Handguard       1397    SOK-12 polymer handguard (Sb.7-1)       576169e62459773c69055191
+Handguard       7539    SOK-12 Leapers UTG PRO MTU002 Short Top aluminum handguard      58272b392459774b4c7b3ccd
+Handguard       8000    SV-98 CNC Guns OV-SV98 KeyMod handguard 623c3c1f37b4b31470357737
+Handguard       6500    ORSIS T-5000M handguard 5df25d3bfd6b4e6e2276dc9a
+Pistol grip     1200    Chiappa Rhino plastic pistol grip       619f4ab2d25cbd424731fb95
+Pistol grip     1001    PB bakilte side grips   56e05a6ed2720bd0748b4567
+Pistol grip     800     M1911A1 side grips      5e81c6bf763d9f754677beff
+Pistol grip     2000    P226 Stainless Elite Wooden pistol grip 5c00076d0db834001d23ee1f
+Pistol grip     2320    MDR pistol grip (Black) 5dcbd6dddbd3d91b3e5468de
+Pistol grip     2320    MDR pistol grip (FDE)   5c48a2c22e221602b313fb6c
+Pistol grip     1200    M45A1 Mil-Tac GVT G10 side grips        5f3e778efcd9b651187d7201
+Pistol grip     4600    AR-15 Stark AR Rifle Grip (FDE) 59db3b0886f77429d72fb895
+Pistol grip     1247    P226 Combat pistol grip (FDE)   57c9a89124597704ee6faec1
+Pistol grip     703     MP-443 "Grach" polymer pistol grip      576a63cd2459771e796e0e11
+Pistol grip     800     M9A3 polymer side grips 5cadc431ae921500113bb8d5
+Pistol grip     2263    Mosin Rifle Tacfire pistol grip 5bbde41ed4351e003562b038
+Pistol grip     3000    P226 Axelson Tactical MK25 pistol grip  5bffec120db834001c38f5fa
+Pistol grip     2608    M870 FAB Defense AGR-870 pistol grip    5bfe86a20db834001d23e8f7
+Pistol grip     5800    AK Aeroknox Scorpius pistol grip        5f6341043ada5942720e2dc5
+Pistol grip     3000    AK FAB Defense AGR-47 pistol grip       623c3be0484b5003161840dc
+Pistol grip     1500    AK-12 pistol grip       5beec8ea0db834001a6f9dbf
+Pistol grip     764     AK bakelite pistol grip (6P1 Sb.8V)     5649ad3f4bdc2df8348b4585
+Pistol grip     789     AK polymer pistol grip (6P1 Sb.8)       5649ade84bdc2d1b2b8b4587
+Pistol grip     701     AKM bakelite pistol grip        59e62cc886f77440d40b52a1
+Pistol grip     720     AKM wooden pistol grip  5a0071d486f77404e23a12b2
+Pistol grip     739     AK bakelite pistol grip (6P4 Sb.9)      57e3dba62459770f0c32322b
+Pistol grip     7356    AK Magpul MOE pistol grip (Black)       5b30ac585acfc433000eb79c
+Pistol grip     768     AK bakelite pistol grip 59e6318286f77444dd62c4cc
+Pistol grip     3900    AK Strike Industries Enhanced Pistol Grip (Black)       5cf50850d7f00c056e24104c
+Pistol grip     3900    AK Strike Industries Enhanced Pistol Grip (FDE) 5cf508bfd7f00c056e24104e
+Pistol grip     7500    AK TangoDown Battle Grip pistol grip    628a664bccaab13006640e47
+Pistol grip     7900    AK TangoDown Battle Grip pistol grip (FDE)      628c9ab845c59e5b80768a81
+Pistol grip     4500    AK TAPCO SAW-Style pistol grip (Black)  5947f92f86f77427344a76b1
+Pistol grip     4500    AK TAPCO SAW-Style pistol grip (FDE)    5947fa2486f77425b47c1a9b
+Pistol grip     7350    AK US Palm pistol grip  5c6bf4aa2e2216001219b0ae
+Pistol grip     8120    AK Zenit RK-3 pistol grip       5649ae4a4bdc2d1b2b8b4588
+Pistol grip     1004    APS bakelite side-pieces        5a17fc70fcdbcb0176308b3d
+Pistol grip     1213    AR-15 Colt A2 pistol grip       55d4b9964bdc2d1d4e8b456e
+Pistol grip     1599    AR-15 Damage Industries ECS pistol grip (FDE)   571659bb2459771fb2755a12
+Pistol grip     1650    AR-15 DLG Tactical DLG-123 pistol grip  602e71bd53a60014f9705bfa
+Pistol grip     6700    AR-15 F1 Firearms Skeletonized Style 1 pistol grip      6113c3586c780c1e710c90bc
+Pistol grip     4100    AR-15 Magpul MOE pistol grip (Black)    55802f5d4bdc2dac148b458f
+Pistol grip     2400    MCX pistol grip 5fbcbd6c187fea44d52eda14
+Pistol grip     4213    SA-58 FAB Defense AG-FAL pistol grip    5b7d679f5acfc4001a5c4024
+Pistol grip     1001    P226 polymer pistol grip (Black)        56d5a2bbd2720bb8418b456a
+Pistol grip     2450    P226 Emperor Scorpion pistol grip       5c0006470db834001a6697fe
+Pistol grip     2608    KS-23M pistol grip      5e848d99865c0f329958c83b
+Pistol grip     3600    Hogue OverMolded Rubber Grip (FDE)      57af48872459771f0b2ebf11
+Pistol grip     2613    M14 SAGE International M14ALCS (MOD-0) pistol grip      5addc7db5acfc4001669f279
+Pistol grip     6500    AR-15 Tactical Dynamics Hexgrip pistol grip     615d8faecabb9b7ad90f4d5d
+Pistol grip     3274    MPX pistol grip 5894a51286f77426d13baf02
+Pistol grip     2608    MP-155 Ultima pistol grip       606eef46232e5a31c233d500
+Pistol grip     2500    AR-15 HK Battle Grip pistol grip        5bb20e18d4351e00320205d5
+Pistol grip     3600    Hogue OverMolded Rubber Grip (Black)    57c55efc2459772d2c6271e7
+Pistol grip     3600    Hogue OverMolded Rubber Grip (Ghillie Earth)    57c55f092459772d291a8463
+Pistol grip     5100    AR-15 Hera Arms HG-15 pistol grip       5cc9bcaed7f00c011c04e179
+Pistol grip     3150    AR-15 Magpul MIAD pistol grip (FDE)     5a339805c4a2826c6e06d73d
+Pistol grip     4600    AR-15 Stark AR Rifle Grip (Black)       59db3acc86f7742a2c4ab912
+Pistol grip     1319    PP-91 "Kedr" polymer pistol grip        57d152ec245977144076ccdf
+Pistol grip     3200    AR-15 HK Battle Grip Beavertail pistol grip (RAL 8000)  6193dcd0f8ee7e52e4210a28
+Pistol grip     3600    Hogue OverMolded Rubber Grip (Ghillie Green)    57c55f112459772d28133310
+Pistol grip     3600    Hogue OverMolded Rubber Grip (Olive Drab)       57c55f172459772d27602381
+Pistol grip     2990    AR-15 HK Battle Grip Beavertail pistol grip     5bb20e0ed4351e3bac1212dc
+Pistol grip     1800    M700 Magpul Pro 700 pistol grip 5cdeac5cd7f00c000f261694
+Pistol grip     3100    AR-15 HK V2 pistol grip 5c6d7b3d2e221600114c9b7d
+Pistol grip     1009    Glock Pachmayr Tactical Grip Glove      5a7b4960e899ef197b331a2d
+Pistol grip     5586    AR-15 Tactical Dynamics Skeletonized pistol grip        5b07db875acfc40dc528a5f6
+Pistol grip     2900    M1911 Pachmayr American Legend Grip #423        5ef366938cef260c0642acad
+Pistol grip     2100    Benelli M3 telescopic stock pistol grip 6259c3d8012d6678ec38eeb8
+Pistol grip     8300    P226 Hogue G10 Chain Link pistol grip   5bffef760db8340019668fe4
+Pistol grip     3100    P226 Hogue Rubberized pistol grip       5b39ffbd5acfc47a8773fb06
+Pistol grip     899     PP-19-01 "Vityaz" pistol grip   5998517986f7746017232f7e
+Pistol grip     750     Chiappa Rhino wooden pistol grip        619f4bffd25cbd424731fb97
+Pistol grip     1100    SA-58 pistol grip       5b7d678a5acfc4001a5c4022
+Pistol grip     3207    SA-58 SAW-style pistol grip (Black)     5b099b965acfc400186331e6
+Pistol grip     2701    SKS TAPCO Intrafuse kit SAW-Style pistol grip   5afd7e445acfc4001637e35a
+Pistol grip     764     SVDS pistol grip        5c471be12e221602b66cd9ac
+Pistol grip     2716    ORSIS T-5000M pistol grip       5df38a5fb74cd90030650cb6
+Pistol grip     729     TOZ-106 002 pistol grip 5a38eecdc4a282329a73b512
+Pistol grip     2700    TT Hogue-like rubber grip       5c0684e50db834002a12585a
+Pistol grip     3490    TT PM-Laser TT-206 side grips with laser sight  5bffcf7a0db83400232fea79
+Pistol grip     4900    TT Razor Arms rubber grip       5c079ec50db834001966a706
+Pistol grip     1006    TT side grips   571a282c2459771fb2755a69
+Pistol grip     8177    AS VAL Rotor 43 pistol grip & buffer tube       5a69a2ed8dc32e000d46d1f1
+Pistol grip     1493    AS VAL pistol grip      57c44fa82459772d2d75e415
+Pistol grip     6356    SKS/VZ-58 FAB Defense AG-58 pistol grip 5d023784d7ad1a049d4aa7f2
+Receiver        6500    HK 416A5 5.56x45 upper receiver 5bb20d53d4351e4502010a69
+Receiver        1042    AK-74 dust cover (6P20 0-1)     5649af094bdc2df8348b4586
+Receiver        6537    Glock 18C 9x19 pistol slide     5b1faa0f5acfc40dc528aeb5
+Receiver        3320    ADAR 2-15 5.56x45 upper receiver        5c0e2f26d174af02a9625114
+Receiver        3900    HK USP Expert .45 ACP pistol slide      6194f5722d2c397d6600348f
+Receiver        998     Molot AKM-type dust cover       59e6449086f7746c9f75e822
+Receiver        6500    FN SCAR-L 5.56x45 upper receiver (FDE)  618426d96c780c1e710c9b9f
+Receiver        5198    M4A1 5.56x45 upper receiver     55d355e64bdc2d962f8b4569
+Receiver        2800    HK USP .45 ACP pistol slide     6193d382ed0429009f543e65
+Receiver        3109    Glock 17 9x19 pistol slide      5a6f5e048dc32e00094b97da
+Receiver        1014    AKM dust cover (6P1 0-1)        59d6507c86f7741b846413a2
+Receiver        7836    HK MP5SD 9x19 upper receiver    5926f2e086f7745aae644231
+Receiver        2350    M9A3 9x19 pistol slide  5cadc55cae921500103bb3be
+Receiver        1009    AK-74M dust cover (6P34 0-1)    5ac50da15acfc4001718d287
+Receiver        6200    FN SCAR-L 5.56x45 upper receiver        618405198004cc50514c3594
+Receiver        6500    HK USP Elite .45 ACP pistol slide       6194f5d418a3974e5e7421ef
+Receiver        3600    HK USP Match .45 ACP pistol slide       6194f5a318a3974e5e7421eb
+Receiver        8000    HK G28 7.62x51 upper receiver   61713a8fd92c473c770214a4
+Receiver        3270    HK MP5 9x19 upper receiver      5926c0df86f77462f647f764
+Receiver        3509    MCX GEN1 .300 BLK upper receiver        5fbcc3e4d6fa9c00c571bb58
+Receiver        2400    FN P90 5.7x28 upper receiver    5cc70102e4a949035e43ba74
+Receiver        4760    Mk47 Resolute 7.62x39 upper receiver    606587a88900dc2d9a55b659
+Receiver        5500    AK AKademia Bastion dust cover  5d2c76ed48f03532f2136169
+Receiver        2000    AK-545 SAG railed dust cover    628b9be6cff66b70c002b14c
+Receiver        3109    M1911A1 .45 ACP pistol slide    5e81edc13397a21db957f6a1
+Receiver        3050    HK MP5K 9x19 upper receiver     5d2f261548f03576f500e7b7
+Receiver        3509    MPX GEN1 9x19 upper receiver    5894a5b586f77426d2590767
+Receiver        3210    P226R MK25 pistol slide 56d5a407d2720bb3418b456b
+Receiver        3800    FN P90 EFFEN 90 5.7x28 upper receiver   5cc700ede4a949033c734315
+Receiver        1599    AS VAL dust cover       57c44f4f2459772d2c627113
+Receiver        3900    PL-15 pistol slide      60228924961b8d75ee233c32
+Receiver        4880    MP9 9x19 upper receiver 5e0090f7e9dc277128008b93
+Receiver        1020    VPO-101 "Vepr-Hunter" dust cover        5c503d0a2e221602b542b7ef
+Receiver        2501    FAL standard dust cover 5b7d6c105acfc40015109a5f
+Receiver        1620    VSS dust cover  578395402459774a256959b5
+Receiver        5780    P226 Emperor Scorpion pistol slide      5c010a700db834001d23ef5d
+Receiver        1199    PP-19-01 "Vityaz" dust cover    59985a8086f77414ec448d1a
+Receiver        undefined       reciever_ax_accuracy_international_axmc_std_762x51_pb   628120415631d45211793c99
+Receiver        2000    RD-704 dust cover       628a665a86cbd9750d2ff5e5
+Receiver        6800    SR-25 7.62x51 upper receiver    5df8e4080b92095fd441e594
+Receiver        4250    P226 Stainless Elite pistol slide       5c0009510db834001966907f
+Receiver        1200    PPSh-41 dust cover      5ea03e5009aa976f2e7a514b
+Receiver        4210    FN Five-seveN MK2 pistol slide  5d3eb44aa4b93650d64e4979
+Receiver        7200    RPK-16 dust cover       5beec91a0db834001961942d
+Receiver        3300    HK USP Tactical .45 ACP pistol slide    6194f41f9fb0c665d5490e75
+Receiver        1198    AKS-74U dust cover (6P26 Sb.7)  57dc334d245977597164366f
+Receiver        2416    PP-19-01 "Vityaz-SN" dust cover 59985a6c86f77414ec448d17
+Receiver        3203    AKS-74UB dust cover     5839a7742459773cf9693481
+Receiver        1109    SVDS dust cover 5c471bd12e221602b4129c3a
+Receiver        9900    P226 Axelson Tactical MK25 pistol slide 5bffe7c50db834001d23ece1
+Receiver        2200    FN PS90 5.7x28 upper receiver   5cf7acfcd7f00c1084477cf2
+Receiver        4700    Glock 17 9x19 MOS pistol slide  615d8dbd290d254f5e6b2ed6
+Receiver        1450    SVDS custom cut dust cover      5dfce88fe9dc277128008b2e
+Receiver        8016    Glock Lone Wolf AlphaWolf pistol slide  5a702d198dc32e000b452fc3
+Receiver        4120    P226 Legion full size pistol slide      5c0125fc0db834001a669aa3
+Receiver        7000    AI AXMC upper receiver  62811fbf09427b40ab14e767
+Receiver        1195    SOK-12 dust cover (Sb.0-2)      57616c112459773cce774d66
+Receiver        5500    AI AXMC .338 LM chassis 6281204f308cb521f87a8f9b
+Receiver        9200    TX-15 5.56x45 Lightweight upper receiver        5d4405aaa4b9361e6a4e6bd3
+Receiver        4198    STM-9 9x19 upper receiver       602e63fb6335467b0c5ac94d
+Backpack        350000  Mystery Ranch NICE COMM 3 BVS frame system      628bc7fb408e2b2e9c0801b1
+Backpack        undefined       endlessBackpack 56e294cdd2720b603a8b4575
+Loot container  undefined       Weapon box      5909d5ef86f77467974efbd8
+Loot container  undefined       Weapon box      5909d76c86f77471e53d2adf
+Loot container  undefined       Weapon box      5909d7cf86f77470ee57d75a
+Loot container  undefined       Airdrop weapon crate    6223351bb5d97a7b2c635ca7
+Loot container  undefined       Weapon box      5909d89086f77472591234a0
+Loot container  undefined       Airdrop common supply crate     6223349b3136504a544d1608
+Loot container  undefined       terraWBoxLongBig_adv    61aa1e6984ea0800645777f9
+Loot container  undefined       Duffle bag      61aa1e9a32a4743c3453d2cf
+Loot container  undefined       Duffle bag      578f87a3245977356274f2cb
+Loot container  undefined       Toolbox 5909d50c86f774659e6aaebe
+Loot container  undefined       StupidBox       566966cd4bdc2d0c4c8b4578
+Loot container  undefined       Wooden crate    578f87ad245977356274f2cc
+Loot container  undefined       Buried barrel cache     5d6d2bb386f774785b07a77a
+Loot container  undefined       box_preset1     61a89e5445a2672acf66c877
+Loot container  undefined       Common fund stash       5d07b91b86f7745a077a9432
+Loot container  undefined       Jacket  59387ac686f77401442ddd61
+Loot container  undefined       box_preset2     61a89e812cc17d60cc5f9879
+Loot container  undefined       Jacket  5937ef2b86f77408a47244b3
+Loot container  undefined       Jacket  5914944186f774189e5e76c2
+Loot container  undefined       Dead Scav       5909e4b686f7747f5b744fa4
+Loot container  undefined       Medical supply crate    5d6fe50986f77449d97f7463
+Loot container  undefined       Technical supply crate  5d6fd45b86f774317075ed43
+Loot container  undefined       Ground cache    5d6d2b5486f774785c2ba8ea
+Loot container  undefined       Wooden ammo box 5909d45286f77465a8136dc6
+Loot container  undefined       Cash register   578f879c24597735401e6bc6
+Loot container  undefined       Cash register TAR2-2    5ad74cf586f774391278f6f0
+Loot container  undefined       Drawer  578f87b7245977356274f2cd
+Loot container  undefined       Ration supply crate     5d6fd13186f77424ad2a8c69
+Loot container  undefined       Grenade box     5909d36d86f774660f0bb900
+Loot container  undefined       Jacket  578f8778245977358849a9b5
+Loot container  undefined       Medbag SMU06    5909d24f86f77466f56e6855
+Loot container  undefined       Medbag SMU06    61aa1ead84ea0800645777fd
+Loot container  undefined       Medcase 5909d4c186f7746ad34e805a
+Loot container  undefined       PC block        59139c2186f77411564f8e42
+Loot container  undefined       Safe    578f8782245977354405a1e3
+Loot container  undefined       Plastic suitcase        5c052cea86f7746b2101e8d8
+Loot container  undefined       Airdrop medical crate   622334c873090231d904a9fc
+Loot container  undefined       Airdrop supply crate    622334fa3136504a544d160c
+Port. container 750000  Secure container Beta   5857a8b324597729ab0a0e7d
+Port. container undefined       Secure container Boss   5c0a794586f77461c458f892
+Port. container undefined       Developer container     5c0a5a5986f77476aa30ae64
+Port. container 1100000 Secure container Epsilon        59db794186f77448bc595262
+Port. container 1850000 Secure container Gamma  5857a8bc2459772bad15db29
+Port. container 4900000 Secure container Kappa  5c093ca986f7740a1867ab12
+Port. container 360000  Secure container Alpha  544a11ac4bdc2d470e8b456a
+Port. container 15000   Waist pouch     5732ee6a24597719ae0c0281
+Pockets undefined       Карманы 1 на 4 со спец слотами  627a4e6b255f7527fb05a0f6
+Pockets undefined       Pockets 557ffd194bdc2d28148b457f
+Pockets undefined       Pockets 1x3     60c7272c204bc17802313365
+Pockets undefined       Pockets Large   5af99e9186f7747c447120b8
+Chest rig       215000  Crye Precision AVS MBAV (Tagilla Edition)       609e860ebd219504d8507525
+Chest rig       170000  S&S Precision PlateFrame plate carrier (Goons Edition)  628b9784bcf6e2659e09b8a2
+Chest rig       195000  Crye Precision CPC plate carrier (Goons Edition)        628b9c7d45122232a872358f
+RandomLootContainer     undefined       Airdrop weapon crate    62f10b79e7ee985f386b2f47
+RandomLootContainer     undefined       Airdrop weapon crate    633ffb5d419dbf4bea7004c6
+RandomLootContainer     100     Pumpkin with sweets     634959225289190e5e773b3b
+Common container        undefined       Developer case  5c0a5f6c86f774753654890e
+SortingTable    undefined       Sorting table   602543c13fee350cd564d032
+Stash   undefined       Stash   5811ce772459770e9e5f9532
+Stash   undefined       Stash   5811ce572459770cba1a34ea
+Stash   undefined       Stash   5811ce662459770f6f490f32
+Stash   undefined       Stash   566abbc34bdc2d92178b4576
+Stash   undefined       stash 10x300    5c0a596086f7747bef5731c2
+Stash   undefined       Stash   5963866b86f7747bfa1c4462
+Stash   undefined       Stash   5963866286f7747bf429b572
+Stationary cont.        undefined       локер в общаге  5675838d4bdc2d95058b456e
+Machinegun      undefined       NSV "Utyos" 12.7x108 heavy machine gun  5cdeb229d7f00c000e7ce174
+Machinegun      undefined       AGS-30 30x29mm automatic grenade launcher       5d52cc5ba4b9367408500062
+Handgun 23185   TT-33 7.62x25 TT pistol (Golden)        5b3b713c5acfc4330140bd8d
+Info    0       Clothes design handbook - Part 1        5ae9a3f586f7740aab00e4e6
+Info    0       Clothes design handbook - Part 2        5ae9a4fc86f7746e381e1753
+Info    0       Secure Folder 0013      5939e5a786f77461f11c0098
+Info    0       Secure Folder 0031      5938188786f77474f723e87f
+Info    0       Secure Folder 0048      593965cf86f774087a77e1b6
+Info    0       Secure Folder 0052      5938878586f7741b797c562f
+Info    0       Secure Folder 0060      5a6860d886f77411cd3a9e47
+Info    0       OLI cargo route documents       5ae9a25386f7746dd946e6d9
+Info    12000   Sliderkey Flash drive   5a29357286f77409c705e025
+Info    12000   Sliderkey Secure Flash drive    590c62a386f77412b0130255
+Info    undefined       item_flash_gelen        59f9ddae86f77407ab46e047
+Info    8000    Flash drive with fake info      5c12301c86f77419522ba7e4
+Info    12000   Flash drive marked with blue tape       5eff135be0d3331e9d282b7b
+Info    0       Secure Folder 0022      591092ef86f7747bb8703422
+Info    0       Sealed letter   61904c9df62c89219a56e034
+Info    0       Sealed letter   591093bb86f7747caa7bb2ee
+Info    0       Sealed letter with a TG logo    5939e9b286f77462a709572c
+Info    undefined       message_terapevt        5ae9a34d86f7740aab00e4de
+Info    0       Marked Ophthalmoscope   5efdaf6de6a30218ed211a48
+Info    0       Pumping station operation report        619268ad78f4fa33f173dbe5
+Info    0       Water pump operation data       619268de2be33f2604340159
+Info    29000   Encrypted message       5d3ec50586f774183a607442
+Info    0       Medical record #1       608c22a003292f4ba43f8a1a
+Info    0       Medical record #2       60a3b5b05f84d429b732e934
+Info    0       Stolen military documents       61a00bcb177fb945751bbe6a
+Info    0       Military documents #1   60915994c49cf53e4772cc38
+Info    0       Military documents #2   60a3b6359c427533db36cf84
+Info    0       Military documents #3   60a3b65c27adf161da7b6e14
+Info    50000   Package of graphics cards       5ac620eb86f7743a8e6e0da0
+Info    0       Photo album     5d357d6b86f7745b606e3508
+Info    50000   UAV SAS disk #1 5a294d7c86f7740651337cf9
+Info    50000   UAV SAS disk #2 5a294d8486f774068638cd93
+Info    0       Surgery kit marked with a blue symbol   5efdafc1e70b5e33f86de058
+Info    0       Goshan cargo manifests  5ae9a0dd86f7742e5f454a05
+Info    0       IDEA cargo manifests    5ae9a1b886f77404c8537c62
+Info    0       OLI cargo manifests     5ae9a18586f7746e381e16a3
+KeyMechanical   5560    Key to the closed premises of the Health Resort 5a0448bc86f774736f14efa8
+KeyMechanical   undefined       auto_key        590de4a286f77423d9312a32
+KeyMechanical   undefined       key_2   5751916f24597720a27126df
+KeyMechanical   undefined       key_3   57518f7724597720a31c09ab
+KeyMechanical   undefined       key_5   57518fd424597720c85dbaaa
+KeyMechanical   undefined       lighthouse_key3 61a6446f4b5f8b70f451b166
+KeyMechanical   undefined       quest test key  5a043f2c86f7741aa57b5145
+KeyMechanical   undefined       tech_key        590de52486f774226a0c24c2
+KeyMechanical   undefined       Ключ от чемодана        5671446a4bdc2d97058b4569
+Keycard undefined       keycard_black   5751961824597720a31c09ac
+Knife   undefined       Superfors DB 2020 Dead Blow Hammer      6087e570b998180e9f76dc24
+Knife   undefined       Old hand scythe 63495c500c297e20065a08b1
+Medikit undefined       Sanitar's first aid kit 5e99711486f7744bfc4af328
+Medical item    undefined       Sanitar kit     5e99735686f7744bfc4af32c
+RepairKits      undefined       item_spec_kniferepair   5910959486f7747d96753485
+Special item    undefined       item_spec_minedetector  5af056f186f7746da511291f

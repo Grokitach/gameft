@@ -1,0 +1,852 @@
+{
+    "presetBatch": {
+        "assault": 50,
+        "bossBully": 5,
+        "bossGluhar": 5,
+        "bossKilla": 5,
+        "bossKojaniy": 5,
+        "bossSanitar": 5,
+        "bossTagilla": 5,
+        "bossKnight": 5,
+        "bossZryachiy": 5,
+        "bossTest": 1,
+        "cursedAssault": 10,
+        "followerBully": 10,
+        "followerGluharAssault": 10,
+        "followerGluharScout": 10,
+        "followerGluharSecurity": 10,
+        "followerGluharSnipe": 10,
+        "followerKojaniy": 10,
+        "followerSanitar": 5,
+        "followerTagilla": 5,
+        "followerBirdEye": 5,
+        "followerBigPipe": 5,
+        "followerZryachiy": 10,
+        "followerTest": 1,
+        "marksman": 10,
+        "pmcBot": 30,
+        "sectantPriest": 5,
+        "sectantWarrior": 10,
+        "gifter": 5,
+        "test": 1,
+        "exUsec": 30,
+        "arenaFighterEvent": 10,
+        "arenaFighter": 10,
+        "sptUsec": 50,
+        "sptBear": 50,
+        "crazyAssaultEvent": 10,
+        "bossBoar": 5,
+        "followerBoar": 15,
+        "followerboarclose1": 4,
+        "followerboarclose2": 4,
+        "bossBoarSniper": 5,
+        "bosskolontay": 5,
+        "followerKolontayAssault": 10,
+        "followerKolontaySecurity": 10,
+        "shooterBTR": 2,
+        "peacefullZryachiyEvent": 1,
+        "ravangeZryachiyEvent": 1,
+        "sectactPriestEvent": 1
+    },
+    "cartridgeBlacklist": [],
+    "blacklist": [
+        "5fca13ca637ee0341a484f46",
+        "59f32c3b86f77472a31742f0",
+        "59f32bb586f774757e1e8442",
+        "6087e570b998180e9f76dc24"
+    ],
+    "maxBotCapHigh": {
+        "factory4_day": 15,
+        "factory4_night": 15,
+        "bigmap": 30,
+        "woods": 30,
+        "shoreline": 30,
+        "lighthouse": 20,
+        "rezervbase": 25,
+        "interchange": 25,
+        "laboratory": 20,
+        "tarkovstreets": 30,
+        "sandbox": 18,
+        "default": 25
+    },
+    "maxBotCapLow": {
+        "factory4_day": 10,
+        "factory4_night": 10,
+        "bigmap": 16,
+        "woods": 16,
+        "shoreline": 15,
+        "lighthouse": 13,
+        "rezervbase": 14,
+        "interchange": 14,
+        "laboratory": 15,
+        "tarkovstreets": 12,
+        "sandbox": 12,
+        "default": 15
+    },
+    "lootNValue": {
+        "scav": 3,
+        "pmc": 2.5,
+        "assault": 3,
+        "marksman": 3,
+        "arenafighterevent": 2.5,
+        "arenafighter": 2.5,
+        "crazyassaultevent": 3,
+        "bossbully": 2,
+        "sptbear": 2.5,
+        "sptusec": 2.5,
+        "bossgluhar": 2,
+        "bosskilla": 2,
+        "bossknight": 2,
+        "bosskojaniy": 2,
+        "bosssanitar": 2,
+        "bosstagilla": 2,
+        "bosstest": 2,
+        "bosszryachiy": 2,
+        "cursedassault": 2,
+        "exusec": 2,
+        "followerbigpipe": 2,
+        "followerbirdeye": 2,
+        "followerbully": 2,
+        "followergluharassault": 2,
+        "followergluharscout": 2,
+        "followergluharsecurity": 2,
+        "followergluharsnipe": 2,
+        "followerkojaniy": 2,
+        "followersanitar": 2,
+        "followertagilla": 2,
+        "followertest": 2,
+        "followerzryachiy": 2,
+        "gifter": 2,
+        "pmcbot": 2,
+        "sectantpriest": 2,
+        "sectantwarrior": 2,
+        "test": 2,
+        "bossboar": 3,
+        "bossboarsniper": 3,
+        "followerboar": 4
+    },
+    "durability1": {
+        "default": {
+            "armor": {
+                "maxDelta": 0,
+                "minDelta": 0,
+                "minLimitPercent": 0
+            },
+            "weapon": {
+                "lowestMax": 98,
+                "highestMax": 100,
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            }
+        },
+        "pmc": {
+            "armor": {
+                "lowestMaxPercent": 100,
+                "highestMaxPercent": 100,
+                "maxDelta": 0,
+                "minDelta": 0,
+                "minLimitPercent": 0
+            },
+            "weapon": {
+                "lowestMax": 95,
+                "highestMax": 100,
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            }
+        },
+        "boss": {
+            "armor": {
+                "maxDelta": 0,
+                "minDelta": 0,
+                "minLimitPercent": 0
+            },
+            "weapon": {
+                "lowestMax": 100,
+                "highestMax": 100,
+                "maxDelta": 0,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            }
+        },
+        "follower": {
+            "armor": {
+                "maxDelta": 0,
+                "minDelta": 0,
+                "minLimitPercent": 0
+            },
+            "weapon": {
+                "lowestMax": 95,
+                "highestMax": 100,
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            }
+        },
+        "assault": {
+            "armor": {
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            },
+            "weapon": {
+                "lowestMax": 90,
+                "highestMax": 100,
+                "maxDelta": 20,
+                "minDelta": 5,
+                "minLimitPercent": 15
+            }
+        },
+        "cursedassault": {
+            "armor": {
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 5
+            },
+            "weapon": {
+                "lowestMax": 90,
+                "highestMax": 100,
+                "maxDelta": 20,
+                "minDelta": 5,
+                "minLimitPercent": 15
+            }
+        },
+        "marksman": {
+            "armor": {
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 5
+            },
+            "weapon": {
+                "lowestMax": 95,
+                "highestMax": 100,
+                "maxDelta": 20,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            }
+        },
+        "pmcbot": {
+            "armor": {
+                "maxDelta": 0,
+                "minDelta": 0,
+                "minLimitPercent": 0
+            },
+            "weapon": {
+                "lowestMax": 95,
+                "highestMax": 100,
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            }
+        },
+        "exusec": {
+            "armor": {
+                "maxDelta": 0,
+                "minDelta": 0,
+                "minLimitPercent": 0
+            },
+            "weapon": {
+                "lowestMax": 95,
+                "highestMax": 100,
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            }
+        },
+        "sectantpriest": {
+            "armor": {
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            },
+            "weapon": {
+                "lowestMax": 95,
+                "highestMax": 100,
+                "maxDelta": 20,
+                "minDelta": 5,
+                "minLimitPercent": 15
+            }
+        },
+        "sectantwarrior": {
+            "armor": {
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            },
+            "weapon": {
+                "lowestMax": 90,
+                "highestMax": 100,
+                "maxDelta": 20,
+                "minDelta": 5,
+                "minLimitPercent": 15
+            }
+        },
+        "arenafighterevent": {
+            "armor": {
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            },
+            "weapon": {
+                "lowestMax": 80,
+                "highestMax": 100,
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            }
+        }
+    },
+    "durability2": {
+        "default": {
+            "armor": {
+                "maxDelta": 0,
+                "minDelta": 0,
+                "minLimitPercent": 0
+            },
+            "weapon": {
+                "lowestMax": 98,
+                "highestMax": 100,
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            }
+        },
+        "pmc": {
+            "armor": {
+                "lowestMaxPercent": 100,
+                "highestMaxPercent": 100,
+                "maxDelta": 0,
+                "minDelta": 0,
+                "minLimitPercent": 0
+            },
+            "weapon": {
+                "lowestMax": 95,
+                "highestMax": 100,
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            }
+        },
+        "boss": {
+            "armor": {
+                "maxDelta": 0,
+                "minDelta": 0,
+                "minLimitPercent": 0
+            },
+            "weapon": {
+                "lowestMax": 100,
+                "highestMax": 100,
+                "maxDelta": 0,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            }
+        },
+        "follower": {
+            "armor": {
+                "maxDelta": 0,
+                "minDelta": 0,
+                "minLimitPercent": 0
+            },
+            "weapon": {
+                "lowestMax": 95,
+                "highestMax": 100,
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            }
+        },
+        "assault": {
+            "armor": {
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            },
+            "weapon": {
+                "lowestMax": 85,
+                "highestMax": 100,
+                "maxDelta": 20,
+                "minDelta": 5,
+                "minLimitPercent": 15
+            }
+        },
+        "cursedassault": {
+            "armor": {
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 5
+            },
+            "weapon": {
+                "lowestMax": 85,
+                "highestMax": 100,
+                "maxDelta": 20,
+                "minDelta": 5,
+                "minLimitPercent": 15
+            }
+        },
+        "marksman": {
+            "armor": {
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 5
+            },
+            "weapon": {
+                "lowestMax": 90,
+                "highestMax": 100,
+                "maxDelta": 20,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            }
+        },
+        "pmcbot": {
+            "armor": {
+                "maxDelta": 0,
+                "minDelta": 0,
+                "minLimitPercent": 0
+            },
+            "weapon": {
+                "lowestMax": 95,
+                "highestMax": 100,
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            }
+        },
+        "exusec": {
+            "armor": {
+                "maxDelta": 0,
+                "minDelta": 0,
+                "minLimitPercent": 0
+            },
+            "weapon": {
+                "lowestMax": 95,
+                "highestMax": 100,
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            }
+        },
+        "sectantpriest": {
+            "armor": {
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            },
+            "weapon": {
+                "lowestMax": 95,
+                "highestMax": 100,
+                "maxDelta": 20,
+                "minDelta": 5,
+                "minLimitPercent": 15
+            }
+        },
+        "sectantwarrior": {
+            "armor": {
+                "maxDelta": 15,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            },
+            "weapon": {
+                "lowestMax": 85,
+                "highestMax": 100,
+                "maxDelta": 20,
+                "minDelta": 5,
+                "minLimitPercent": 15
+            }
+        },
+        "arenafighterevent": {
+            "armor": {
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            },
+            "weapon": {
+                "lowestMax": 80,
+                "highestMax": 100,
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            }
+        }
+    },
+    "durability3": {
+        "default": {
+            "armor": {
+                "maxDelta": 0,
+                "minDelta": 0,
+                "minLimitPercent": 0
+            },
+            "weapon": {
+                "lowestMax": 98,
+                "highestMax": 100,
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            }
+        },
+        "pmc": {
+            "armor": {
+                "lowestMaxPercent": 100,
+                "highestMaxPercent": 100,
+                "maxDelta": 0,
+                "minDelta": 0,
+                "minLimitPercent": 0
+            },
+            "weapon": {
+                "lowestMax": 95,
+                "highestMax": 100,
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            }
+        },
+        "boss": {
+            "armor": {
+                "maxDelta": 0,
+                "minDelta": 0,
+                "minLimitPercent": 0
+            },
+            "weapon": {
+                "lowestMax": 100,
+                "highestMax": 100,
+                "maxDelta": 0,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            }
+        },
+        "follower": {
+            "armor": {
+                "maxDelta": 0,
+                "minDelta": 0,
+                "minLimitPercent": 0
+            },
+            "weapon": {
+                "lowestMax": 95,
+                "highestMax": 100,
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            }
+        },
+        "assault": {
+            "armor": {
+                "maxDelta": 15,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            },
+            "weapon": {
+                "lowestMax": 80,
+                "highestMax": 100,
+                "maxDelta": 20,
+                "minDelta": 5,
+                "minLimitPercent": 15
+            }
+        },
+        "cursedassault": {
+            "armor": {
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 5
+            },
+            "weapon": {
+                "lowestMax": 80,
+                "highestMax": 100,
+                "maxDelta": 20,
+                "minDelta": 5,
+                "minLimitPercent": 15
+            }
+        },
+        "marksman": {
+            "armor": {
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 5
+            },
+            "weapon": {
+                "lowestMax": 85,
+                "highestMax": 100,
+                "maxDelta": 20,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            }
+        },
+        "pmcbot": {
+            "armor": {
+                "maxDelta": 0,
+                "minDelta": 0,
+                "minLimitPercent": 0
+            },
+            "weapon": {
+                "lowestMax": 95,
+                "highestMax": 100,
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            }
+        },
+        "exusec": {
+            "armor": {
+                "maxDelta": 0,
+                "minDelta": 0,
+                "minLimitPercent": 0
+            },
+            "weapon": {
+                "lowestMax": 95,
+                "highestMax": 100,
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            }
+        },
+        "sectantpriest": {
+            "armor": {
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            },
+            "weapon": {
+                "lowestMax": 90,
+                "highestMax": 100,
+                "maxDelta": 20,
+                "minDelta": 5,
+                "minLimitPercent": 15
+            }
+        },
+        "sectantwarrior": {
+            "armor": {
+                "maxDelta": 15,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            },
+            "weapon": {
+                "lowestMax": 85,
+                "highestMax": 100,
+                "maxDelta": 20,
+                "minDelta": 5,
+                "minLimitPercent": 15
+            }
+        },
+        "arenafighterevent": {
+            "armor": {
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            },
+            "weapon": {
+                "lowestMax": 80,
+                "highestMax": 100,
+                "maxDelta": 10,
+                "minDelta": 0,
+                "minLimitPercent": 15
+            }
+        }
+    },
+    "pmc1": {
+        "dynamicLoot": {
+            "whitelist": [],
+            "blacklist": [],
+            "moneyStackLimits": {
+                "5449016a4bdc2d6f028b456f": 25000,
+                "5696686a4bdc2da3298b456a": 100,
+                "569668774bdc2da2298b4568": 100
+            }
+        },
+        "isUsec": 49,
+        "difficulty": "Hard",
+        "maxBackpackLootTotalRub": 100000,
+        "maxPocketLootTotalRub": 50000,
+        "maxVestLootTotalRub": 50000,
+        "looseWeaponInBackpackChancePercent": 0,
+        "chanceSameSideIsHostilePercent": 95,
+        "convertIntoPmcChance": {
+            "assault": {
+                "min": 30,
+                "max": 45
+            },
+            "cursedassault": {
+                "min": 30,
+                "max": 40
+            },
+            "pmcbot": {
+                "min": 0,
+                "max": 0
+            },
+            "exusec": {
+                "min": 0,
+                "max": 0
+            },
+            "arenafighter": {
+                "min": 0,
+                "max": 0
+            },
+            "arenafighterevent": {
+                "min": 0,
+                "max": 0
+            },
+            "crazyassaultevent": {
+                "min": 5,
+                "max": 30
+            }
+        }
+    },
+    "pmc2": {
+        "dynamicLoot": {
+            "whitelist": [],
+            "blacklist": [],
+            "moneyStackLimits": {
+                "5449016a4bdc2d6f028b456f": 50000,
+                "5696686a4bdc2da3298b456a": 200,
+                "569668774bdc2da2298b4568": 200
+            }
+        },
+        "isUsec": 49,
+        "difficulty": "Hard",
+        "maxBackpackLootTotalRub": 150000,
+        "maxPocketLootTotalRub": 75000,
+        "maxVestLootTotalRub": 75000,
+        "looseWeaponInBackpackChancePercent": 0,
+        "chanceSameSideIsHostilePercent": 99,
+        "convertIntoPmcChance": {
+            "assault": {
+                "min": 27,
+                "max": 45
+            },
+            "cursedassault": {
+                "min": 28,
+                "max": 40
+            },
+            "pmcbot": {
+                "min": 0,
+                "max": 0
+            },
+            "exusec": {
+                "min": 0,
+                "max": 0
+            },
+            "arenafighter": {
+                "min": 0,
+                "max": 0
+            },
+            "arenafighterevent": {
+                "min": 0,
+                "max": 0
+            },
+            "crazyassaultevent": {
+                "min": 5,
+                "max": 30
+            }
+        }
+    },
+    "pmc3": {
+        "dynamicLoot": {
+            "whitelist": [],
+            "blacklist": [],
+            "moneyStackLimits": {
+                "5449016a4bdc2d6f028b456f": 75000,
+                "5696686a4bdc2da3298b456a": 300,
+                "569668774bdc2da2298b4568": 300
+            }
+        },
+        "isUsec": 49,
+        "difficulty": "Impossible",
+        "maxBackpackLootTotalRub": 200000,
+        "maxPocketLootTotalRub": 85000,
+        "maxVestLootTotalRub": 85000,
+        "looseWeaponInBackpackChancePercent": 0,
+        "chanceSameSideIsHostilePercent": 100,
+        "convertIntoPmcChance": {
+            "assault": {
+                "min": 25,
+                "max": 45
+            },
+            "cursedassault": {
+                "min": 25,
+                "max": 40
+            },
+            "pmcbot": {
+                "min": 0,
+                "max": 0
+            },
+            "exusec": {
+                "min": 0,
+                "max": 0
+            },
+            "arenafighter": {
+                "min": 0,
+                "max": 0
+            },
+            "arenafighterevent": {
+                "min": 0,
+                "max": 0
+            },
+            "crazyassaultevent": {
+                "min": 5,
+                "max": 30
+            }
+        }
+    },
+    "pmcTest": {
+        "convertIntoPmcChance": {
+            "assault": {
+                "min": 100,
+                "max": 100
+            },
+            "cursedassault": {
+                "min": 100,
+                "max": 100
+            },
+            "pmcbot": {
+                "min": 100,
+                "max": 100
+            },
+            "exusec": {
+                "min": 100,
+                "max": 100
+            },
+            "arenafighter": {
+                "min": 100,
+                "max": 100
+            },
+            "arenafighterevent": {
+                "min": 100,
+                "max": 100
+            },
+            "crazyassaultevent": {
+                "min": 100,
+                "max": 100
+            }
+        }
+    },
+    "scavTest": {
+        "convertIntoPmcChance": {
+            "assault": {
+                "min": 0,
+                "max": 0
+            },
+            "cursedassault": {
+                "min": 0,
+                "max": 0
+            },
+            "pmcbot": {
+                "min": 0,
+                "max": 0
+            },
+            "exusec": {
+                "min": 0,
+                "max": 0
+            },
+            "arenafighter": {
+                "min": 0,
+                "max": 0
+            },
+            "arenafighterevent": {
+                "min": 0,
+                "max": 0
+            },
+            "crazyassaultevent": {
+                "min": 0,
+                "max": 0
+            }
+        }
+    }
+}

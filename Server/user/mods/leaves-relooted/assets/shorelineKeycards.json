@@ -1,0 +1,194 @@
+{
+    "shoreline": [
+        {
+            "locationId": "(-227.977051, -6.41899967, -102.800995)",
+            "probability": 0.007,
+            "template": {
+                "Id": "key_lab_weapon_store (35)6033844",
+                "IsContainer": false,
+                "useGravity": false,
+                "randomRotation": false,
+                "Position": {
+                    "x": -227.977051,
+                    "y": -6.41899967,
+                    "z": -102.800995
+                },
+                "Rotation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "IsGroupPosition": false,
+                "GroupPositions": [],
+                "IsAlwaysSpawn": false,
+                "Root": "63fd6bea4f17dff63901d2ca",
+                "Items": [
+                    {
+                        "_id": "-125004426",
+                        "_tpl": "5c1d0efb86f7744baf2e7b7b"
+                    }
+                ]
+            },
+            "itemDistribution": [
+                {
+                    "composedKey": {
+                        "key": "-125004426"
+                    },
+                    "relativeProbability": 3
+                }
+            ]
+        },
+        {
+            "locationId": "(-335.261, -0.0619997978, -88.9129944)",
+            "probability": 0.007,
+            "template": {
+                "Id": "key_lab_weapon_store (36)6032572",
+                "IsContainer": false,
+                "useGravity": false,
+                "randomRotation": false,
+                "Position": {
+                    "x": -335.261,
+                    "y": -0.0619997978,
+                    "z": -88.9129944
+                },
+                "Rotation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "IsGroupPosition": false,
+                "GroupPositions": [],
+                "IsAlwaysSpawn": false,
+                "Root": "63c147d4d25689a1b00a4824",
+                "Items": [
+                    {
+                        "_id": "-125024426",
+                        "_tpl": "5c1d0efb86f7744baf2e7b7b"
+                    }
+                ]
+            },
+            "itemDistribution": [
+                {
+                    "composedKey": {
+                        "key": "-125024426"
+                    },
+                    "relativeProbability": 5
+                }
+            ]
+        },
+        {
+            "locationId": "(-171.123047, -0.0277996063, -87.7450562)",
+            "probability": 0.007,
+            "template": {
+                "Id": "key_lab_weapon_store (37)6032436",
+                "IsContainer": false,
+                "useGravity": false,
+                "randomRotation": false,
+                "Position": {
+                    "x": -171.123047,
+                    "y": -0.0277996063,
+                    "z": -87.7450562
+                },
+                "Rotation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "IsGroupPosition": false,
+                "GroupPositions": [],
+                "IsAlwaysSpawn": false,
+                "Root": "63de0be6aba2b30295076b29",
+                "Items": [
+                    {
+                        "_id": "-125014426",
+                        "_tpl": "5c1d0efb86f7744baf2e7b7b"
+                    }
+                ]
+            },
+            "itemDistribution": [
+                {
+                    "composedKey": {
+                        "key": "-125014426"
+                    },
+                    "relativeProbability": 5
+                }
+            ]
+        },
+        {
+            "locationId": "(-155.865112, -2.97210026, -89.4736)",
+            "probability": 0.007,
+            "template": {
+                "Id": "key_lab_karantin (36)6029734",
+                "IsContainer": false,
+                "useGravity": false,
+                "randomRotation": false,
+                "Position": {
+                    "x": -155.865112,
+                    "y": -2.97210026,
+                    "z": -89.4736
+                },
+                "Rotation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "IsGroupPosition": false,
+                "GroupPositions": [],
+                "IsAlwaysSpawn": false,
+                "Root": "63cb993ecb1fd51df108accc",
+                "Items": [
+                    {
+                        "_id": "477360964",
+                        "_tpl": "5c1d0c5f86f7744bb2683cf0"
+                    }
+                ]
+            },
+            "itemDistribution": [
+                {
+                    "composedKey": {
+                        "key": "477360964"
+                    },
+                    "relativeProbability": 4
+                }
+            ]
+        },
+        {
+            "locationId": "(-257.266, -4.6257, -86.741)",
+            "probability": 0.007,
+            "template": {
+                "Id": "key_lab_karantin (38)6033420",
+                "IsContainer": false,
+                "useGravity": false,
+                "randomRotation": false,
+                "Position": {
+                    "x": -257.266,
+                    "y": -4.6257,
+                    "z": -86.741
+                },
+                "Rotation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "IsGroupPosition": false,
+                "GroupPositions": [],
+                "IsAlwaysSpawn": false,
+                "Root": "63c4c4ccc9e7b5d565056b85",
+                "Items": [
+                    {
+                        "_id": "477360964",
+                        "_tpl": "5c1d0c5f86f7744bb2683cf0"
+                    }
+                ]
+            },
+            "itemDistribution": [
+                {
+                    "composedKey": {
+                        "key": "477360964"
+                    },
+                    "relativeProbability": 7
+                }
+            ]
+        }
+    ]
+}
