@@ -1,0 +1,12 @@
+{
+    "runIntervalSeconds": 10,
+    "hoursForSkillCrafting": 28800,
+    "runIntervalValues": {
+        "inRaid": 60,
+        "outOfRaid": 10
+    },
+    "expCraftAmount": 10,
+    "overrideCraftTimeSeconds": -1,
+    "overrideBuildTimeSeconds": -1,
+	"updateProfileHideoutWhenActiveWithinMinutes": 90
+}

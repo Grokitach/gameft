@@ -1,0 +1,338 @@
+{
+    "runIntervalSeconds": 8,
+    "runIntervalValues": {
+        "inRaid": 60,
+        "outOfRaid": 8
+    },
+    "sell": {
+        "fees": true,
+        "chance": {
+            "base": 50,
+            "sellMultiplier": 1.24,
+            "maxSellChancePercent": 100,
+            "minSellChancePercent": 0
+        },
+        "time": {
+            "min": 0,
+            "max": 1.0
+        },
+        "expireSeconds": 71
+    },
+    "traders": {
+        "54cb50c76803fa8b248b4571": true,
+        "54cb57776803fa99248b456e": true,
+        "579dc571d53a0658a154fbec": false,
+        "58330581ace78e27b8b10cee": true,
+        "5935c25fb3acc3127c3d8cd9": true,
+        "5a7c2eca46aef81a7ca2145d": true,
+        "5ac3b934156ae10c4430e83c": true,
+        "5c0647fdd443bc2504c2d371": true,
+        "ragfair": false
+    },
+    "dynamic": {
+        "purchasesAreFoundInRaid": false,
+        "useTraderPriceForOffersIfHigher": true,
+        "barter": {
+            "chancePercent": 20,
+            "itemCountMin": 1,
+            "itemCountMax": 3,
+            "priceRangeVariancePercent": 15,
+            "minRoubleCostToBecomeBarter": 20000,
+            "itemTypeBlacklist": [
+                "55802f4a4bdc2ddb688b4569",
+                "55802f3e4bdc2de7118b4584",
+                "543be5cb4bdc2deb348b4568",
+                "55818ac54bdc2d5b648b456e",
+                "5a74651486f7744e73386dd1"
+            ]
+        },
+        "pack": {
+            "chancePercent": 20,
+            "itemCountMin": 4,
+            "itemCountMax": 12,
+            "itemTypeWhitelist": [
+                "5448eb774bdc2d0a728b4567",
+                "5448e8d64bdc2dce718b4568",
+                "5448f3ac4bdc2dce718b4569",
+                "543be6674bdc2df1348b4569",
+                "57864a3d24597754843f8721",
+                "57864a66245977548f04a81f",
+                "57864ada245977548638de91",
+                "57864ada245977548638de91"
+            ]
+        },
+        "offerAdjustment": {
+            "adjustPriceWhenBelowHandbookPrice": false,
+            "maxPriceDifferenceBelowHandbookPercent": 64,
+            "handbookPriceMultipier": 1.1,
+            "priceThreshholdRub": 20000
+        },
+        "expiredOfferThreshold": 1400,
+        "offerItemCount": {
+            "min": 7,
+            "max": 30
+        },
+        "priceRanges": {
+            "default": {
+                "min": 0.8,
+                "max": 1.2
+            },
+            "preset": {
+                "min": 0.95,
+                "max": 1.05
+            },
+            "pack": {
+                "min": 0.75,
+                "max": 0.96
+            }
+        },
+        "showDefaultPresetsOnly": true,
+        "endTimeSeconds": {
+            "min": 360,
+            "max": 3600
+        },
+        "condition": {
+            "5422acb9af1c889c16000029": {
+                "_name": "WEAPON",
+                "conditionChance": 0.2,
+                "current": {
+                    "min": 0,
+                    "max": 1
+                },
+                "max": {
+                    "min": 0.6,
+                    "max": 1
+                }
+            },
+            "543be5664bdc2dd4348b4569": {
+                "_name": "MEDS",
+                "conditionChance": 0.2,
+                "current": {
+                    "min": 0,
+                    "max": 1
+                },
+                "max": {
+                    "min": 0.6,
+                    "max": 1
+                }
+            },
+            "5447e0e74bdc2d3c308b4567": {
+                "_name": "SPEC_ITEM",
+                "conditionChance": 0.3,
+                "current": {
+                    "min": 0,
+                    "max": 1
+                },
+                "max": {
+                    "min": 0.02,
+                    "max": 1
+                }
+            },
+            "543be5e94bdc2df1348b4568": {
+                "_name": "KEY",
+                "conditionChance": 0.04,
+                "current": {
+                    "min": 0,
+                    "max": 1
+                },
+                "max": {
+                    "min": 0.96,
+                    "max": 1
+                }
+            },
+            "5448e5284bdc2dcb718b4567": {
+                "_name": "VEST",
+                "conditionChance": 0.2,
+                "current": {
+                    "min": 0,
+                    "max": 1
+                },
+                "max": {
+                    "min": 0.45,
+                    "max": 1
+                }
+            },
+            "5448e54d4bdc2dcc718b4568": {
+                "_name": "ARMOR",
+                "conditionChance": 0.2,
+                "current": {
+                    "min": 0,
+                    "max": 1
+                },
+                "max": {
+                    "min": 0.45,
+                    "max": 1
+                }
+            },
+            "644120aa86ffbe10ee032b6f": {
+                "_name": "ARMOR_PLATE",
+                "conditionChance": 0.45,
+                "current": {
+                    "min": 0,
+                    "max": 1
+                },
+                "max": {
+                    "min": 0.7,
+                    "max": 1
+                }
+            },
+            "65649eb40bf0ed77b8044453": {
+                "_name": "BUILT_IN_INSERTS",
+                "conditionChance": 0.3,
+                "current": {
+                    "min": 0,
+                    "max": 1
+                },
+                "max": {
+                    "min": 0.3,
+                    "max": 1
+                }
+            },
+            "543be6674bdc2df1348b4569": {
+                "_name": "FOOD_DRINK",
+                "conditionChance": 0.05,
+                "current": {
+                    "min": 1,
+                    "max": 1
+                },
+                "max": {
+                    "min": 0.05,
+                    "max": 1
+                }
+            },
+            "5d650c3e815116009f6201d2": {
+                "_name": "FUEL",
+                "conditionChance": 0.12,
+                "current": {
+                    "min": 1,
+                    "max": 1
+                },
+                "max": {
+                    "min": 0.7,
+                    "max": 1
+                }
+            },
+            "5a341c4686f77469e155819e": {
+                "_name": "FACECOVER",
+                "conditionChance": 0.32,
+                "current": {
+                    "min": 0,
+                    "max": 1
+                },
+                "max": {
+                    "min": 0.6,
+                    "max": 1
+                }
+            },
+            "5448e5724bdc2ddf718b4568": {
+                "_name": "VISORS",
+                "conditionChance": 0.32,
+                "current": {
+                    "min": 0,
+                    "max": 1
+                },
+                "max": {
+                    "min": 0.7,
+                    "max": 1
+                }
+            },
+            "5a341c4086f77401f2541505": {
+                "_name": "HELMETS",
+                "conditionChance": 0.32,
+                "current": {
+                    "min": 0,
+                    "max": 1
+                },
+                "max": {
+                    "min": 0.45,
+                    "max": 1
+                }
+            },
+            "57bef4c42459772e8d35a53b": {
+                "_name": "ARMORED_EQUIPMENT",
+                "conditionChance": 0.25,
+                "current": {
+                    "min": 0,
+                    "max": 1
+                },
+                "max": {
+                    "min": 0.05,
+                    "max": 1
+                }
+            }
+        },
+        "stackablePercent": {
+            "min": 10,
+            "max": 600
+        },
+        "nonStackableCount": {
+            "min": 1,
+            "max": 10
+        },
+        "rating": {
+            "min": -2,
+            "max": 20
+        },
+        "armor": {
+            "removeRemovablePlateChance": 40,
+            "plateSlotIdToRemovePool": [
+                "front_plate",
+                "back_plate"
+            ]
+        },
+        "itemPriceMultiplier": {
+            "5737292724597765e5728562": 6,
+            "57372ac324597767001bc261": 5,
+            "5c110624d174af029e69734c": 38
+        },
+        "_currencies": "what percentage of the offers are in each currency",
+        "currencies": {
+            "5449016a4bdc2d6f028b456f": 78,
+            "5696686a4bdc2da3298b456a": 14,
+            "569668774bdc2da2298b4568": 8
+        },
+        "showAsSingleStack": [
+            "5422acb9af1c889c16000029",
+            "5448e54d4bdc2dcc718b4568",
+            "5795f317245977243854e041",
+            "5448e53e4bdc2d60728b4567",
+            "5448bf274bdc2dfc2f8b456a",
+            "543be5e94bdc2df1348b4568",
+            "5448f39d4bdc2d0a728b4568",
+            "62e910aaf957f2915e0a5e36",
+            "5447e1d04bdc2dff2f8b4567",
+            "57bef4c42459772e8d35a53b"
+        ],
+        "removeSeasonalItemsWhenNotInEvent": true,
+        "blacklist": {
+            "damagedAmmoPacks": true,
+            "custom": [],
+            "enableBsgList": true,
+            "enableQuestList": true,
+            "traderItems": false,
+            "armorPlate": {
+                "maxProtectionLevel": 4,
+                "ignoreSlots": [
+                    "right_side_plate",
+                    "left_side_plate"
+                ]
+            },
+            "enableCustomItemCategoryList": false,
+            "customItemCategoryList": []
+        },
+        "unreasonableModPrices": {
+            "5448fe124bdc2da5018b4567": {
+                "itemType": "Weapon Mod",
+                "enabled": true,
+                "handbookPriceOverMultiplier": 6,
+                "newPriceHandbookMultiplier": 6
+            },
+            "57864a66245977548f04a81f": {
+                "itemType": "Electronics",
+                "enabled": true,
+                "handbookPriceOverMultiplier": 11,
+                "newPriceHandbookMultiplier": 11
+            }
+        }
+    }
+}

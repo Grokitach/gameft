@@ -1,0 +1,99 @@
+{
+    "looseLoot": {
+        "woods": [],
+        "bigmap": [
+            {
+                "locationId": "(292.121, 1.5664, -190.888)",
+                "probability": 0.397834757834758,
+                "template": {
+                    "Id": "Loot 19 (9)3856272",
+                    "IsContainer": false,
+                    "useGravity": true,
+                    "randomRotation": false,
+                    "Position": {
+                        "x": 292.121,
+                        "y": 1.5664,
+                        "z": -190.888
+                    },
+                    "Rotation": {
+                        "x": -4.26886828E-07,
+                        "y": 37.8216743,
+                        "z": 0
+                    },
+                    "IsGroupPosition": false,
+                    "GroupPositions": [],
+                    "IsAlwaysSpawn": false,
+                    "Root": "64fb326d0a58bbc7fd05a7a5",
+                    "Items": [
+                        {
+                            "_id": "-125004426",
+                            "_tpl": "5c1d0efb86f7744baf2e7b7b"
+                        }
+                    ]
+                },
+                "itemDistribution": [
+                    {
+                        "composedKey": {
+                            "key": "-125004426"
+                        },
+                        "relativeProbability": 1
+                    }
+                ]
+            },
+            {
+                "locationId": "(291.785, 1.5664, -191.529)",
+                "probability": 0.402621082621083,
+                "template": {
+                    "Id": "Loot 19 (8)3860542",
+                    "IsContainer": false,
+                    "useGravity": true,
+                    "randomRotation": false,
+                    "Position": {
+                        "x": 291.785,
+                        "y": 1.5664,
+                        "z": -191.529
+                    },
+                    "Rotation": {
+                        "x": -4.26886828E-07,
+                        "y": 37.8216743,
+                        "z": 0
+                    },
+                    "IsGroupPosition": false,
+                    "GroupPositions": [],
+                    "IsAlwaysSpawn": false,
+                    "Root": "64fb2b6683a4346102070964",
+                    "Items": [
+                        {
+                            "_id": "-1231523193",
+                            "_tpl": "5c1d0dc586f7744baf2e7b79"
+                        },
+                        {
+                            "_id": "1125653197",
+                            "_tpl": "5c1e495a86f7743109743dfb"
+                        }
+                    ]
+                },
+                "itemDistribution": [
+                    {
+                        "composedKey": {
+                            "key": "-1231523193"
+                        },
+                        "relativeProbability": 1
+                    },
+                    {
+                        "composedKey": {
+                            "key": "1125653197"
+                        },
+                        "relativeProbability": 1
+                    }
+                ]
+            }
+        ],
+        "laboratory": []
+    },
+    "looseLootSpawnPointAdjustments": {
+        "bigmap": {},
+        "rezervbase": {},
+        "tarkovstreets": {}
+    }
+}

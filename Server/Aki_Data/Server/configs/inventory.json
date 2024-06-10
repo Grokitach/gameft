@@ -1,0 +1,278 @@
+{
+    "newItemsMarkedFound": false,
+    "randomLootContainers": {
+        "634959225289190e5e773b3b": {
+            "rewardCount": 6,
+            "foundInRaid": true,
+            "rewardTplPool": {
+                "57514643245977207f2c2d09": 1,
+                "544fb62a4bdc2dfb738b4568": 1,
+                "57513f07245977207e26a311": 1,
+                "57513f9324597720a7128161": 1,
+                "57513fcc24597720a31c09a6": 1,
+                "5e8f3423fd7471236e6e3b64": 1,
+                "60b0f93284c20f0feb453da7": 1,
+                "5734773724597737fd047c14": 1,
+                "59e3577886f774176a362503": 1,
+                "57505f6224597709a92585a9": 1,
+                "544fb6cc4bdc2d34748b456e": 1
+            }
+        },
+        "63a8970d7108f713591149f5": {
+            "rewardCount": 2,
+            "foundInRaid": true,
+            "rewardTplPool": {
+                "57514643245977207f2c2d09": 10,
+                "5e8f3423fd7471236e6e3b64": 10,
+                "60b0f93284c20f0feb453da7": 10,
+                "5734773724597737fd047c14": 10,
+                "59e3577886f774176a362503": 10,
+                "57505f6224597709a92585a9": 10,
+                "544fb6cc4bdc2d34748b456e": 10,
+                "544fb45d4bdc2dee738b4568": 5,
+                "544fb5454bdc2df8738b456a": 1,
+                "61b9e1aaef9a1b5d6a79899a": 1,
+                "59e3658a86f7741776641ac4": 1,
+                "59e35de086f7741778269d84": 1,
+                "5aafbde786f774389d0cbc0f": 1,
+                "5b7c710788a4506dec015957": 1,
+                "5c093e3486f77430cb02e593": 1,
+                "5d24bb4886f77439c92d6bad": 10,
+                "57347d7224597744596b4e72": 10,
+                "5d235b4d86f7742e017bc88a": 1,
+                "59faff1d86f7746c51718c9c": 1,
+                "59fafd4b86f7745ca07e1232": 1,
+                "5bc9bc53d4351e00367fbcee": 1,
+                "5e54f62086f774219b0f1937": 1,
+                "655c652d60d0ac437100fed7": 1,
+                "655c663a6689c676ce57af85": 1,
+                "655c67ab0d37ca5135388f4b": 1
+            }
+        },
+        "63a898a328e385334e0640a5": {
+            "rewardCount": 4,
+            "foundInRaid": true,
+            "rewardTplPool": {
+                "57514643245977207f2c2d09": 7,
+                "5e8f3423fd7471236e6e3b64": 7,
+                "60b0f93284c20f0feb453da7": 7,
+                "5734773724597737fd047c14": 7,
+                "59e3577886f774176a362503": 7,
+                "57505f6224597709a92585a9": 7,
+                "544fb6cc4bdc2d34748b456e": 7,
+                "544fb45d4bdc2dee738b4568": 5,
+                "544fb5454bdc2df8738b456a": 1,
+                "61b9e1aaef9a1b5d6a79899a": 1,
+                "59e3658a86f7741776641ac4": 1,
+                "59e35de086f7741778269d84": 1,
+                "5aafbde786f774389d0cbc0f": 1,
+                "5b7c710788a4506dec015957": 1,
+                "5c093e3486f77430cb02e593": 1,
+                "5d24bb4886f77439c92d6bad": 7,
+                "57347d7224597744596b4e72": 7,
+                "5d235b4d86f7742e017bc88a": 1,
+                "59faff1d86f7746c51718c9c": 1,
+                "59fafd4b86f7745ca07e1232": 1,
+                "5bc9bc53d4351e00367fbcee": 1,
+                "5e54f62086f774219b0f1937": 1,
+                "655c652d60d0ac437100fed7": 1,
+                "655c663a6689c676ce57af85": 1,
+                "655c67ab0d37ca5135388f4b": 1
+            }
+        },
+        "63a897c6b1ff6e29734fcc95": {
+            "rewardCount": 6,
+            "foundInRaid": true,
+            "rewardTplPool": {
+                "57514643245977207f2c2d09": 2,
+                "5e8f3423fd7471236e6e3b64": 2,
+                "60b0f93284c20f0feb453da7": 2,
+                "5734773724597737fd047c14": 2,
+                "59e3577886f774176a362503": 2,
+                "57505f6224597709a92585a9": 2,
+                "544fb6cc4bdc2d34748b456e": 2,
+                "544fb45d4bdc2dee738b4568": 2,
+                "544fb5454bdc2df8738b456a": 1,
+                "61b9e1aaef9a1b5d6a79899a": 1,
+                "59e3658a86f7741776641ac4": 1,
+                "59e35de086f7741778269d84": 1,
+                "5aafbde786f774389d0cbc0f": 1,
+                "5b7c710788a4506dec015957": 1,
+                "5c093e3486f77430cb02e593": 1,
+                "5d24bb4886f77439c92d6bad": 2,
+                "57347d7224597744596b4e72": 2,
+                "5d235b4d86f7742e017bc88a": 1,
+                "59faff1d86f7746c51718c9c": 1,
+                "59fafd4b86f7745ca07e1232": 1,
+                "5bc9bc53d4351e00367fbcee": 1,
+                "5e54f62086f774219b0f1937": 1,
+                "655c652d60d0ac437100fed7": 1,
+                "655c663a6689c676ce57af85": 1,
+                "655c67ab0d37ca5135388f4b": 1
+            }
+        }
+    },
+    "sealedAirdropContainer": {
+        "weaponRewardWeight": {
+            "5447a9cd4bdc2dbd208b4567": 1,
+            "5bb2475ed4351e00853264e3": 1,
+            "5bd70322209c4d00d7167b8f": 1,
+            "5ac66d2e5acfc43b321d4b53": 1,
+            "5ac66d725acfc43b321d4b60": 1,
+            "5ac66d9b5acfc4001633997a": 1,
+            "63171672192e68c5460cebc5": 1,
+            "5c488a752e221602b412af63": 1,
+            "5dcbd56fdbd3d91b3e5468d5": 1,
+            "623063e994fc3f7b302a9696": 1,
+            "5fbcc1d9016cce60e8341ab3": 1,
+            "606587252535c57a13424cfd": 1,
+            "5b0bbe4e5acfc40dc528a72d": 1,
+            "6184055050224f204c1da540": 1,
+            "6183afd850224f204c1da514": 1,
+            "5beed0f50db834001c062b12": 1,
+            "5cc82d76e24e8d00134b4b83": 1,
+            "5fc3e272f8b6a877a729eac5": 1,
+            "5aafa857e5b5b00018480968": 1,
+            "5bfea6e90db834001b7347f3": 1,
+            "5cadfbf7ae92152ac412eeef": 1,
+            "628a60ae6b1d481ff772e9c8": 1,
+            "628b5638ad252a16da6dd245": 1,
+            "5d43021ca4b9362eab4b5e25": 1,
+            "58948c8e86f77409493f7266": 1,
+            "62e14904c2699c0ec93adc47": 1,
+            "5c46fbd72e2216398b5a8c9c": 1,
+            "5df8ce05b11454561e39243b": 1,
+            "5df24cf80dee1b22f862e9bc": 1,
+            "5f2a9575926fd9352339381f": 1,
+            "6410733d5dd49d77bd07847e": 1,
+            "5ac66cb05acfc40198510a10": 1,
+            "5ac66d015acfc400180ae6e4": 1,
+            "57c44b372459772d2b39b8ce": 1,
+            "65290f395ae2ae97b80fdf2d": 1,
+            "5fb64bc92b1b027b1f50bcf2": 1,
+            "5fc3f2d5900b1d5091531e57": 1,
+            "5a367e5dc4a282000e49738f": 1,
+            "65268d8ecb944ff1e90ea385": 1,
+            "5e848cc2988a8701445df1e8": 1,
+            "5a7828548dc32e5a9c28b516": 1
+        },
+        "defaultPresetsOnly": true,
+        "foundInRaid": true,
+        "weaponModRewardLimits": {
+            "5448bc234bdc2d3c308b4569": {
+                "type": "magazine",
+                "min": 2,
+                "max": 4
+            },
+            "55818b164bdc2ddc698b456c": {
+                "type": "laserLight",
+                "min": 1,
+                "max": 2
+            },
+            "55818ad54bdc2ddc698b4569": {
+                "type": "collimator",
+                "min": 0,
+                "max": 2
+            },
+            "55818acf4bdc2dde698b456b": {
+                "type": "compactCollimator",
+                "min": 0,
+                "max": 2
+            },
+            "55818b224bdc2dde698b456f": {
+                "type": "mount",
+                "min": 1,
+                "max": 2
+            },
+            "555ef6e44bdc2de9068b457e": {
+                "type": "barrel",
+                "min": 1,
+                "max": 1
+            },
+            "55818add4bdc2d5b648b456f": {
+                "type": "assaultScope",
+                "min": 0,
+                "max": 1
+            },
+            "55818ae44bdc2dde698b456c": {
+                "type": "opticScope",
+                "min": 0,
+                "max": 1
+            },
+            "55818af64bdc2d5b648b4570": {
+                "type": "foregrip",
+                "min": 0,
+                "max": 1
+            },
+            "550aa4cd4bdc2dd8348b456c": {
+                "type": "silencer",
+                "min": 0,
+                "max": 2
+            },
+            "55818b084bdc2d5b648b4571": {
+                "type": "flashlight",
+                "min": 0,
+                "max": 1
+            },
+            "55818a104bdc2db9688b4569": {
+                "type": "handguard",
+                "min": 0,
+                "max": 2
+            }
+        },
+        "rewardTypeLimits": {
+            "5448e8d04bdc2ddf718b4569": {
+                "type": "food",
+                "min": 2,
+                "max": 8
+            },
+            "5448f3a64bdc2d60728b456a": {
+                "type": "stim",
+                "min": 2,
+                "max": 5
+            },
+            "543be5cb4bdc2deb348b4568": {
+                "type": "ammobox",
+                "min": 2,
+                "max": 5
+            },
+            "5448f3ac4bdc2dce718b4569": {
+                "type": "medical",
+                "min": 2,
+                "max": 7
+            },
+            "5447e1d04bdc2dff2f8b4567": {
+                "type": "knife",
+                "min": 0,
+                "max": 0
+            }
+        },
+        "ammoBoxWhitelist": [
+            "648983d6b5a2df1c815a04ec",
+            "6489848173c462723909a14b",
+            "648984b8d5b4df6140000a1a",
+            "648984e3f09d032aa9399d53",
+            "6489851fc827d4637f01791b",
+            "6489854673c462723909a14e",
+            "648985c074a806211e4fb682",
+            "6579847c5a0e5879d12f2873",
+            "648987d673c462723909a151",
+            "648986bbc827d4637f01791e",
+            "64898583d5b4df6140000a1d",
+            "5c1262a286f7743f8a69aab2",
+            "6489870774a806211e4fb685",
+            "6489879db5a2df1c815a04ef",
+            "657023f81419851aef03e6f1",
+            "657023decfc010a0f50069ec",
+            "65702546cfc010a0f5006a1f",
+            "5737250c2459776125652acc",
+            "657024b8bfc87b3a34093232",
+            "65702474bfc87b3a34093226"
+        ],
+        "allowBossItems": false
+    },
+    "customMoneyTpls": [],
+    "skillGainMultiplers": {
+        "Strength": 1
+    }
+}
